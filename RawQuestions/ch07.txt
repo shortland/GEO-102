@@ -1,0 +1,796 @@
+CHAPTER 07: Metamorphism: A Process of Change
+
+MULTIPLE CHOICE
+
+	1.	Preexisting rock that is subsequently altered to form a metamorphic rock is termed a ________.
+a.
+xenolith
+c.
+protolith
+b.
+source rock
+d.
+phenocryst
+
+
+ANS:	C	DIF:	Easy	REF:	7.1	
+OBJ:	Understand what metamorphism is, and why it takes place.		
+MSC:	Remembering		
+
+	2.	________ commonly serves as a protolith in the formation of quartzite.
+a.
+Limestone
+c.
+Shale
+b.
+Sandstone
+d.
+Slate
+
+
+ANS:	B	DIF:	Moderate	REF:	7.3	
+OBJ:	Understand what metamorphism is, and why it takes place.		
+MSC:	Remembering		
+
+	3.	________ commonly serves as a protolith in the formation of slate.
+a.
+Limestone
+c.
+Shale
+b.
+Sandstone
+d.
+Basalt
+
+
+ANS:	C	DIF:	Moderate	REF:	7.3	
+OBJ:	Understand what metamorphism is, and why it takes place.		
+MSC:	Remembering		
+
+	4.	Broadly, metamorphism involves ________.
+a.
+the settling of crystals in a melt as it cools
+b.
+the sorting of grains by size, as accomplished by rivers and beach waves
+c.
+the cementation of loose grains and the precipitation of new minerals into pore spaces
+d.
+changes in mineralogy and texture in response to heat and stress
+
+
+ANS:	D	DIF:	Easy	REF:	7.1	
+OBJ:	Understand what metamorphism is, and why it takes place.		
+MSC:	Understanding		
+
+	5.	The blueschist facies is a metamorphic realm of ________.
+a.
+high temperature and pressure
+b.
+low temperature and pressure
+c.
+high temperature but relatively low pressure
+d.
+high pressure but relatively low temperature
+
+
+ANS:	D	DIF:	Moderate	REF:	7.4	
+OBJ:	Understand what metamorphism is, and why it takes place.		
+MSC:	Understanding		
+
+	6.	Which of the following processes CANNOT occur in the formation of metamorphic rock?
+a.
+the realignment of minerals so that they develop a preferred orientation
+b.
+the segregation of minerals into layers of different compositions
+c.
+the solid-state rearrangement of atoms or ions to create a new assemblage of minerals
+d.
+complete remelting of the rock, followed by solidification to form a new rock
+
+
+ANS:	D	DIF:	Moderate	REF:	7.2	
+OBJ:	Understand what metamorphism is, and why it takes place.		
+MSC:	Understanding		
+
+	7.	A buried body of shale is subjected to differential stress, causing clay minerals to realign and produce slate. This is an example of ________.
+a.
+diagenesis
+c.
+metamorphism
+b.
+erosion
+d.
+weathering
+
+
+ANS:	C	DIF:	Moderate	REF:	7.2	
+OBJ:	Understand what metamorphism is, and why it takes place.		
+MSC:	Applying
+
+	8.	Clay minerals within a buried body of slate are recrystallized at high temperatures and pressures to form mica, producing a rock called phyllite. This is an example of ________.
+a.
+diagenesis
+c.
+metamorphism
+b.
+erosion
+d.
+weathering
+
+
+ANS:	C	DIF:	Moderate	REF:	7.2	
+OBJ:	Understand what metamorphism is, and why it takes place.		
+MSC:	Applying
+
+	9.	Which list properly orders metamorphic rocks from lowest grade to highest grade?
+a.
+conglomerate, sandstone, siltstone, and shale
+b.
+shale, slate, phyllite, and quartzite
+c.
+slate, phyllite, schist, and gneiss
+d.
+gneiss, phyllite, schist, and slate
+
+
+ANS:	C	DIF:	Difficult	REF:	7.3	
+OBJ:	Understand what metamorphism is, and why it takes place.		
+MSC:	Applying
+
+	10.	The mineral assemblage within metamorphic rock is ________.
+a.
+always identical to that found within its protolith
+b.
+dependent only on the mineral assemblage of its protolith
+c.
+dependent only on the temperature and pressure of formation
+d.
+dependent on both the mineral content of its protolith and the temperature and pressure of formation
+
+
+ANS:	D	DIF:	Difficult	REF:	7.3	
+OBJ:	Understand what metamorphism is, and why it takes place.		
+MSC:	Analyzing
+
+	11.	The net chemical change in metamorphic rock induced by a reaction with hot groundwater is termed ________.
+a.
+foliation
+c.
+anachronism
+b.
+metasomatism
+d.
+hydrosomatism
+
+
+ANS:	B	DIF:	Easy	REF:	7.2	
+OBJ:	Understand how changes in temperature, pressure, and stress can cause metamorphism.
+MSC:	Remembering		
+
+	12.	Foliation is the alignment of ________ in a metamorphic rock.
+a.
+minerals
+c.
+stress
+b.
+strata
+d.
+facies
+
+
+ANS:	A	DIF:	Easy	REF:	7.2	
+OBJ:	Understand how changes in temperature, pressure, and stress can cause metamorphism.
+MSC:	Remembering		
+
+	13.	Metamorphism occurs at temperatures between ________ and ________.
+a.
+diagenesis; lithification
+c.
+magmatism; sedimentation
+b.
+diagenesis; melting
+d.
+melting; pressure solution
+
+
+ANS:	B	DIF:	Moderate	REF:	7.2	
+OBJ:	Understand how changes in temperature, pressure, and stress can cause metamorphism.
+MSC:	Remembering		
+
+	14.	Which of the following processes CANNOT induce metamorphism?
+a.
+contact with a hot pluton
+b.
+contact with hydrothermal fluids
+c.
+heat and pressure associated with deep burial
+d.
+cementation and compaction of grains during diagenesis
+
+
+ANS:	D	DIF:	Easy	REF:	7.2	
+OBJ:	Understand how changes in temperature, pressure, and stress can cause metamorphism.
+MSC:	Understanding		
+
+	15.	The application of ________ during metamorphism causes elongated crystals to align parallel with each other. When this happens, the rock develops ________.
+a.
+pressure; a homogeneous texture
+c.
+high temperatures; foliation
+b.
+differential stress; foliation
+d.
+pressure; foliation
+
+
+ANS:	B	DIF:	Moderate	REF:	7.2	
+OBJ:	Understand how changes in temperature, pressure, and stress can cause metamorphism.
+MSC:	Understanding		
+
+	16.	Preferential stress will cause crystals to rotate into a preferred orientation unless the crystals are ________.
+a.
+primarily mica
+c.
+equant
+b.
+platy
+d.
+elongate
+
+
+ANS:	C	DIF:	Difficult	REF:	7.2	
+OBJ:	Understand how changes in temperature, pressure, and stress can cause metamorphism.
+MSC:	Understanding		
+
+	17.	The image below shows ________.
+
+a.
+foliation
+c.
+pressure solution
+b.
+migmatites
+d.
+metasomatism
+
+
+ANS:	A	DIF:	Easy	REF:	7.2	
+OBJ:	Understand how changes in temperature, pressure, and stress can cause metamorphism.
+MSC:	Applying
+
+	18.	Clay minerals within a slate are changed into mica minerals due to the application of heat to a rock. This is an example of ________
+a.
+pressure solution
+c.
+plastic deformation
+b.
+neocrystallization
+d.
+phase change
+
+
+ANS:	B	DIF:	Easy	REF:	7.2	
+OBJ:	Understand how changes in temperature, pressure, and stress can cause metamorphism.
+MSC:	Applying
+
+	19.	Spreading peanut butter on bread is an application of ________.
+a.
+compressive stress
+c.
+shear stress
+b.
+pressure
+d.
+metasomatism
+
+
+ANS:	C	DIF:	Difficult	REF:	7.2	
+OBJ:	Understand how changes in temperature, pressure, and stress can cause metamorphism.
+MSC:	Applying
+
+	20.	The figure below shows the application of ________.
+
+a.
+tension
+c.
+tensional stress
+b.
+pressure
+d.
+shear stress
+
+
+ANS:	D	DIF:	Moderate	REF:	7.2	
+OBJ:	Understand how changes in temperature, pressure, and stress can cause metamorphism.
+MSC:	Analyzing
+
+	21.	Heating up a rock causes the atoms in the rock to vibrate and break their bonds. The atoms can then move slightly and create new bonds with nearby atoms. This process is called ________.
+a.
+preferred orientation
+c.
+plastic deformation
+b.
+solid-state diffusion
+d.
+melting
+
+
+ANS:	B	DIF:	Easy	REF:	7.2	
+OBJ:	Understand why metamorphism alters the texture and mineral content of rocks, and how foliation develops.	MSC:	Remembering		
+
+	22.	The development of a preferred orientation of large, flaky mica crystals within metamorphic rock is termed ________.
+a.
+slaty cleavage
+c.
+schistosity
+b.
+phyllitic luster
+d.
+compositional banding
+
+
+ANS:	C	DIF:	Easy	REF:	7.3	
+OBJ:	Understand why metamorphism alters the texture and mineral content of rocks, and how foliation develops.	MSC:	Remembering		
+
+	23.	________ commonly serves as a protolith in the formation of marble.
+a.
+Limestone
+c.
+Shale
+b.
+Sandstone
+d.
+Gneiss
+
+
+ANS:	A	DIF:	Moderate	REF:	7.3	
+OBJ:	Understand why metamorphism alters the texture and mineral content of rocks, and how foliation develops.	MSC:	Remembering		
+
+	24.	Foliated metamorphic rocks possess ________.
+a.
+leafy plant fossils (ancient foliage)
+b.
+a homogeneous texture resulting from randomly oriented grains
+c.
+mineral grains in preferred orientations or patterns of association (banding)
+d.
+minerals precipitated directly from seawater
+
+
+ANS:	C	DIF:	Easy	REF:	7.3	
+OBJ:	Understand why metamorphism alters the texture and mineral content of rocks, and how foliation develops.	MSC:	Understanding		
+
+	25.	In the formation of gneiss from granite, distinctive compositional bands form because of ________.
+a.
+crystals migrating within the rock
+b.
+crystals dissolving, with atoms and ions migrating and reorganizing as new crystals
+c.
+crystals melting, with new crystals solidifying in color bands
+d.
+chemical reactions with groundwater
+
+
+ANS:	B	DIF:	Moderate	REF:	7.3	
+OBJ:	Understand why metamorphism alters the texture and mineral content of rocks, and how foliation develops.	MSC:	Understanding		
+
+	26.	Slaty cleavage, schistosity, and compositional banding are all examples of ________.
+a.
+mineral cleavage
+c.
+recrystallization
+b.
+foliation
+d.
+metamorphic facies
+
+
+ANS:	B	DIF:	Moderate	REF:	7.3	
+OBJ:	Understand why metamorphism alters the texture and mineral content of rocks, and how foliation develops.	MSC:	Understanding		
+
+	27.	Rocks subjected to ________ feel a squeezing motion.
+a.
+metasomatism
+c.
+compression
+b.
+diagenesis
+d.
+extension
+
+
+ANS:	C	DIF:	Easy	REF:	7.2	
+OBJ:	Understand why metamorphism alters the texture and mineral content of rocks, and how foliation develops.	MSC:	Applying
+
+	28.	If mineral grains have been smeared out, the rock was subjected to ________.
+a.
+shear
+c.
+tension
+b.
+compression
+d.
+extension
+
+
+ANS:	A	DIF:	Easy	REF:	7.2	
+OBJ:	Understand why metamorphism alters the texture and mineral content of rocks, and how foliation develops.	MSC:	Applying
+
+	29.	What was the direction of compression that formed the foliation in the image below?
+
+a.
+top and bottom, pressing inward
+b.
+both sides, pressing inward
+c.
+top and bottom, pulling outward
+d.
+in and out of the image, pulling outward
+
+
+ANS:	A	DIF:	Difficult	REF:	7.2	
+OBJ:	Understand why metamorphism alters the texture and mineral content of rocks, and how foliation develops.	MSC:	Applying
+
+	30.	Marble and quartzite are nonfoliated rocks because ________.
+a.
+they are never found beneath fault zones or collisional mountain ranges
+b.
+both are dominated by minerals that produce equant grains
+c.
+both are dominated by minerals with crystalline structures that cannot be dissolved
+d.
+dynamothermal metamorphism can break down the structures of their constituent minerals, but neither of these minerals is stable in that metamorphic environment
+
+
+ANS:	B	DIF:	Difficult	REF:	7.3	
+OBJ:	Understand why metamorphism alters the texture and mineral content of rocks, and how foliation develops.	MSC:	Analyzing
+
+	31.	Consult the figure below. The region of thermally metamorphosed rock surrounding a cooled pluton is called a(n) ________.
+
+a.
+shear zone
+c.
+chilled margin
+b.
+aureole
+d.
+metamorphic ring
+
+
+ANS:	B	DIF:	Easy	REF:	7.4	
+OBJ:	Understand where metamorphism occurs, in the context of plate tectonics theory.
+MSC:	Remembering		
+
+	32.	Thermal (contact) metamorphism occurs ________.
+a.
+in areas surrounding igneous intrusions
+b.
+only where gneiss is in contact with schist
+c.
+as a consequence of the sinking of a broad region to great depth
+d.
+only at the surface, where rock is in contact with the atmosphere
+
+
+ANS:	A	DIF:	Easy	REF:	7.4	
+OBJ:	Understand where metamorphism occurs, in the context of plate tectonics theory.
+MSC:	Remembering		
+
+	33.	Regional metamorphism ________.
+a.
+takes place at cool temperatures and low pressure
+b.
+takes place at cool temperatures but high pressure
+c.
+is another name for thermal metamorphism
+d.
+is another name for dynamothermal metamorphism
+
+
+ANS:	D	DIF:	Moderate	REF:	7.4	
+OBJ:	Understand where metamorphism occurs, in the context of plate tectonics theory.
+MSC:	Remembering		
+
+	34.	Dynamothermal (regional) metamorphism occurs when ________.
+a.
+rock becomes deeply buried during continental collision and mountain building
+b.
+regression of the sea leads to erosion of sedimentary cover on a body of rock
+c.
+the upper surface of a body of rock develops a thick soil profile
+d.
+a pluton causes metamorphism in a small surrounding region
+
+
+ANS:	A	DIF:	Easy	REF:	7.4	
+OBJ:	Understand where metamorphism occurs, in the context of plate tectonics theory.
+MSC:	Understanding		
+
+	35.	The rapid, deep burial of sediments in an accretionary prism leads to the formation of a metamorphic rock termed ________.
+a.
+blueschist
+c.
+migmatite
+b.
+greenschist
+d.
+gneiss
+
+
+ANS:	A	DIF:	Moderate	REF:	7.4	
+OBJ:	Understand where metamorphism occurs, in the context of plate tectonics theory.
+MSC:	Understanding		
+
+	36.	The rock hornfel is often formed due to ________ metamorphism.
+a.
+dynamothermal
+c.
+dynamic
+b.
+hydrothermal
+d.
+thermal
+
+
+ANS:	D	DIF:	Difficult	REF:	7.4	
+OBJ:	Understand where metamorphism occurs, in the context of plate tectonics theory.
+MSC:	Understanding		
+
+	37.	________ metamorphism affects the greatest volumes of rock and produces the greatest variety in metamorphic rock types.
+a.
+Thermal
+c.
+Dynamic
+b.
+Dynamothermal
+d.
+Shock
+
+
+ANS:	B	DIF:	Moderate	REF:	7.4	
+OBJ:	Understand where metamorphism occurs, in the context of plate tectonics theory.
+MSC:	Applying
+
+	38.	Thermal (contact) metamorphism produces ________.
+a.
+foliated rocks only
+b.
+nonfoliated rocks only
+c.
+both foliated and nonfoliated rocks
+d.
+Thermal metamorphism does not produce any metamorphic rocks.
+
+
+ANS:	B	DIF:	Moderate	REF:	7.4	
+OBJ:	Understand where metamorphism occurs, in the context of plate tectonics theory.
+MSC:	Applying
+
+	39.	Mylonites, formed from dynamic metamorphism, typically do NOT display ________.
+a.
+foliation roughly parallel to a fault
+b.
+very fine grains
+c.
+shear zones
+d.
+bands of randomly oriented mica grains
+
+
+ANS:	D	DIF:	Moderate	REF:	7.4	
+OBJ:	Understand where metamorphism occurs, in the context of plate tectonics theory.
+MSC:	Applying
+
+	40.	Within a single mountain range, ________.
+a.
+only low-grade metamorphic rocks are likely to be found
+b.
+only high-grade metamorphic rocks are likely to be found
+c.
+only nonfoliated metamorphic rocks are likely to be found
+d.
+it is possible to find a variety of metamorphic rocks produced in distinct facies, including high-, intermediate-, and low-grade rocks
+
+
+ANS:	D	DIF:	Difficult	REF:	7.4	
+OBJ:	Understand where metamorphism occurs, in the context of plate tectonics theory.
+MSC:	Analyzing
+
+	41.	Two common metamorphic rocks that typically lack foliation are ________ and ________.
+a.
+slate; phyllite
+c.
+quartzite; marble
+b.
+gneiss; migmatite
+d.
+schist; metaconglomerate
+
+
+ANS:	C	DIF:	Moderate	REF:	7.3	
+OBJ:	Understand how geologists describe and classify metamorphic rocks.
+MSC:	Remembering		
+
+	42.	________ is a common foliated metamorphic rock.
+a.
+Marble
+c.
+Hornfel
+b.
+Gneiss
+d.
+Diorite
+
+
+ANS:	B	DIF:	Easy	REF:	7.3	
+OBJ:	Understand how geologists describe and classify metamorphic rocks.
+MSC:	Remembering		
+
+	43.	Which of the following is a high-grade metamorphic rock?
+a.
+quartzite
+c.
+gneiss
+b.
+slate
+d.
+schist
+
+
+ANS:	C	DIF:	Moderate	REF:	7.3	
+OBJ:	Understand how geologists describe and classify metamorphic rocks.
+MSC:	Remembering		
+
+	44.	Geologists classify metamorphic rocks according to ________.
+a.
+whether they are foliated
+c.
+the percentage of silica
+b.
+whether they contain pseudomorphs
+d.
+the size of their crystals
+
+
+ANS:	A	DIF:	Easy	REF:	7.3	
+OBJ:	Understand how geologists describe and classify metamorphic rocks.
+MSC:	Understanding		
+
+	45.	Nonfoliated metamorphic rocks are classified based on their ________.
+a.
+metamorphic texture
+c.
+percentage of preferred orientation
+b.
+mineral composition
+d.
+proximity to the metamorphic source
+
+
+ANS:	B	DIF:	Moderate	REF:	7.3	
+OBJ:	Understand how geologists describe and classify metamorphic rocks.
+MSC:	Understanding		
+
+	46.	What is a primary difference between phyllite and schist?
+a.
+Schist contains mica, whereas phyllite contains only clay.
+b.
+Phyllite contains mica, whereas schist contains only clay.
+c.
+Mica crystals within schist are larger than those within phyllite.
+d.
+Mica crystals within phyllite are larger than those within schist.
+
+
+ANS:	C	DIF:	Difficult	REF:	7.3	
+OBJ:	Understand how geologists describe and classify metamorphic rocks.
+MSC:	Understanding		
+
+	47.	Which of the following images is of a foliated metamorphic rock?
+
+a.
+A
+c.
+C
+b.
+B
+d.
+D
+
+
+ANS:	B	DIF:	Easy	REF:	7.3	
+OBJ:	Understand how geologists describe and classify metamorphic rocks.
+MSC:	Applying
+
+	48.	Which of the following processes is NOT involved directly with the creation of foliation?
+a.
+recrystallization
+c.
+compression
+b.
+preferential stress
+d.
+shear stress
+
+
+ANS:	A	DIF:	Moderate	REF:	7.3	
+OBJ:	Understand how geologists describe and classify metamorphic rocks.
+MSC:	Applying
+
+	49.	A geologist finds a nonfoliated metamorphic rock that is composed entirely of calcite. What is the name of the rock?
+a.
+hornfels
+c.
+quartzite
+b.
+slate
+d.
+marble
+
+
+ANS:	D	DIF:	Easy	REF:	7.3	
+OBJ:	Understand how geologists describe and classify metamorphic rocks.
+MSC:	Applying
+
+	50.	Foliated rock is created by a preferential stress oriented ________ the foliation.
+a.
+the same way as
+c.
+perpendicular to
+b.
+diagonally to
+d.
+parallel to
+
+
+ANS:	C	DIF:	Moderate	REF:	7.3	
+OBJ:	Understand how geologists describe and classify metamorphic rocks.
+MSC:	Analyzing
+
+SHORT ANSWER
+
+	1.	Metamorphism includes a solid-state change in a rock due to heat, pressure, and/or hydrothermal fluids. Explain what is meant by solid-state change.
+
+ANS:	
+A solid-state change takes place when the rock is solid, in other words the rock has not been melted or weathered into a solution. All changes in size, shape, or composition of minerals is done while the rock remains solid.
+
+DIF:	Easy	REF:	7.1	
+OBJ:	Understand what metamorphism is, and why it takes place.		
+MSC:	Understanding		
+
+	2.	Describe the resulting metamorphism that occurs next to an igneous intrusion.
+
+ANS:	
+A metamorphic aureole forms next to an intrusion. Each layer of the aureole has progressively lower-grade metamorphism the farther away from the intrusion it is. The metamorphism created by the intrusion is called thermal metamorphism or contact metamorphism and takes place in the absence of pressure.
+
+DIF:	Moderate	REF:	7.4	
+OBJ:	Understand how changes in temperature, pressure, and stress can cause metamorphism.
+MSC:	Understanding		
+
+	3.	Draw the orientation of the preferential stress that created the foliation in the image below.
+
+
+ANS:	
+See image below. Red arrows indicate stress orientation.
+
+
+DIF:	Moderate	REF:	7.1 | 7.2	
+OBJ:	Understand why metamorphism alters the texture and mineral content of rocks, and how foliation develops.	MSC:	Applying
+
+	4.	During dynamothermal metamorphism several metamorphic processes are at work. Describe these processes and what effect they might have on the rocks subjected to metamorphism.
+
+ANS:	
+Dynamothermal metamorphism occurs in the cores of mountain ranges and thus subjects rocks to changes in heat, pressure, and preferential stresses. Temperatures increase within the cores of mountains due to the geothermal gradient and igneous intrusions; this will cause changes in the mineral assemblages of the rocks including recrystallization and neocrystallization. Rocks within mountain cores are also subjected to high pressures due to increased overburden, compression, and shear stress. The increase in stress and pressure on the rocks will work to align minerals (by rotation and plastic deformation) to the preferred orientation and may also cause pressure solution to occur along grain boundaries.
+
+DIF:	Difficult	REF:	7.4	
+OBJ:	Understand where metamorphism occurs, in the context of plate tectonics theory.
+MSC:	Analyzing
+
+	5.	Metamorphic grade describes the intensity or degree of metamorphism. The metamorphic grade of a rock is determined mainly by the temperature and amount of recrystallization or neocrystallization to which a rock is subjected. List the following rocks in order from low-grade to high-grade metamorphic rocks and then describe the changes seen in the suite of rocks as the grade is increased: gneiss, slate, schist, phyllite, and migmatite.
+
+ANS:	
+Order from low grade to high grade: slate, phyllite, schist, gneiss, and migmatite. The changes seen in these rocks as they progress from low grade to high grade are primarily in mineral assemblage and size. At the lowest grade, slate contains clay minerals that are preferentially aligned with each other (and the stress direction). As metamorphic grade increases to phyllite the clay minerals begin to recrystallize as mica minerals; however, they remain very small. As the rock progresses to schist the mica minerals continue to grow larger and begin to form a series of wavy layers referred to as schistocity. In addition, it is common to have new minerals form as porphyroblasts. The jump from schist to gneiss shows a separation of light-colored and dark-colored minerals into distinct color bands. Felsic minerals such as quartz and feldspar grow larger as well. If the temperature reaches a bit past the melting point of felsic minerals, then the rock becomes a migmatite with light-colored layers of much larger felsic crystals that have been partially melted and recrystallized.
+
+DIF:	Difficult	REF:	7.3	
+OBJ:	Understand how geologists describe and classify metamorphic rocks.
+MSC:	Analyzing

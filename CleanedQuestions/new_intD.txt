@@ -1,0 +1,323 @@
+INTERLUDE D: The Earth s Interior Revisited: Insights from Geophysics
+
+MULTIPLE CHOICE
+
+1. The time it takes for a seismic wave to travel from the focus to a seismometer is called the ________.
+a. wave front time
+c. travel time
+b. P-S wave arrival distance
+d. seismic ray time
+
+
+ANS:CDIF:EasyREF:D.2
+OBJ:Understand how seismic waves behave as they pass through the Earth’s interior.
+MSC:Remembering
+
+2. Seismic waves travel ________ in solids than in liquids; however, unlike P-waves, S-waves ________ travel through liquids.
+a. slower; can
+c. faster; can
+b. slower; cannot
+d. faster; cannot
+
+
+ANS:DDIF:ModerateREF:D.2
+OBJ:Understand how seismic waves behave as they pass through the Earth’s interior.
+MSC:Remembering
+
+3. The absence of ________ can indicate the presence of magma in the crust.
+a. P-waves
+c. surface waves
+b. S-waves
+d. body waves
+
+
+ANS:BDIF:EasyREF:D.2
+OBJ:Understand how seismic waves behave as they pass through the Earth’s interior.
+MSC:Understanding
+
+4. Seismic waves ________ when they move from the crust into the mantle.
+a. speed up
+c. reverse direction
+b. slow down
+d. are not affected
+
+
+ANS:ADIF:ModerateREF:D.2
+OBJ:Understand how seismic waves behave as they pass through the Earth’s interior.
+MSC:Understanding
+
+5. If a P-wave is traveling through Earth and encounters a molten magma chamber, what will happen to the velocity of the P-wave?
+a. It will slow down.
+c. It will stay at the same speed.
+b. It will speed up.
+d. It will drop to zero.
+
+
+ANS:ADIF:EasyREF:D.2
+OBJ:Understand how seismic waves behave as they pass through the Earth’s interior.
+MSC:Applying
+
+6. If a seismic wave is refracted upward at a boundary, what can be said about the material through which the wave is traveling?
+a. The wave is moving through two materials of the same velocity.
+b. The wave is moving from a faster material into a slower material.
+c. The wave is moving from a slower material into a faster material.
+d. The wave is traveling through a molten magma chamber.
+
+
+ANS:CDIF:ModerateREF:D.2
+OBJ:Understand how seismic waves behave as they pass through the Earth’s interior.
+MSC:Applying
+
+7. Which layer of Earth has the highest density?
+a. outer core
+c. mantle
+b. inner core
+d. crust
+
+
+ANS:BDIF:EasyREF:D.3
+OBJ:Understand what the study of seismic waves can tell us about layering inside the Earth.
+MSC:Remembering
+
+8. The core consists of two layers: the ________ inner core and ________ outer core.
+a. iron; nickel
+c. solid; liquid
+b. nickel; iron
+d. liquid; solid
+
+
+ANS:DDIF:EasyREF:D.3
+OBJ:Understand what the study of seismic waves can tell us about layering inside the Earth.
+MSC:Remembering
+
+9. A seismic wave will speed up when passing from the crust to the mantle because the mantle is made of ________.
+a. granite
+c. peridotite
+b. magma
+d. basalt
+
+
+ANS:CDIF:EasyREF:D.3
+OBJ:Understand what the study of seismic waves can tell us about layering inside the Earth.
+MSC:Understanding
+
+10. The core-mantle boundary was first discovered when seismologists noticed a(n) ________ on the opposite side of Earth.
+a. seismic discontinuity
+c. S-wave shadow
+b. low velocity zone
+d. P-wave shadow
+
+
+ANS:DDIF:EasyREF:D.3
+OBJ:Understand what the study of seismic waves can tell us about layering inside the Earth.
+MSC:Understanding
+
+11. The graph below shows that in general P-wave velocities ________ as they travel through the mantle.
+
+a. slow down
+c. speed up
+b. stay the same
+d. go to zero
+
+
+ANS:BDIF:EasyREF:D.3
+OBJ:Understand what the study of seismic waves can tell us about layering inside the Earth.
+MSC:Applying
+
+12. You are studying the seismic data from Mars when you notice that there are no S-waves recorded from 130° through 180° on the opposite side of the planet. What does this information tell you about the interior of Mars?
+a. There is a layer of solid material in the interior of Mars.
+b. There is a layer of liquid material in the interior of Mars.
+c. There is a layer with a higher-velocity material than the crust below.
+d. There is a layer with a lower-velocity material than the crust below.
+
+
+ANS:BDIF:ModerateREF:D.3
+OBJ:Understand what the study of seismic waves can tell us about layering inside the Earth.
+MSC:Applying
+
+13. In the following graph, why does the line for S-waves NOT appear in the outer core?
+
+a. S-waves cannot travel through the outer core because it is solid.
+b. S-waves cannot travel through the outer core because it is liquid.
+c. S-waves disappear after being reflected at the core-mantle boundary.
+d. S-waves cannot travel that far into Earth due to the high amount of iron.
+
+
+ANS:BDIF:DifficultREF:D.3
+OBJ:Understand what the study of seismic waves can tell us about layering inside the Earth.
+MSC:Analyzing
+
+14. In the picture below, when the ship is filled with cargo it sinks into the water until the mass of water displaced is equal to the mass of the cargo. The ship is then said to be ________.
+
+a. an equipotential surface
+c. equal to the geoid
+b. a self-exciting dynamo
+d. in isostatic equilibrium
+
+
+ANS:DDIF:ModerateREF:D.4
+OBJ:Understand that the Earth’s gravitational attraction varies with location and what these variations mean.MSC:Remembering
+
+15. Earth’s gravity is best represented by an equipotential surface that contains bumps and depressions, where areas of higher or lower gravity appear over Earth. This representation is called the ________.
+a. reference geoid
+c. isostasy
+b. gravitational potential
+d. geoid
+
+
+ANS:DDIF:ModerateREF:D.4
+OBJ:Understand that the Earth’s gravitational attraction varies with location and what these variations mean.MSC:Remembering
+
+16. Why would the gravity anomaly over a deep-ocean trench be negative?
+a. because the bathymetry of the trench dips very far below sea level
+b. because the crust being pulled into the trench is less dense than sediments above
+c. because water fills the space above the subducting slab and is much less dense than rock
+d. because the buoyant magma created at the subduction zones is less dense than the rock
+
+
+ANS:CDIF:DifficultREF:D.4
+OBJ:Understand that the Earth’s gravitational attraction varies with location and what these variations mean.MSC:Understanding
+
+17. If a gravity anomaly is negative, what does that imply about the material underground?
+a. The material is much more dense rock.
+b. The material is much less dense rock.
+c. The material is an underground ore.
+d. The material is composed of mantle.
+
+
+ANS:BDIF:EasyREF:D.4
+OBJ:Understand that the Earth’s gravitational attraction varies with location and what these variations mean.MSC:Applying
+
+18. A mountain range made of granite would produce a(n) ________ gravity anomaly.
+a. positive
+c. isostatic
+b. negative
+d. magnetized
+
+
+ANS:BDIF:DifficultREF:D.4
+OBJ:Understand that the Earth’s gravitational attraction varies with location and what these variations mean.MSC:Applying
+
+19. Why is Earth’s gravitational field NOT smooth?
+a. Gravitational fields are never smooth due to changes in the shape of the planets.
+b. Earth is close to the Sun, which pulls on the gravitational field and causes it to be misshapen.
+c. The density of materials on Earth is not uniform and the surface contains changes in topography.
+d. The gravitational field is much lower for any area that is covered in water and thus is different over land versus water.
+
+
+ANS:CDIF:ModerateREF:D.4
+OBJ:Understand that the Earth’s gravitational attraction varies with location and what these variations mean.MSC:Analyzing
+
+20. Earth’s magnetic field is produced in the ________.
+a. crust
+c. outer core
+b. mantle
+d. inner core
+
+
+ANS:CDIF:EasyREF:D.4
+OBJ:Understand why the Earth’s magnetic field exists and why its strength varies with location.
+MSC:Remembering
+
+21. A positive magnetic anomaly is produced when the measured magnetic field strength is ________ the expected magnetic field strength.
+a. greater than
+c. the same as
+b. less than
+d. the opposite of
+
+
+ANS:ADIF:ModerateREF:D.4
+OBJ:Understand why the Earth’s magnetic field exists and why its strength varies with location.
+MSC:Remembering
+
+22. If you measure the magnetization of an area of igneous rocks and find a large negative anomaly, what does that imply about the rocks?
+a. They were formed during a time of normal polarity of the magnetic field.
+b. They were formed during a time of reversed polarity of the magnetic field.
+c. They were formed on the ocean floor where the rocks are closer to the core.
+d. They were formed on the continental crust in a complex pattern of magnetization.
+
+
+ANS:BDIF:ModerateREF:D.4
+OBJ:Understand why the Earth’s magnetic field exists and why its strength varies with location.
+MSC:Understanding
+
+23. Why are magnetic anomalies of continental crust so much more complicated than those of oceanic crust?
+a. The continents are much older and thus have had more time for the minerals to become magnetized.
+b. The continents contain abundant iron minerals, whereas the oceanic crust does not contain any iron minerals.
+c. The continents contain a random orientation of minerals that become magnetized when they interact with the magnetic field.
+d. The continents contain a complex distribution of igneous intrusions, lava flows, and iron-rich sediments.
+
+
+ANS:DDIF:DifficultREF:D.4
+OBJ:Understand why the Earth’s magnetic field exists and why its strength varies with location.
+MSC:Understanding
+
+24. If a ship towing a magnetometer passes over a piece of crust with a “normal” polarity, what will the magnetic anomaly look like?
+a. The magnetic anomaly will be greater than Earth’s.
+b. The magnetic anomaly will be lower than Earth’s.
+c. The magnetic anomaly will exactly match Earth’s.
+d. The magnetic anomaly will be exactly zero.
+
+
+ANS:ADIF:ModerateREF:D.4
+OBJ:Understand why the Earth’s magnetic field exists and why its strength varies with location.
+MSC:Applying
+
+25. Why does Earth have a magnetic field?
+a. Because all planets have magnetic fields that were created during the early formation of the solar system.
+b. Because Earth’s inner core behaves like a permanent magnet and produces the magnetic field.
+c. Because the motion of the plates generates an electric current that produces the magnetic field.
+d. Because early in Earth’s history the outer core behaved like a moving wire coil in an external magnetic field and produced Earth’s magnetic field.
+
+
+ANS:DDIF:DifficultREF:D.4
+OBJ:Understand why the Earth’s magnetic field exists and why its strength varies with location.
+MSC:Analyzing
+
+SHORT ANSWER
+
+1. If a P-wave is traveling from a layer of mantle peridotite to a layer of limestone crust, what will happen to the P-wave in terms of speed and direction of motion?
+
+ANS:
+The P-wave will slow down and be refracted away from the boundary between the layers.
+
+DIF:DifficultREF:D.2
+OBJ:Understand how seismic waves behave as they pass through the Earth’s interior.
+MSC:Applying
+
+2. Using the image below, explain why Ray M arrives at the seismometer before Ray C.
+
+
+ANS:
+Ray C travels within the crust, which has a lower velocity than the mantle. Ray M travels for most of its path in the faster mantle layer and thus will overtake Ray C and arrive at the seismometer first.
+
+DIF:ModerateREF:D.3
+OBJ:Understand what the study of seismic waves can tell us about layering inside the Earth.
+MSC:Understanding
+
+3. Using the image below, explain why the P-wave velocity drops drastically at the core-mantle boundary. Also, explain why the P-wave velocity speeds up at the inner core–outer core boundary.
+
+
+ANS:
+The P-wave velocity drops at the core-mantle boundary because the outer core is a liquid and P-waves slow down when they enter liquids. The P-wave speeds up when passing from the inner to the outer core for the same reason; the P-wave goes from low-velocity liquid to higher-velocity solid.
+
+DIF:ModerateREF:D.3
+OBJ:Understand what the study of seismic waves can tell us about layering inside the Earth.
+MSC:Understanding
+
+4. Why does a mountain show a positive gravity anomaly?
+
+ANS:
+The mountain contains a large mass of material in one spot; therefore, this will result in a stronger pull of gravity and a positive gravity anomaly.
+
+DIF:EasyREF:D.4
+OBJ:Understand that the Earth’s gravitational attraction varies with location and what these variations mean.MSC:Understanding
+
+5. Large portions of the state of Utah are composed of thick sequences of sedimentary rocks. Would the magnetic anomaly be positive or negative? Why?
+
+ANS:
+The magnetic anomaly over a package of sedimentary rocks would be negative because the rocks do not contain any magnetic minerals and thus will not add to Earth’s magnetic field in the area.
+
+DIF:ModerateREF:D.4
+OBJ:Understand why the Earth’s magnetic field exists and why its strength varies with location.
+MSC:Applying

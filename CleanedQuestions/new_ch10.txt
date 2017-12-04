@@ -1,0 +1,585 @@
+CHAPTER 10: Deep Time: How Old Is Old
+
+MULTIPLE CHOICE
+
+1. ________ ages are used to set the beginning and end points of eras, epochs, and periods on the geologic time scale.
+a. Relative
+c. Radiometric
+b. Systematic
+d. Isotrophic
+
+ANS: C
+
+
+
+2. Several geologic principles are used to determine ________ ages.
+a. relative
+c. absolute
+b. numerical
+d. isotopic
+
+ANS: A
+
+
+
+3. The geologic time scale is broken into a series of eras, epochs, and periods based mainly on the fossils found in each section. This is an example of ________ dating.
+a. relative age
+c. numerical
+b. radiometric
+d. isotopic
+
+ANS: A
+
+
+
+4. A birthdate is an example of a(n) ________ age.
+a. relative
+c. radiocarbon
+b. numerical
+d. isotopic
+
+ANS: A
+
+
+
+5. Which of the answers below accurately reflects the following statement? Rock A is older than rock B but is younger than rock C.
+a. Rock A is the oldest, followed by rock C, and then rock B.
+b. Rock C is the oldest, followed by rock B, and then rock A.
+c. Rock C is the oldest, followed by rock A, and then rock B.
+d. Rock B is the oldest, followed by rock A, and then rock C.
+
+ANS: C
+
+
+
+6. If the relative ages of two formations are known, what else about them can be inferred?
+a. their absolute ages
+b. their fossil assemblages
+c. their lithologies
+d. their relative positions in a sequence of rock layers
+
+ANS: D
+
+
+
+7. In an undisturbed sequence of sedimentary rocks, younger layers overlie older layers, according to the principle of ________.
+a. superposition
+c. original horizontality
+b. original continuity
+d. uniformitarianism
+
+ANS: A
+
+
+
+8. Uniformitarianism is succinctly summarized by which phrase?
+a. The future is the key to the present.
+c. The past is the key to the present.
+b. The present is the key to the past.
+d. The present is the key to the future.
+
+ANS: B
+
+
+
+9. A tilted sequence of sedimentary rocks violates which principle?
+a. superposition
+c. original horizontality
+b. original continuity
+d. uniformitarianism
+
+ANS: C
+
+
+
+10. Within the world’s sedimentary rocks, fossils ________.
+a. are rarely, if ever, found
+c. occur in an ordered sequence
+b. are randomly distributed
+d. are found only in igneous rocks
+
+ANS: C
+
+
+
+11. If an igneous dike cuts across a sequence of sedimentary beds, ________.
+a. the beds must be older
+b. the dike must be older
+c. the beds and the dike must have formed at the same time
+d. their relative ages cannot be determined from the information given
+
+ANS: A
+
+
+
+12. Based on the figure, what is the age of layer 7 relative to layer 3?
+
+a. Layer 7 is younger than layer 3.
+b. Layer 7 is older than layer 3.
+c. Layer 7 and layer 3 are the same rock type, so they are the same age.
+d. Their relative ages cannot be determined.
+
+ANS: A
+
+
+
+13. If a sandstone lies on top of a shale, ________.
+a. the shale must be older, according to the principle of superposition
+b. the sandstone must be older, according to the principle of superposition
+c. the shale must be older, according to the principle of components
+d. their relative ages cannot be determined from the information given
+
+ANS: A
+
+
+
+14. If a basalt body cuts across a fault, what are the relative ages of the basalt and the fault?
+a. The fault must be older, according to the principle of cross-cutting relationships.
+b. The basalt must be older, according to the principle of cross-cutting relationships.
+c. The basalt must be older, according to the principle of original horizontality.
+d. Their relative ages cannot be determined from the information given.
+
+ANS: A
+
+
+
+15. Concerning the relative ages of the granite and sandstone, ________.
+
+a. the granite must be older, according to the principle of superposition
+b. the sandstone must be older, according to the principle of superposition
+c. the granite must be older, according to the principle of components
+d. their relative ages cannot be determined from the information given
+
+ANS: D
+
+
+
+16. An erosional surface between two sequences of flat-lying sedimentary rocks is called a(n) ________.
+a. angular unconformity
+c. nonconformity
+b. disconformity
+d. misconformity
+
+ANS: B
+
+
+
+17. The surface below sedimentary rocks that overlie igneous or metamorphic rocks is termed a(n) ________.
+a. disconformity
+c. nonconformity
+b. angular unconformity
+d. marker bed
+
+ANS: C
+
+
+
+18. Buried erosional surfaces between parallel sedimentary strata are termed ________.
+a. disconformities
+c. nonconformities
+b. angular unconformities
+d. marker beds
+
+ANS: A
+
+
+
+19. Unconformities represent ________ in the rock record.
+a. erosion or nondeposition
+c. changes in size of the sediments
+b. continuing sequences
+d. iridium layers from meteorites
+
+ANS: A
+
+
+
+20. If horizontal sedimentary strata overlie tilted strata (and no fault is present), the surface between the horizontal and tilted strata must be a(n) ________.
+a. conformable sedimentary contact
+c. disconformity
+b. angular unconformity
+d. nonconformity
+
+ANS: B
+
+
+
+21. Which type of unconformity requires there to have been little to no deformation in the rocks before and after the unconformity was created?
+a. disconformity
+c. misconformity
+b. angular unconformity
+d. nonconformity
+
+ANS: A
+
+
+
+22. Which image below shows a nonconformity?
+
+a. A
+c. C
+b. B
+d. D
+
+ANS: B
+
+
+
+23. In the image of the Grand Canyon below, identify the nonconformity.
+
+a. A
+c. C
+b. B
+d. D
+
+ANS: D
+
+
+
+24. The surfaces named contacts #2 and #3 in the image below are examples of ________.
+
+a. conformable contacts
+c. baked contacts
+b. faults
+d. unconformities
+
+ANS: D
+
+
+
+25. In the image below, contact #3 is both a ________ and a(n) ________ at various points.
+
+a. conformable contact; unconformity
+c. nonconformity; angular unconformity
+b. fault; unconformity
+d. disconformity; nonconformity
+
+ANS: D
+
+
+
+26. A ________ consists of a sequence of similar rocks that can be found across a region.
+a. geologic contact
+c. stratigraphic column
+b. stratigraphic formation
+d. marker bed
+
+ANS: B
+
+
+
+27. A ________ is a geologic layer that is distinct enough to allow it to be found regionally and used to correlate rocks.
+a. marker bed
+c. stratigraphic bed
+b. geologic contact
+d. disconformity
+
+ANS: A
+
+
+
+28. Stratigraphic correlation is conducted by matching ________ and ________.
+a. geologic contacts; rock types
+c. lithologic layers; fossils
+b. fossils; unconformities
+d. marker beds; eras
+
+ANS: C
+
+
+
+29. A(n) ________ contact surrounds a pluton.
+a. intrusive
+c. conformable
+b. depositional
+d. fault
+
+ANS: A
+
+
+
+30. A layer of shale that contains a distinctive fossil could be used as a ________.
+a. geologic contact
+c. stratigraphic sequence
+b. marker bed
+d. depositional contact
+
+ANS: B
+
+
+
+31. The ________ represents the global strata from the entire Earth’s history.
+a. stratigraphic formation
+c. geologic column
+b. lithologic sequence
+d. stratigraphic column
+
+ANS: C
+
+
+
+32. The correlation of data from geologic ________ and ________ helped geologists unravel the entire history of Earth.
+a. columns; contacts
+c. formations; contacts
+b. contacts; markers
+d. maps; cross-sections
+
+ANS: D
+
+
+
+33. A geologist in South Dakota finds an assemblage of dinosaur bones in an outcrop for the Hilltown Formation, and his colleague in China discovers an assemblage of bones from a different dinosaur in the Liaoning Formation. What can be said about the two formations?
+a. They are no younger than Cretaceous in age.
+b. They are no older than Jurassic.
+c. They are the exact same age.
+d. They are no younger than Triassic in age.
+
+ANS: A
+
+
+
+34. Two layers of rock contain trilobites that have the same body morphology; however, one rock layer is a shale and the other is an ironstone. Can these two layers be used for correlation?
+a. No, layers with the same lithology can only be used for correlation purposes.
+b. No, the ironstone has been altered by oxidation and thus is older than the shale.
+c. Yes, if the trilobites are the same, then the layers were formed at the same time.
+d. Yes, the ironstone is the altered remains of the shale and thus the layers are the same.
+
+ANS: C
+
+
+
+35. Which of the following statements regarding the geologic column is FALSE?
+a. The geologic column will never be complete because there will always be information that has been lost due to erosion.
+b. The geologic column will never be complete because new formations and fossils are found almost daily that shift the time boundaries.
+c. The geologic column can be seen in its entirety in Ethiopia, where the earliest hominid fossils are found.
+d. By adding numerical ages to the geologic column, geologists continuously change the geologic time scale.
+
+ANS: B
+
+
+
+36. Two atoms of a single element that differ in number of neutrons are said to represent two distinct ________ of that element.
+a. isomers
+c. isotherms
+b. isotopes
+d. atomic species
+
+ANS: B
+
+
+
+37. Which of the following is always the same for different isotopes of a single element?
+a. atomic number
+c. tendency to decay radioactively
+b. atomic mass number
+d. half-life
+
+ANS: A
+
+
+
+38. According to the image below, after one half-life has passed, what is the ratio of parent isotopes to daughter isotopes?
+
+a. 16:0
+c. 4:12
+b. 8:8
+d. 2:16
+
+ANS: B
+
+
+
+39. How is the half-life of a radioactive parent isotope defined?
+a. the time it takes for half of the parent isotope to decay to daughter isotope
+b. half the time it takes for the parent isotope to completely decay to daughter isotopes
+c. the time for parent isotopes to undergo half the decay steps to produce a daughter isotope
+d. half of the average rate of decay of the parent isotope
+
+ANS: A
+
+
+
+40. The closure temperature represents the point when ________.
+a. a magma cools to the point where minerals begin to crystallize
+b. radioactive isotopes begin to decay
+c. isotopes are no longer free to move out of a crystal lattice
+d. the last remaining magma crystallizes
+
+ANS: C
+
+
+
+41. If the ratio of parent to daughter isotopes is 25:75, how many half-lives have passed?
+a. 2
+c. 1
+b. 3
+d. 4
+
+ANS: A
+
+
+
+42. What is the parent-to-daughter isotope ratio if one half-life has passed?
+a. 16:0
+c. 4:12
+b. 8:8
+d. 2:14
+
+ANS: B
+
+
+
+43. How much of a radioactive parent isotope will remain after three half-lives have passed?
+a. one-third
+c. one-eighth
+b. three-halves
+d. one-sixth
+
+ANS: C
+
+
+
+44. In an unweathered sample of igneous rock, the ratio of an unstable isotope to its stable daughter isotope is 1:15. If no daughters were present at the time the rock cooled below closure temperature, and the half-life of the isotope is 50 million years, how old is the rock?
+a. 200 million years
+c. 750 million years
+b. 400 million years
+d. 1 billion years
+
+ANS: A
+
+
+
+45. Radiometric dates applied to sedimentary rocks produce ages that ________.
+a. are just as accurate as when the technique is applied to igneous rocks
+b. are too young (postdate sedimentary deposition)
+c. are too old (predate sedimentary deposition)
+d. represent the time the sediments became lithified
+
+ANS: C
+
+
+
+46. Dendrochronology involves dating of historic and geologic events through the study of ________.
+a. growth layers in shells
+b. oxygen isotope profiles in glacial ice
+c. remnant magnetism in iron-rich minerals
+d. annual growth rings in trees
+
+ANS: D
+
+
+
+47. Seasonal changes create layering in glaciers known as ________.
+a. growth banding
+c. growth layering
+b. rhythmic layering
+d. annual banding
+
+ANS: B
+
+
+
+48. Sedimentary rocks cannot be used to determine dates on the geologic time scale because the numerical age ________.
+a. is the time that the rocks were exposed at the surface
+b. retains too much error associated with diagenesis
+c. is the age of the rocks that make up the sediment
+d. is reset when the sediments are buried and cemented
+
+ANS: C
+
+
+
+49. Relative ages expressed on the geologic time scale primarily resulted from the study of ________.
+a. fossil content and spatial relationships among igneous rocks
+b. fossil content and spatial relationships among sedimentary rocks
+c. radiometric dating of igneous rocks
+d. radiometric dating of sedimentary rocks
+
+ANS: B
+
+
+
+50. In the 1800s Lord Kelvin estimated the age of Earth, utilizing a number of assumptions. Which wrong assumption was the primary reason why his estimate (approximately 20 million years) was so wildly inaccurate?
+a. that Earth was once hotter than it presently is today
+b. that Earth may have been molten when first formed
+c. that no new heat has been added to Earth since its initial formation
+d. that Earth would lose heat over time through radiation into outer space
+
+ANS: C
+
+
+
+SHORT ANSWER
+
+1. Place the layers and geologic events in order from oldest to youngest. Make sure to include all of the layers and events, including the top surface.
+
+Youngest
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oldest
+
+
+
+ANS:
+See below
+Youngest
+Erosion of land surface
+
+Intrusion of basalt dike
+Faulting
+Intrusion of granite pluton
+Folding
+Intrusion of sill
+Sandstone 7
+Shale 6
+Sandstone 5
+Shale 4
+Sandstone 3
+Shale 2
+Oldest
+Limestone 1
+
+
+
+
+2. Describe the plausible geologic history of the rocks in the diagram below.
+
+
+ANS:
+The sediments that make up the sandstone and shale were most likely deposited along a coast, perhaps near a delta at the edges of a Silurian sea. The sediments were buried and lithified, uplifted, and tilted. The top of the sandstone and shale package was eroded away and then the sediments of the Old Red Sandstone were deposited in a subaerial environment, buried, oxidized, and lithified. The entire package of rocks was then uplifted, tilted, and eroded to its present state.
+
+
+
+3. Correlate the layers in the three stratigraphic columns below by drawing lines from the top and bottom of matching formations. What is the oldest unit in this region? The youngest unit?
+
+
+ANS:
+See answer below. The oldest unit is the Vishnu Schist, and the youngest is the Wasatch Formation.
+
+
+
+
+4. Discuss what the numerical age represents when radiometrically dating a basalt, a gneiss, and a quartz sandstone.
+
+ANS:
+The numerical age of a basalt gives the age that crystals formed and the rock cooled from magma/lava. The numerical age of a gneiss gives the age of metamorphism of the rock. The age determined from a sandstone gives the age of cooling or metamorphism of the quartz crystals within the sandstone.
+
+
+
+5. Why have no rocks older than 4.12 Ga been found in Earth’s crust?
+
+ANS:
+Rocks older than 4.12 Ga were likely remelted during the heavy bombardment or were recycled by passing through the rock cycle.
+
+

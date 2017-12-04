@@ -1,0 +1,551 @@
+CHAPTER 02: The Way the Earth Works: Plate Tectonics
+
+MULTIPLE CHOICE
+
+1. In Wegener’s evidence for continental drift, continents were proposed to fit together, such as the east coast of South America with the ________.
+a. west coast of Europe
+c. west coast of Greenland
+b. east coast of Africa
+d. lower west coast of Africa
+
+ANS: D
+
+
+
+2. Evidence that glaciers once covered an area might include ________.
+a. till and striations
+c. till and grabens
+b. backwash and striations
+d. backwash and grabens
+
+ANS: A
+
+
+
+3. Late Paleozoic glacial deposits are NOT found in which of the following places?
+
+a. India
+c. North America
+b. southern Africa
+d. South America
+
+ANS: C
+
+
+
+4. Consult the figure below. Abundant swamps led to the formation of coal during the Late Paleozoic in which of the following places?
+
+a. India
+c. North America
+b. southern Africa
+d. Antarctica
+
+ANS: C
+
+
+
+5. Wegener’s idea of continental drift was rejected by American geologists because ________.
+a. his English was too poor to be understood by them
+b. he could not conceive of a valid mechanism that would cause continents to shift positions
+c. he had relatively little evidence supporting the existence of a supercontinent
+d. the apparent fit of continental coastlines is blurred when the margins are defined by the edges of continental shelves rather than sea level
+
+ANS: B
+
+
+
+6. If a geologist discovered coal in a modern-day cold, snowy location, he or she could conclude that ________.
+a. a meteorite must have struck the area
+b. the area was once covered with swamps and/or jungles
+c. the area was once covered with an ocean
+d. this discovery was anomalous
+
+ANS: B
+
+
+
+7. If a geologist discovered striations (scratches) on bedrock surfaces and small hills composed of poorly sorted sediment, what could he or she conclude about the area?
+a. that a fault used to run through the area
+b. that the area used to be a beach along an ocean
+c. that glaciers had once covered the area
+d. that mountains had once covered the area
+
+ANS: C
+
+
+
+8. Limestone reefs and salt deposits are important rocks in the reconstruction of Earth’s history because they ________.
+a. can be used to infer the ancient climate of Earth; they are deposited in environments that are restricted to warm climates
+b. automatically provide age information; all such deposits occurred between 200 and 400 million years ago
+c. are deposited in warm climates today, but there is good reason to think that they were deposited in cold climates millions of years ago
+d. pinpoint the locations of old subduction zones
+
+ANS: A
+
+
+
+9. The apparent tendency of the north (or south) magnetic pole to vary in position over time is termed ________.
+a. dipole
+c. magnetic inclination
+b. magnetic declination
+d. polar wander
+
+ANS: D
+
+
+
+10. What does an ordinary compass indicate?
+a. magnetic inclination
+c. magnetic north
+b. magnetic declination
+d. true north
+
+ANS: C
+
+
+
+11. In the geologic past, the polarity of Earth’s magnetic field is ________.
+a. unknown, but it is assumed to have been identical to today’s
+b. known to have stayed constant through geologic time, as shown by remnant magnetization of iron-rich minerals in rocks
+c. known to have experienced numerous reversals, as shown by remnant magnetization of iron-rich minerals in rocks
+d. known to have stayed constant through time, based on theoretical calculations
+
+ANS: C
+
+
+
+12. Regions of the seafloor with positive magnetic anomalies were formed during times when Earth’s magnetic field ________.
+a. was exceptionally strong
+c. had normal polarity
+b. was exceptionally weak
+d. had reversed polarity
+
+ANS: C
+
+
+
+13. According to the figure below, marine magnetic anomalies lay roughly ________ to mid-ocean ridges.
+
+a. perpendicular
+c. adjacent
+b. parallel
+d. at an obtuse angle
+
+ANS: B
+
+
+
+14. Seafloor spreading ________.
+a. recycles old oceanic crust
+c. creates new continental crust
+b. closes ocean basins
+d. creates new oceanic crust
+
+ANS: D
+
+
+
+15. Seafloor spreading occurs at ________ boundaries.
+a. divergent
+c. transform
+b. convergent
+d. transvergent
+
+ANS: A
+
+
+
+16. The discovery of seafloor spreading finally provided a mechanism for ________.
+a. subduction zones
+c. transgressions
+b. continental drift
+d. normal faulting
+
+ANS: B
+
+
+
+17. Seafloor spreading is driven by volcanic activity ________.
+a. in the middle of abyssal plains
+c. at the edges of continental shelves
+b. along mid-ocean ridges
+d. along fracture zones
+
+ANS: B
+
+
+
+18. The rate of seafloor spreading exactly matches the rate of ________.
+a. ocean subsidence
+c. subduction
+b. transgression
+d. erosion of the seafloor
+
+ANS: C
+
+
+
+19. Marine magnetic anomalies can be used to estimate the ________.
+a. rate of seafloor spreading
+c. age of the seafloor sediments
+b. rate of seafloor subsidence
+d. rate of Earth’s expansion
+
+ANS: A
+
+
+
+20. Younger oceanic crust will have ________ ocean sediments, while older oceanic crust will have ________ oceanic sediments.
+a. older; younger
+c. thicker; thinner
+b. carbonate; silicic
+d. thinner; thicker
+
+ANS: D
+
+
+
+21. Using the image below, which marine magnetic anomalies show a reversed polarity?
+
+a. A, D, E
+c. B, C, F
+b. A, B, F
+d. C, D, F
+
+ANS: C
+
+
+
+22. According to the image below, where is new oceanic crust being formed?
+
+a. A
+c. C
+b. B
+d. D
+
+ANS: A
+
+
+
+23. A geologist aboard a deep-sea research vessel has collected several drill cores of oceanic crust from the bottom of the ocean. The cores are collected in order from east to west along the bottom of the basin and are labeled A1, B1, C1, and D1, respectively. Core A1 has 2.88 meters (m) of clay and siliceous ooze covering 4.86 m of pillow basalt. Core B1 has 2.37 m of muddy, clayey ooze covering 3.57 m of basalt. Core C1 has 2.11 m of clay and siliceous ooze followed by 3.2 m of basalt. Core D1 has 1.87 m of siliceous ooze over 2.54 m of basalt. Which core is closest to the mid-ocean ridge?
+a. A1
+c. C1
+b. B1
+d. D1
+
+ANS: D
+
+
+
+24. Which of the following was NOT used as evidence for seafloor spreading?
+a. high heat flow at mid-ocean ridges
+c. progressive change in age of crust
+b. jigsaw puzzle fit of the continents
+d. changes in thickness of sediments
+
+ANS: B
+
+
+
+25. Why was the discovery of marine magnetic anomalies so important to the theory of seafloor spreading?
+a. because they show a record of marine fossils, which can be linked to geologic time
+b. because they proved that Earth’s magnetic field reverses polarity throughout history
+c. because they show an accurate record of the creation and movement of oceanic crust
+d. because they allowed geologists to record the amount of oceanic crust formed
+
+ANS: C
+
+
+
+26. Continental coastlines that occur within the interior of a tectonic plate are called ________ margins.
+a. internal
+c. active
+b. passive
+d. inert
+
+ANS: B
+
+
+
+27. The theory of ________ states that the lithosphere is broken into a series of plates that move relative to each other.
+a. plate drift
+c. continental drift
+b. seafloor spreading
+d. plate tectonics
+
+ANS: D
+
+
+
+28. Compared to typical oceanic lithosphere, the thickness of continental lithosphere is ________.
+a. less
+b. greater
+c. approximately the same
+d. There is not a consistent pattern of lithospheric thickness.
+
+ANS: B
+
+
+
+29. Under the theory of plate tectonics, the plates themselves are ________.
+a. discrete pieces of lithosphere at the surface of the solid Earth that move with respect to one another
+b. discrete layers of lithosphere that are vertically stacked one atop the other
+c. composed only of continental rocks that plow through the weaker oceanic rocks
+d. very thick (approximately one-quarter of Earth’s radius)
+
+ANS: A
+
+
+
+30. Unlike the lithosphere, the asthenosphere ________.
+a. is able to flow over long periods of time
+b. has a density similar to the core
+c. varies in thickness from place to place
+d. is relatively cool
+
+ANS: A
+
+
+
+31. The thickness of oceanic lithosphere is ________.
+a. nearly uniformly 100 kilometers
+b. greatest at the geographic poles and least near the equator
+c. greatest near the mid-ocean ridges and thins out away from the ridges
+d. least near the mid-ocean ridges and thickens away from the ridges
+
+ANS: D
+
+
+
+32. Deformed (bent, stretched, or cracked) lithosphere occurs ________.
+a. randomly over the surface of Earth
+b. primarily within the interiors of tectonic plates
+c. primarily on the margins of tectonic plates
+d. primarily at hot spots
+
+ANS: C
+
+
+
+33. The primary difference between lithospheric and asthenospheric mantle that gives rise to numerous different patterns of physical behavior is ________.
+a. physical state: the lithosphere is solid; the asthenosphere is liquid
+b. chemical composition: the lithosphere is mafic; the asthenosphere is felsic
+c. temperature: the lithosphere is cooler than the asthenosphere
+d. chemical composition: the lithosphere is felsic; the asthenosphere is mafic
+
+ANS: C
+
+
+
+34. At a subduction zone, the down-going (subducting) plate ________.
+a. is always composed of continental lithosphere
+b. is always composed of oceanic lithosphere
+c. may be composed of either oceanic or continental lithosphere
+d. is composed entirely of asthenosphere
+
+ANS: B
+
+
+
+35. The distribution of ________ across the globe provides the primary indicator of boundaries between all tectonic plates.
+a. mountain ranges
+c. mid-ocean ridges
+b. volcanoes
+d. earthquakes
+
+ANS: D
+
+
+
+36. Which of these parts of the deep-ocean floor is flat and nearly featureless?
+a. ridge axis
+c. guyot
+b. abyssal plain
+d. trench
+
+ANS: B
+
+
+
+37. Beneath a blanket of sediments, oceanic crust is primarily composed of ________.
+a. granite
+c. limestone
+b. basalt
+d. coal
+
+ANS: B
+
+
+
+38. With increasing distance from a mid-ocean ridge, the age of oceanic crust ________.
+a. increases
+c. stays constant
+b. decreases
+d. varies randomly
+
+ANS: A
+
+
+
+39. Slab pull occurs because subducting slabs are ________.
+a. less mafic, and therefore less dense, than surrounding asthenosphere
+b. cooler, and therefore more dense, than surrounding asthenosphere
+c. hotter, and therefore more dense, than surrounding asthenosphere
+d. cooler, and therefore less dense, than surrounding asthenosphere
+
+ANS: B
+
+
+
+40. Transform boundaries occur most frequently along ________boundaries in order to break the ________ into segments so as to accommodate motion on a sphere.
+a. convergent; accretionary prisms
+c. divergent; mid-ocean ridges
+b. convergent; deep ocean trenches
+d. divergent; magnetic anomalies
+
+ANS: C
+
+
+
+41. Which basic type of plate boundary is shown in the image below?
+
+a. divergent
+c. transvergent
+b. convergent
+d. transform
+
+ANS: A
+
+
+
+42. Which basic type of plate boundary is shown in the image below?
+
+a. divergent
+c. transvergent
+b. convergent
+d. transform
+
+ANS: B
+
+
+
+43. At transform plate boundaries, ________.
+a. earthquakes are common but volcanoes are absent
+b. volcanoes are common but earthquakes do not occur
+c. both earthquakes and volcanoes are common
+d. neither earthquakes nor volcanoes are common
+
+ANS: A
+
+
+
+44. The image below shows a view of a typical segmented mid-ocean ridge. Which letter below marks the location of the active transform fault?
+
+a. A
+c. C
+b. B
+d. D
+
+ANS: B
+
+
+
+45. The mid-ocean ridges are elevated above the surrounding seafloor because ________.
+a. ridge rocks are hot and therefore have relatively low density
+b. the lithosphere is thickest at the ridges so they stand up taller
+c. rising ocean currents create a vacuum that pulls ridges up
+d. ridge rocks are mafic, which are less dense than ultramafic ocean basin rock
+
+ANS: A
+
+
+
+46. The rate of motion of a lithospheric plate with respect to a stationary location inside Earth is termed ________ plate velocity, while the motion of a plate with respect to another is termed ________ plate velocity.
+a. absolute; relative
+c. Both are measures of absolute velocity.
+b. relative; absolute
+d. Both are measures of relative velocity.
+
+ANS: A
+
+
+
+47. Summed over the entire surface of Earth, the rate of spreading at divergent boundaries is ________ lithospheric consumption at subduction zones.
+a. faster than
+b. slower than
+c. equal to
+d. This cannot yet be measured by geologists.
+
+ANS: C
+
+
+
+48. Consult the figure below. Hawaii is an example of ________.
+
+a. hot-spot volcanism
+b. mid-ocean-ridge volcanism
+c. a volcanic island arc formed by subduction
+d. transform margin
+
+ANS: A
+
+
+
+49. Hot spots can occur ________.
+a. only within continental plates
+b. only within oceanic plates
+c. within either continental or oceanic plates
+d. only when the thickness of the crust is less than 10 km
+
+ANS: C
+
+
+
+50. What would happen if the rate of seafloor spreading was faster than the rate of subduction?
+a. Arc volcanoes would not form.
+c. The Earth would become smaller.
+b. The ocean basins would shrink.
+d. The Earth would grow larger.
+
+ANS: D
+
+
+
+SHORT ANSWER
+
+1. Explain why Wegener’s theory of continental drift was not originally accepted by geologists of his time?
+
+ANS:
+Wegener could not provide a plausible mechanism for the movement of continents. He proposed that centrifugal force caused the continents to plow through the oceans. However, the magnitude of centrifugal force produced by the rotation of Earth is not sufficient to move such large masses. In addition, the continental crust is much too weak to plow through the much stronger oceanic crust.
+
+
+
+2. Describe the process of seafloor spreading, making sure to address why the diameter of Earth is not growing.
+
+ANS:
+As plates move apart at a divergent plate boundary, magma rises into the new space, erupting at the surface to form pillow basalts and cooling along the sides of the fracture to form gabbro dikes. These pillow basalts and gabbro dikes become new oceanic crusts that then move away from each other, and again more magma moves toward the surface to start the process again. This slowly moves the plates apart, forming new oceanic crust and new ocean basins. The newly formed crust is balanced by the recycling of old oceanic crust into subduction zones at convergent boundaries on the opposite sides of ocean basins.
+
+
+
+3. Plate tectonics theory is often referred to as the “unifying” theory in geology. Explain why plate tectonics is such an important theory to the study of Earth.
+
+ANS:
+There are many good answers to this; however, a few good answers might reference how before plate tectonics we did not really understand how mountains formed, why volcanoes formed where they did, why earthquakes occur where they do, and so on. Plate tectonics also allows us to explain how and why rocks move through the rock cycle, how oceans form, or why marine fossils can be found at the top of Mount Everest. Any good answer will explain that before the theory of plate tectonics there were very many processes we did not understand, and since plate tectonic theory has been around we have been able to explain many of these processes.
+
+
+
+4. Discuss where transform boundaries are primarily found and what their main purpose is.
+
+ANS:
+Transform boundaries are primarily found along mid-ocean ridges (MORs); however, they do appear on land in several places around the globe. The main purpose of transform boundaries is to break the MOR into smaller segments, which allows the spreading of the plates at MORs to be accommodated on the three-dimensional, spherical surface of Earth.
+
+
+
+5. A geologist measures the amount of seafloor produced along a MOR to be 45 km. The oldest crust produced is 4.5 Ma. What is the spreading rate of the MOR in cm/yr? Show your work.
+
+ANS:
+First convert km ◊ cm:  
+Convert Ma ◊ yr:  
+Plug into v = d/t: 
+
+

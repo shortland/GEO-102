@@ -1,0 +1,807 @@
+CHAPTER 08: A Violent Pulse: Earthquakes
+
+MULTIPLE CHOICE
+
+	1.	The point within Earth where an earthquake takes place is termed the ________.
+a.
+focus
+c.
+eye of the fault
+b.
+epicenter
+d.
+vertex
+
+
+ANS:	A	DIF:	Easy	REF:	8.2	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Remembering		
+
+	2.	A surface along which rock on opposed sides is offset by an earthquake-induced slip is called a ________.
+a.
+joint
+c.
+fold
+b.
+fault
+d.
+wall
+
+
+ANS:	B	DIF:	Easy	REF:	8.1	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Remembering		
+
+	3.	The quantity of motion that occurs along a fault is termed ________.
+a.
+the fault gouge
+c.
+displacement
+b.
+the fault gauge
+d.
+accumulation
+
+
+ANS:	C	DIF:	Moderate	REF:	8.2	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Remembering		
+
+	4.	Periods of intermittent sliding on a fault because of stress release during episodes of slip, followed by stress buildup to the point that the fault is reactivated, is termed ________.
+a.
+chaotic faulting
+c.
+stick-slip behavior
+b.
+thrust faulting
+d.
+reverse faulting
+
+
+ANS:	C	DIF:	Moderate	REF:	8.2	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Remembering		
+
+	5.	A primary force opposing motion on all faults is ________.
+a.
+covalent bonds
+c.
+friction
+b.
+gravity
+d.
+the Van der Waals force
+
+
+ANS:	C	DIF:	Easy	REF:	8.2	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Understanding		
+
+	6.	Body waves include ________.
+a.
+both S- and P-waves
+c.
+both surface and interior waves
+b.
+both L- and R-waves
+d.
+P-waves only
+
+
+ANS:	A	DIF:	Moderate	REF:	8.3	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Understanding		
+
+	7.	Earthquakes that occur in a band called the ________ can be used to track the motion of subducted oceanic lithosphere.
+a.
+Wegener belt
+c.
+Wadati-Benioff zone
+b.
+seismic gap
+d.
+Richter zone
+
+
+ANS:	C	DIF:	Moderate	REF:	8.5	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Understanding		
+
+	8.	The recurrence of earthquakes along a single fault is referred to as ________.
+a.
+stick-slip behavior
+c.
+seismic repetition theory
+b.
+elastic-rebound theory
+d.
+slip-transfer theory
+
+
+ANS:	A	DIF:	Difficult	REF:	8.2	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Understanding		
+
+	9.	The vast majority of earthquakes occur ________.
+a.
+along transform-plate boundaries only
+b.
+near hotspots
+c.
+along passive margins
+d.
+along all types of plate boundaries
+
+
+ANS:	D	DIF:	Easy	REF:	8.5	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Applying
+
+	10.	Earthquakes often occur along ________.
+a.
+bedding planes
+c.
+fault zones
+b.
+terminal moraines
+d.
+river valleys
+
+
+ANS:	C	DIF:	Easy	REF:	8.5	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Applying
+
+	11.	Moderate- and deep-focus earthquakes occur along only ________.
+a.
+convergent-plate boundaries
+c.
+transform-plate boundaries
+b.
+divergent-plate boundaries
+d.
+hotspots
+
+
+ANS:	A	DIF:	Moderate	REF:	8.5	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Applying
+
+	12.	During an earthquake, if the hanging wall slides upward relative to the footwall, the fault is termed a ________ fault if the fault is steep (closer to vertical than horizontal). Refer to the figure below for an example of such a feature.
+
+a.
+normal
+c.
+strike-slip
+b.
+reverse
+d.
+thrust
+
+
+ANS:	B	DIF:	Moderate	REF:	8.2	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Applying
+
+	13.	If a fault is nearly vertical in orientation and the two walls of rock on opposite sides slide past one another horizontally, the fault is termed a ________ fault. Refer to the figure below for an example of such a feature.
+
+a.
+normal
+c.
+strike-slip
+b.
+reverse
+d.
+thrust
+
+
+ANS:	C	DIF:	Moderate	REF:	8.2	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Applying
+
+	14.	At any point along the surface of any nonvertical fault such as is shown in the figure below, the ________. 
+
+a.
+hanging wall lies vertically above the footwall
+b.
+footwall lies vertically above the hanging wall
+c.
+hanging wall lies to the left of the footwall
+d.
+footwall lies to the left of the hanging wall
+
+
+ANS:	A	DIF:	Moderate	REF:	8.2	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Analyzing
+
+	15.	________ travel with a compressional motion.
+a.
+Love waves
+c.
+P-waves
+b.
+Rayleigh waves
+d.
+S-waves
+
+
+ANS:	C	DIF:	Easy	REF:	8.3	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Remembering		
+
+	16.	Vertical motion seismographs record earthquakes by producing a squiggly diagram called a ________.
+a.
+wave sheet
+c.
+pictogram
+b.
+seismogram
+d.
+seismograph
+
+
+ANS:	B	DIF:	Easy	REF:	8.3	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Remembering		
+
+	17.	An increase in size of one unit of magnitude translates to ________ the ground motion.
+a.
+1 time
+c.
+32 times
+b.
+2 times
+d.
+10 times
+
+
+ANS:	D	DIF:	Moderate	REF:	8.4	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Remembering		
+
+	18.	Generally, which type of earthquake waves travel with the slowest velocity?
+a.
+S-waves
+b.
+P-waves
+c.
+surface waves
+d.
+All earthquake waves travel at the same speed.
+
+
+ANS:	C	DIF:	Moderate	REF:	8.3	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Remembering		
+
+	19.	At a minimum, how many seismic stations are necessary to locate the epicenter of an earthquake?
+a.
+one
+c.
+three
+b.
+two
+d.
+four
+
+
+ANS:	C	DIF:	Easy	REF:	8.3	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Understanding		
+
+	20.	Which earthquake scale is used to assess the effects of an earthquake on humans and human-made structures?
+a.
+Richter scale
+c.
+moment magnitude scale
+b.
+Mercalli scale
+d.
+surface-wave magnitude scale
+
+
+ANS:	B	DIF:	Easy	REF:	8.4	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Understanding		
+
+	21.	According to the image below, where was the epicenter of the earthquake?
+
+a.
+New York
+c.
+Canada
+b.
+Florida
+d.
+South Carolina
+
+
+ANS:	D	DIF:	Moderate	REF:	8.4	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Understanding		
+
+	22.	The moment magnitude is based on the ________ and ________ of the earthquake.
+a.
+amplitude; rupture area
+c.
+rupture area; amount of damage
+b.
+amplitude; distance
+d.
+amount of damage; distance
+
+
+ANS:	A	DIF:	Difficult	REF:	8.4	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Understanding		
+
+	23.	Which type of seismic wave has the fastest velocity?
+a.
+L-wave
+c.
+R-wave
+b.
+P-wave
+d.
+S-wave
+
+
+ANS:	B	DIF:	Easy	REF:	8.3	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Applying
+
+	24.	What is the magnitude of the earthquake shown in the image below?
+
+a.
+5
+c.
+220
+b.
+24
+d.
+6
+
+
+ANS:	A	DIF:	Easy	REF:	8.4	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Applying
+
+	25.	According to the diagram below, the energy released by the 1994 Northridge earthquakes was roughly the same as the energy released by ________.
+
+a.
+the H-bomb
+c.
+the tornado
+b.
+Mount St. Helens
+d.
+the hurricane
+
+
+ANS:	D	DIF:	Easy	REF:	8.4	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Applying
+
+	26.	An earthquake occurs with an epicenter in the town of New Madrid, Missouri, in the interior of the North American Plate. Where might the hypocenter of this earthquake plausibly be found?
+a.
+in New Madrid (hypocenter and epicenter mean precisely the same thing)
+b.
+20 km south of New Madrid
+c.
+20 km beneath New Madrid
+d.
+200 km north New Madrid
+
+
+ANS:	C	DIF:	Moderate	REF:	8.3	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Applying
+
+	27.	According to the moment magnitude scale (Mw), a magnitude 8 earthquake would be 1,000 times greater than a magnitude ________ earthquake.
+a.
+9
+c.
+7
+b.
+5
+d.
+4
+
+
+ANS:	B	DIF:	Difficult	REF:	8.4	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Applying
+
+	28.	The Mercalli intensity scale tends to be very subjective and thus is generally only used for historical earthquakes that were near people but were not recorded by seismometers. Why might the Mercalli scale be subjective?
+a.
+It relies on testimony from people.
+b.
+It does not take into account distance.
+c.
+It can only be used for large earthquakes.
+d.
+It cannot be used in heavily populated areas.
+
+
+ANS:	A	DIF:	Difficult	REF:	8.4	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Analyzing
+
+	29.	On December 26, 2004, a magnitude 9.3 earthquake generated a tsunami that devastated coastlines on the ________ Ocean.
+a.
+Atlantic
+c.
+Indian
+b.
+Arctic
+d.
+Pacific
+
+
+ANS:	C	DIF:	Easy	REF:	8.6	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Remembering		
+
+	30.	________ occur(s) when earthquakes causes pore pressure to increase, which in turn causes grains to separate and compact.
+a.
+Liquefaction
+c.
+Normal faults
+b.
+Aftershocks
+d.
+Landslides
+
+
+ANS:	A	DIF:	Easy	REF:	8.6	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Remembering		
+
+	31.	Which seismic wave phase causes the ground to roll like a wave?
+a.
+P-wave
+c.
+Rayleigh wave
+b.
+S-wave
+d.
+Love wave
+
+
+ANS:	C	DIF:	Moderate	REF:	8.3	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Remembering		
+
+	32.	Earthquakes can often produce ________ by breaking gas lines.
+a.
+landslides
+c.
+sinkholes
+b.
+flooding
+d.
+fires
+
+
+ANS:	D	DIF:	Moderate	REF:	8.6	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Remembering		
+
+	33.	A tsunami is ________.
+a.
+a sea wave generated by a displacement of water
+b.
+a sloshing of water back and forth within a lake or a bay
+c.
+a wave caused by unusually large tidal forces
+d.
+the tendency of wet, clay-rich soils to behave like a liquid during an earthquake
+
+
+ANS:	A	DIF:	Easy	REF:	8.6	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Understanding		
+
+	34.	Surface waves ________.
+a.
+travel more rapidly than body waves
+b.
+produce most of the damage to buildings during earthquakes
+c.
+are the first waves initially produced in an earthquake
+d.
+are the first waves to arrive at a seismograph station after an earthquake
+
+
+ANS:	B	DIF:	Moderate	REF:	8.6	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Understanding		
+
+	35.	The ________the earthquake, the less severe the damage will be.
+a.
+larger the magnitude of
+c.
+farther you are from
+b.
+shorter the duration of
+d.
+closer you are to
+
+
+ANS:	C	DIF:	Moderate	REF:	8.6	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Understanding		
+
+	36.	The larger the ________ of the wave, the more severe the damage will be.
+a.
+travel-time curve
+c.
+seismometer
+b.
+epicenter
+d.
+amplitude
+
+
+ANS:	D	DIF:	Difficult	REF:	8.6	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Understanding		
+
+	37.	Wet and unconsolidated substrates are uniquely susceptible to ________ during an earthquake.
+a.
+displacement
+c.
+liquefaction
+b.
+collapse
+d.
+faulting
+
+
+ANS:	C	DIF:	Easy	REF:	8.6	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Applying
+
+	38.	According to the image below, which seismic wave phase is likely to cause the most damage?
+
+a.
+P-wave
+c.
+surface wave
+b.
+S-wave
+d.
+aftershock
+
+
+ANS:	C	DIF:	Difficult	REF:	8.6	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Applying
+
+	39.	Which of the following does NOT affect the severity of damage from an earthquake?
+a.
+weather
+c.
+duration
+b.
+distance
+d.
+magnitude
+
+
+ANS:	A	DIF:	Difficult	REF:	8.6	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Applying
+
+	40.	Why do subduction zones have the potential to create the largest earthquakes on Earth?
+a.
+The convergence creates exceedingly large amounts of friction.
+b.
+Subduction zones create the highest pressures of any plate boundary.
+c.
+Subduction zones have very large areas for potential rupture and thus can produce large earthquakes.
+d.
+This is not true. Transform faults (like the San Andreas) can produce the largest earthquakes.
+
+
+ANS:	C	DIF:	Difficult	REF:	8.4	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Analyzing
+
+	41.	Long-term prediction methods include ________.
+a.
+early warning systems
+c.
+seismic risk assessment
+b.
+behavior of animals
+d.
+recognition of foreshocks
+
+
+ANS:	C	DIF:	Moderate	REF:	8.7	
+OBJ:	Understand the limitations on people’s ability to predict earthquakes.
+MSC:	Remembering		
+
+	42.	The ________ of a fault gives the average time between events.
+a.
+displacement
+c.
+recurrence interval
+b.
+exceedance probability
+d.
+annual probability
+
+
+ANS:	C	DIF:	Easy	REF:	8.7	
+OBJ:	Understand the limitations on people’s ability to predict earthquakes.
+MSC:	Understanding		
+
+	43.	Evidence of a past earthquake may be found by looking for offset beds or ________.
+a.
+liquefaction
+c.
+stress fractures
+b.
+sand volcanoes
+d.
+foliation
+
+
+ANS:	B	DIF:	Difficult	REF:	8.7	
+OBJ:	Understand the limitations on people’s ability to predict earthquakes.
+MSC:	Understanding		
+
+	44.	Which of the following is NOT true concerning the long-term forecasting of earthquakes? Long-term forecasting ________.
+a.
+is based on past earthquake activity
+b.
+works on the principle that zones of past seismicity will be active in the future
+c.
+includes the notion of seismic gaps—places where an earthquake is overdue
+d.
+is not possible
+
+
+ANS:	D	DIF:	Moderate	REF:	8.7	
+OBJ:	Understand the limitations on people’s ability to predict earthquakes.
+MSC:	Applying
+
+	45.	Early warning systems use computers to detect a nearby earthquake and send an emergency alert to warn of the event. Which seismic phase is the system detecting when it sends the alert?
+a.
+Love wave
+c.
+P-wave
+b.
+Rayleigh wave
+d.
+S-wave
+
+
+ANS:	C	DIF:	Difficult	REF:	8.7	
+OBJ:	Understand the limitations on people’s ability to predict earthquakes.
+MSC:	Analyzing
+
+	46.	Earthquake ________ is a means of deciding where the ground is stable enough to build on in earthquake-prone areas.
+a.
+mitigation
+c.
+retrofitting
+b.
+zoning
+d.
+prevention
+
+
+ANS:	B	DIF:	Easy	REF:	8.8	
+OBJ:	Understand steps that people can take to prevent earthquake damage.
+MSC:	Remembering		
+
+	47.	Where is the best place to be in an earthquake?
+a.
+in an empty field
+c.
+in a doorway
+b.
+in a brick house
+d.
+on the beach
+
+
+ANS:	A	DIF:	Easy	REF:	8.8	
+OBJ:	Understand steps that people can take to prevent earthquake damage.
+MSC:	Remembering		
+
+	48.	Making better ________ is the best way to try to prevent earthquake damage.
+a.
+seismometers
+c.
+buildings
+b.
+magnitude scales
+d.
+seismograms
+
+
+ANS:	C	DIF:	Easy	REF:	8.8	
+OBJ:	Understand steps that people can take to prevent earthquake damage.
+MSC:	Understanding		
+
+	49.	Seismic retrofitting is the process of ________.
+a.
+predicting future earthquakes
+b.
+strengthening existing buildings and structures
+c.
+mapping areas prone to earthquakes
+d.
+fitting earthquake data after an event to see if it should have been predicted
+
+
+ANS:	B	DIF:	Moderate	REF:	8.8	
+OBJ:	Understand steps that people can take to prevent earthquake damage.
+MSC:	Applying
+
+	50.	Much of the capitol city of Port-au-Prince was destroyed during the 2010 Haiti earthquake despite the fact that similarly sized earthquakes in other cities did very little damage. What caused so much damage during the Haiti earthquake?
+a.
+A tsunami wiped out the city.
+c.
+The buildings were poorly built.
+b.
+Landslides covered large areas.
+d.
+The residents did not evacuate in time.
+
+
+ANS:	C	DIF:	Moderate	REF:	8.8	
+OBJ:	Understand steps that people can take to prevent earthquake damage.
+MSC:	Analyzing
+
+SHORT ANSWER
+
+	1.	Why do deep-focus earthquakes occur along convergent plate boundaries? Why do they not occur along divergent or transform boundaries?
+
+ANS:	
+As cold subducting crust moves down into Earth, the changes in pressure and temperature cause bands of earthquakes to occur along the down-going slab. Neither divergent or transform boundaries reach deep enough to host deep-focus earthquakes.
+
+DIF:	Moderate	REF:	8.5	
+OBJ:	Understand the causes of earthquakes and why they occur where they do.
+MSC:	Analyzing
+
+	2.	How is the Mercalli intensity scale used to determine the magnitude of an earthquake? What errors might be associated with this technique?
+
+ANS:	
+The Mercalli intensity scale uses the testimony of “felt damage” from those who experienced the earthquake. The severity of the damage is then ranked according to a scale and plotted on a map. There are many problems with this technique; however, the main issue is that testimonies can be very subjective among a group of people.
+
+DIF:	Moderate	REF:	8.4	
+OBJ:	Understand how to specify the size of an earthquake and determine its location.
+MSC:	Analyzing
+
+	3.	Explain why tsunamis are NOT tidal waves.
+
+ANS:	
+Tsunamis are created by large displacements of water due to earthquakes, landslides, or volcanic eruptions. The size and severity of a tsunami wave is influenced only by the size of the displacement and the distance the wave travels, not by the tides. In other words, a tsunami that strikes during low tide will be just as dangerous and cover just as much shoreline in water as a tsunami that strikes during high tide.
+
+DIF:	Difficult	REF:	8.6	
+OBJ:	Understand the many ways in which earthquakes trigger damage.	
+MSC:	Analyzing
+
+	4.	Why is an early warning system NOT considered a short-term earthquake prediction tool?
+
+ANS:	
+Early warning systems warn of an earthquake in progress, not of an earthquake that will form in the future.
+
+DIF:	Moderate	REF:	8.7	
+OBJ:	Understand the limitations on people’s ability to predict earthquakes.
+MSC:	Understanding		
+
+	5.	Why is an empty field the safest place to be in an earthquake?
+
+ANS:	
+Ground motion alone is very unlikely to hurt someone; the main sources of injury are the structures we build that fall on us. Therefore, the safest place to be in an earthquake is out in the middle of a field with nothing else around.
+
+DIF:	Easy	REF:	8.8	
+OBJ:	Understand steps that people can take to prevent earthquake damage.
+MSC:	Analyzing

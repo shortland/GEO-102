@@ -1,0 +1,341 @@
+INTERLUDE B: A Surface Veneer: Sediments and Soils
+
+MULTIPLE CHOICE
+
+1. Which of the following is a type of physical weathering?
+a. thermal expansion
+c. oxidation
+b. dissolution
+d. hydration
+
+
+ANS:ADIF:EasyREF:B.2
+OBJ:Understand how rocks undergo weathering at or near the Earth’s surface to produce sediment.
+MSC:Remembering
+
+2. Chemical weathering involves the breakdown of material due to ________.
+a. mechanical breakdown of rock
+c. interaction with molten rock
+b. baking in the hot sun
+d. interaction with water or air
+
+
+ANS:DDIF:EasyREF:B.2
+OBJ:Understand how rocks undergo weathering at or near the Earth’s surface to produce sediment.
+MSC:Remembering
+
+3. Dissolution occurs when minerals ________.
+a. are dissolved into water
+c. absorb water and expand
+b. are turned into rust
+d. are removed by frost
+
+
+ANS:ADIF:ModerateREF:B.2
+OBJ:Understand how rocks undergo weathering at or near the Earth’s surface to produce sediment.
+MSC:Remembering
+
+4. Which type of weathering process is happening to materials when they rust?
+a. hydrolysis
+c. oxidation
+b. hydration
+d. dissolution
+
+
+ANS:CDIF:ModerateREF:B.2
+OBJ:Understand how rocks undergo weathering at or near the Earth’s surface to produce sediment.
+MSC:Understanding
+
+5. Why does physical weathering speed up the processes of chemical weathering?
+a. Physical weathering requires abundant water, as does chemical weathering.
+b. Physical weathering produces fresh surfaces for chemical weathering to attack.
+c. Chemical weathering can occur only on small surfaces, not large ones.
+d. Chemical weathering requires salt, which is provided by salt wedging.
+
+
+ANS:BDIF:DifficultREF:B.2
+OBJ:Understand how rocks undergo weathering at or near the Earth’s surface to produce sediment.
+MSC:Understanding
+
+6. The following is a picture of what type of phenomenon?
+
+a. jointing
+c. chemical weathering
+b. differential weathering
+d. hydration
+
+
+ANS:ADIF:EasyREF:B.2
+OBJ:Understand how rocks undergo weathering at or near the Earth’s surface to produce sediment.
+MSC:Applying
+
+7. What type of weathering is shown in the following picture?
+
+a. salt wedging
+c. oxidation
+b. frost wedging
+d. hydration
+
+
+ANS:ADIF:ModerateREF:B.2
+OBJ:Understand how rocks undergo weathering at or near the Earth’s surface to produce sediment.
+MSC:Applying
+
+8. What type of weathering has happened to the rocks in the following picture?
+
+a. hydrolysis
+c. dissolution
+b. hydration
+d. oxidation
+
+
+ANS:ADIF:DifficultREF:B.2
+OBJ:Understand how rocks undergo weathering at or near the Earth’s surface to produce sediment.
+MSC:Applying
+
+9. What type of weathering are you likely to find occurring in areas with cold climates?
+a. hydrolysis
+c. oxidation
+b. frost wedging
+d. dissolution
+
+
+ANS:BDIF:ModerateREF:B.2
+OBJ:Understand how rocks undergo weathering at or near the Earth’s surface to produce sediment.
+MSC:Analyzing
+
+10. Soil horizon ________ contains the most organic material.
+a. A
+c. B
+b. O
+d. E
+
+
+ANS:BDIF:ModerateREF:B.3
+OBJ:Understand the difference between sediment and soil.MSC:Remembering
+
+11. Soil horizon ___________ contains weathered bedrock that has not yet undergone leaching.
+a. O
+c. E
+b. C
+d. B
+
+
+ANS:ADIF:ModerateREF:B.3
+OBJ:Understand the difference between sediment and soil.MSC:Remembering
+
+12. The _______-horizon contains abundant sediment.
+a. O
+c. B
+b. A
+d. C
+
+
+ANS:ADIF:DifficultREF:B.3
+OBJ:Understand the difference between sediment and soil.MSC:Remembering
+
+13. Sediment does NOT contain ________.
+a. fragments of shells
+c. cemented grains
+b. fragments of rock
+d. precipitated crystals
+
+
+ANS:CDIF:EasyREF:B.1
+OBJ:Understand the difference between sediment and soil.MSC:Understanding
+
+14. The Dust Bowl of the 1930s was created by what phenomenon?
+a. increased rainfall
+c. increased wind storms
+b. lack of vegetation
+d. differential weathering
+
+
+ANS:BDIF:ModerateREF:B.3
+OBJ:Understand the difference between sediment and soil.MSC:Understanding
+
+15. Which of the following images does NOT contain sediment?
+
+
+Figure A
+Figure B
+
+
+Figure C
+Figure D
+
+a. Figure A
+c. Figure C
+b. Figure B
+d. Figure D
+
+
+ANS:DDIF:EasyREF:B.1
+OBJ:Understand the difference between sediment and soil.MSC:Applying
+
+16. Which soil horizon is the most important to farmers for planting crops?
+a. C
+c. E
+b. A
+d. B
+
+
+ANS:BDIF:ModerateREF:B.3
+OBJ:Understand the difference between sediment and soil.MSC:Applying
+
+17. Why does the C-horizon contain little to no organic material?
+a. Water does not penetrate that far into the ground.
+b. The C-horizon contains toxins from the bedrock.
+c. Plants and animals do not live that far down.
+d. The C-horizon is saturated with water.
+
+
+ANS:CDIF:DifficultREF:B.3
+OBJ:Understand the difference between sediment and soil.MSC:Analyzing
+
+18. The zone of leaching is the area in which ________.
+a. weathered bedrock forms a soil horizon
+b. organic matter gathers to create a soil horizon
+c. minerals are precipitated and added to soil
+d. minerals are dissolved and removed from soil
+
+
+ANS:DDIF:EasyREF:B.3
+OBJ:Understand factors that affect the character and thickness of soil.
+MSC:Remembering
+
+19. Which of the following does NOT affect soil thickness?
+a. time
+c. climate
+b. types of animals
+d. vegetation type
+
+
+ANS:BDIF:EasyREF:B.3
+OBJ:Understand factors that affect the character and thickness of soil.
+MSC:Remembering
+
+20. ________ is the most important factor in determining soil thickness.
+a. Climate
+c. Wetness
+b. Composition
+d. Time
+
+
+ANS:ADIF:EasyREF:B.3
+OBJ:Understand factors that affect the character and thickness of soil.
+MSC:Understanding
+
+21. Large amounts of ________ speed up decomposition and provide more organic material for the soil.
+a. microbes
+c. quartz
+b. sediment
+d. time
+
+
+ANS:ADIF:EasyREF:B.3
+OBJ:Understand factors that affect the character and thickness of soil.
+MSC:Understanding
+
+22. A rock layer’s ________ will control the thickness of the soil formed.
+a. percentage of sand
+c. time of deposition
+b. permeability
+d. resistance to weathering
+
+
+ANS:DDIF:DifficultREF:B.3
+OBJ:Understand factors that affect the character and thickness of soil.
+MSC:Understanding
+
+23. Which area will tend to have the thickest soil?
+a. mountains
+c. rain forest
+b. artic
+d. desert
+
+
+ANS:CDIF:EasyREF:B.3
+OBJ:Understand factors that affect the character and thickness of soil.
+MSC:Applying
+
+24. If the climate in an area has very little rainfall, what would be the characteristics of the soil in the area?
+a. thick, with a lot of organic material
+c. thick, with very little organic material
+b. thin, with a lot of organic material
+d. thin, with very little organic material
+
+
+ANS:DDIF:ModerateREF:B.3
+OBJ:Understand factors that affect the character and thickness of soil.
+MSC:Applying
+
+25. Which of the following is a reason why wet soils tend to have more organic material than dry soils?
+a. Physical weathering occurs more rapidly in wet areas than in dry areas.
+b. Plants and microbes need water to live so they can aid decomposition.
+c. Wet soils tend to be in areas with rocks that are easily weathered.
+d. Wet areas tend to be near mountains with large supplies of sediment.
+
+
+ANS:BDIF:ModerateREF:B.3
+OBJ:Understand factors that affect the character and thickness of soil.
+MSC:Analyzing
+
+SHORT ANSWER
+
+1. What are the similarities and differences between physical and chemical weathering. Make sure to address both what is the same and what is different.
+
+ANS:
+Physical and chemical weathering are both working to break down rocks into smaller pieces. Physical weathering involves the mechanical breaking of rocks by jointing or wedging processes; however, there is no alteration of the mineral makeup of the rock. Chemical weathering involves breaking up a rock by changing the chemical makeup of the rock. Chemical weathering involves the dissolving of minerals to form ions in solution or the stripping away of electrons from atoms during the oxidation process, both of which change the chemical makeup of the rock.
+
+DIF:EasyREF:A.2
+OBJ:Understand how rocks undergo weathering at or near the Earth’s surface to produce sediment.
+MSC:Analyzing
+
+2. Describe how physical and chemical weathering can work together to break down rocks.
+
+ANS:
+If a rock is broken apart mechanically there is more surface area exposed to the elements. The more surface area exposed, the more area can be attacked by chemical weathering. This in turn weakens the rocks so that they can be more easily broken by physical weathering processes, thus creating even more surface area for chemical weathering.
+
+DIF:ModerateREF:A.2
+OBJ:Understand how rocks undergo weathering at or near the Earth’s surface to produce sediment.
+MSC:Understanding
+
+3. Describe the difference between sediment and soil.
+
+ANS:
+Sediment consists of loose broken rock, mineral, or shell fragments. Soil contains sediment that has been progressively broken down and mixed with organic materials to form something that can sustain life.
+
+DIF:ModerateREF:A.1 | A.3
+OBJ:Understand the difference between sediment and soil.MSC:Analyzing
+
+4. Label the different soil horizons on the image below, then provide a brief description of each horizon next to the corresponding layer.
+
+
+ANS:
+See image below for correct labels. Soil horizon descriptions: O-horizon is the thin top layer that contains mainly organic material. The A-horizon contains more heavily decayed organic material mixed with clay, silt, and sand. The E-horizon has been extensively leached and contains little to no organic material. The B-horizon is where ions and clays that were leached from the O-, A-, and E-horizons end up. The C-horizon contains weathered bedrock but has not been subjected to leaching or accumulation. Below the C-horizon is competent bedrock.
+
+
+DIF:DifficultREF:A.3
+OBJ:Understand the difference between sediment and soil.MSC:Applying
+
+5. List one factor that controls the thickness of soil and describe how the thickness is controlled.
+
+ANS:
+Answers will vary but may include the following: 
+
+Climate controls soil thickness by controlling the amount of rainfall and temperature of an area; the more humid and warm an area is the more likely you will have plentiful chemical weathering and plants and microbes to produce organic material.
+
+The composition of the rock on which the soil forms will control the thickness because different minerals have different resistances to weathering. Thus, a quartz sandstone is highly resistant to weathering and will form a very thin soil.
+
+The steeper a slope, the thinner the soil will be because the newly weathering rock is more likely to be washed downslope and away from the area.
+
+Wet soils will be thicker for several reasons, including the high rate of chemical weathering, large amount of vegetation growing in the area, and high percentage of microbes and other organisms available to aid in decomposition of material.
+
+Soil takes time to develop; thus, the older a soil is the thicker it will be.
+
+The types of plants and organisms in an area will control soil thickness because more plants mean more organic material and more plentiful organisms that aid in decomposition of matter will produce more organic material.
+
+DIF:ModerateREF:A.3
+OBJ:Understand factors that affect the character and thickness of soil.
+MSC:Understanding

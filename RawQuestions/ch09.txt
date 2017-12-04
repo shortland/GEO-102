@@ -1,0 +1,778 @@
+CHAPTER 09: Crags, Cracks, and Crumples: Crustal Deformation and Mountain Building
+
+MULTIPLE CHOICE
+
+	1.	________ occurs when rocks bend, break, or flow during mountain building.
+a.
+Deformation
+c.
+Lengthening
+b.
+Orogeny
+d.
+Stress
+
+
+ANS:	A	DIF:	Easy	REF:	9.1	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Remembering		
+
+	2.	Force-per-unit area is termed ________.
+a.
+stress
+c.
+power
+b.
+strain
+d.
+work
+
+
+ANS:	A	DIF:	Easy	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Remembering		
+
+	3.	________ occurs when rocks are pulled apart.
+a.
+Compression
+c.
+Shear
+b.
+Tension
+d.
+Pressure
+
+
+ANS:	B	DIF:	Moderate	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Remembering		
+
+	4.	The term for a change in shape induced by stress is ________.
+a.
+elastic rebound
+c.
+strain
+b.
+pressure release
+d.
+metamorphosis
+
+
+ANS:	C	DIF:	Moderate	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Remembering		
+
+	5.	Which of these is NOT one of the components of deformation?
+a.
+displacement
+c.
+distortion
+b.
+rotation
+d.
+dissolution
+
+
+ANS:	D	DIF:	Moderate	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Remembering		
+
+	6.	________ stress results in the smearing out of rock.
+a.
+Compressional
+c.
+Shear
+b.
+Tensional
+d.
+Brittle
+
+
+ANS:	C	DIF:	Easy	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Understanding		
+
+	7.	Why do earthquakes occur only above the brittle-ductile transition depth?
+a.
+Below the transition, the rocks are too hot.
+b.
+Below the transition, the rocks break too easily.
+c.
+Above the transition, the rocks are too hot.
+d.
+Above the transition, the rocks will flow.
+
+
+ANS:	A	DIF:	Moderate	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Understanding		
+
+	8.	A body of rock affected by tensile stress will likely undergo ________.
+a.
+shortening
+c.
+shear strain
+b.
+stretching
+d.
+rotation
+
+
+ANS:	B	DIF:	Moderate	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Understanding		
+
+	9.	How does the rate at which a body of rock is deformed affect its behavior?
+a.
+A rock deformed quickly is likely to exhibit brittle behavior.
+b.
+A rock deformed slowly is likely to exhibit brittle behavior.
+c.
+The rate of deformation has no effect on a rock’s behavior.
+d.
+The rate of deformation is important only below the brittle/plastic transition.
+
+
+ANS:	A	DIF:	Moderate	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Understanding		
+
+	10.	A body of rock affected by compressive stress will likely undergo ________.
+a.
+shortening
+c.
+shear strain
+b.
+stretching
+d.
+rotation
+
+
+ANS:	A	DIF:	Moderate	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Understanding		
+
+	11.	Which type of situation would be more likely to produce folds?
+a.
+cold, brittle crust under tension
+c.
+warm, ductile crust under tension
+b.
+cold, brittle crust under compression
+d.
+warm, ductile crust under compression
+
+
+ANS:	D	DIF:	Easy	REF:	9.2 | 9.3	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Applying
+
+	12.	Under which of these conditions would a body of rock be more likely to exhibit plastic behavior?
+a.
+low temperature
+c.
+low pressure
+b.
+high temperature
+d.
+high rate of deformation
+
+
+ANS:	B	DIF:	Easy	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Applying
+
+	13.	The fossil in the image below has been subjected to what type of stress?
+
+a.
+brittle
+c.
+shear
+b.
+tensional
+d.
+compressional
+
+
+ANS:	C	DIF:	Moderate	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Applying
+
+	14.	Under which condition would a body of rock be most likely to exhibit brittle behavior?
+a.
+slow rate of deformation
+c.
+high temperature
+b.
+low temperature
+d.
+high pressure
+
+
+ANS:	B	DIF:	Moderate	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Applying
+
+	15.	How is stress different from strain?
+a.
+Strain is a measure of the offset on a fault due to applied stress.
+b.
+Stress is the change in shape of a rock due to applied strain.
+c.
+Strain is the change in shape of a rock due to applied stress.
+d.
+They are not different; stress and strain are synonymous.
+
+
+ANS:	C	DIF:	Moderate	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Analyzing
+
+	16.	Normal, reverse, and thrust are all examples of ________ faults.
+a.
+strike-slip
+c.
+oblique-slip
+b.
+dip-slip
+d.
+lateral
+
+
+ANS:	B	DIF:	Easy	REF:	9.3	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Remembering		
+
+	17.	Right-lateral and left-lateral are both examples of ________ faults.
+a.
+strike-slip
+c.
+oblique-slip
+b.
+dip-slip
+d.
+reverse
+
+
+ANS:	A	DIF:	Easy	REF:	9.3	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Remembering		
+
+	18.	A fold shaped like an elongated arch is a(n) ________.
+a.
+anticline
+c.
+dome
+b.
+basin
+d.
+syncline
+
+
+ANS:	A	DIF:	Easy	REF:	9.4	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Remembering		
+
+	19.	Normal faults are generally the result of ________ stress.
+a.
+tensional
+c.
+shear
+b.
+compressional
+d.
+triaxial
+
+
+ANS:	A	DIF:	Moderate	REF:	9.2	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Understanding		
+
+	20.	Folds are most often associated with ________ stress.
+a.
+tensional
+c.
+shear
+b.
+compressional
+d.
+straight
+
+
+ANS:	B	DIF:	Easy	REF:	9.4	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Understanding		
+
+	21.	Tectonic foliation occurs under which of the following conditions?
+a.
+ductile, shear stress
+c.
+brittle, shear stress
+b.
+ductile, tensional stress
+d.
+brittle, compressional stress
+
+
+ANS:	A	DIF:	Difficult	REF:	9.4	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Understanding		
+
+	22.	Regularly spaced joints in an outcrop may indicate that an area ________.
+a.
+is under intense shear stress
+b.
+has experienced compressional stress
+c.
+is underlain by a thrust fault
+d.
+is formed from rocks that were once at great depth
+
+
+ANS:	B	DIF:	Difficult	REF:	9.3	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Understanding		
+
+	23.	The fold in the image below is a(n) ________.
+
+a.
+anticline
+c.
+dome
+b.
+basin
+d.
+syncline
+
+
+ANS:	D	DIF:	Easy	REF:	9.4	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Applying
+
+	24.	On a geologic map, if the contacts between sedimentary rock units form a series of parallel lines, with the youngest unit in the center, the underlying structure is a ________.
+a.
+horizontal anticline
+c.
+horizontal syncline
+b.
+plunging anticline
+d.
+plunging syncline
+
+
+ANS:	C	DIF:	Moderate	REF:	9.4	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Applying
+
+	25.	Which fault below could result from both strike-slip and dip-slip stresses?
+
+a.
+A
+c.
+C
+b.
+B
+d.
+D
+
+
+ANS:	D	DIF:	Moderate	REF:	9.3	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Applying
+
+	26.	In the map below, the vertical, north-south trending fault is a ________ fault.
+
+a.
+normal dip-slip
+c.
+right-lateral strike-slip
+b.
+reverse dip-slip
+d.
+left-lateral strike-slip
+
+
+ANS:	D	DIF:	Difficult	REF:	9.3	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Applying
+
+	27.	The distinction between joints and faults is that ________.
+a.
+faults are joints that are greater than one square meter in areal extent
+b.
+faults are fractures along which displacement has occurred; displacement does not occur along joints
+c.
+joints are fractures along which displacement has occurred; displacement does not occur along faults
+d.
+there is no distinction; the two terms are synonymous
+
+
+ANS:	B	DIF:	Difficult	REF:	9.3	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Analyzing
+
+	28.	________ is the process whereby rocks from depth are exposed at the surface during mountain building.
+a.
+Subsidence
+c.
+Jointing
+b.
+Uplift
+d.
+Foliation
+
+
+ANS:	B	DIF:	Easy	REF:	9.1	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Remembering		
+
+	29.	An episode of mountain building is termed a(n) ________.
+a.
+orogeny
+c.
+aureole
+b.
+phylogeny
+d.
+slickenside
+
+
+ANS:	A	DIF:	Moderate	REF:	9.1	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Remembering		
+
+	30.	Continental crust is typically 35 kilometers thick but may be up to ________ thick under mountain ranges.
+a.
+40 km
+c.
+200 km
+b.
+70 km
+d.
+400 km
+
+
+ANS:	B	DIF:	Moderate	REF:	9.5	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Remembering		
+
+	31.	The balance between the weight of a mountain range and the buoyancy provided by the underlying mantle is termed ________ equilibrium.
+a.
+punctuated
+c.
+isostatic
+b.
+homeostatic
+d.
+osmotic
+
+
+ANS:	C	DIF:	Moderate	REF:	9.6	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Remembering		
+
+	32.	Mountain ranges formed along subduction zones are formed, in part, by ________ in the crust.
+a.
+compression
+c.
+extension
+b.
+stretching
+d.
+elongation
+
+
+ANS:	A	DIF:	Easy	REF:	9.5	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Understanding		
+
+	33.	Normal faulting is most often associated with mountain building along ________ boundaries, while reverse faulting is generally observed at ________ boundaries.
+a.
+divergent; transform
+c.
+convergent; divergent
+b.
+transform; convergent
+d.
+divergent; convergent
+
+
+ANS:	D	DIF:	Difficult	REF:	9.5	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Understanding		
+
+	34.	Which of these properly illustrates the principle of isostasy?
+a.
+High-density crust floats on top of low-density mantle.
+b.
+Mountains stand high because they are gravitationally balanced by their deep crustal roots.
+c.
+When weight is added to the crust, the crust responds by rebounding upward.
+d.
+When material is removed from the crust, the crust maintains the new, lower elevation.
+
+
+ANS:	B	DIF:	Difficult	REF:	9.6	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Understanding		
+
+	35.	On which plate boundary would you be most likely to find mountains?
+a.
+Eastern North American Plate
+c.
+Northern Antarctic Plate
+b.
+Western South American Plate
+d.
+Western Nazca Plate
+
+
+ANS:	B	DIF:	Easy	REF:	9.5	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Applying
+
+	36.	The formation of the Basin and Range Province is associated with which of the following processes?
+a.
+continental rifting
+c.
+fold and thrust faulting
+b.
+continental collision
+d.
+subduction zone volcanism
+
+
+ANS:	A	DIF:	Moderate	REF:	9.5	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Applying
+
+	37.	During the formation of Pangea, Africa collided with North America and created the Appalachian Mountains. Which of the following mountain ranges is a modern analogue for the ancient Appalachian Mountains?
+a.
+Andes Mountains
+c.
+Italian Alps
+b.
+Sierra Nevada Mountains
+d.
+Cascade Mountains
+
+
+ANS:	C	DIF:	Difficult	REF:	9.5	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Applying
+
+	38.	The Himalayan mountain range was formed at which tectonic setting?
+a.
+a convergent plate boundary
+c.
+a transform plate boundary
+b.
+a divergent plate boundary
+d.
+a hotspots
+
+
+ANS:	A	DIF:	Moderate	REF:	9.5	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Analyzing
+
+	39.	What happens to the crustal root of a mountain range as the mountains are slowly eroded away?
+a.
+The crustal root is eroded away at the same rate.
+b.
+The crustal root remains stationary.
+c.
+The crustal root sinks deeper into the mantle.
+d.
+The crustal root rises out of the mantle.
+
+
+ANS:	D	DIF:	Difficult	REF:	9.6	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Analyzing
+
+	40.	Regions where Precambrian metamorphic rocks are exposed at the surface are termed ________.
+a.
+shields
+c.
+convergent margins
+b.
+cratonic platforms
+d.
+domes
+
+
+ANS:	A	DIF:	Easy	REF:	9.7	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Remembering		
+
+	41.	The outer portion of a craton, where deformed rocks are covered by sediments, is termed the ________.
+a.
+shield
+c.
+convergent margin
+b.
+cratonic platform
+d.
+exotic terrane
+
+
+ANS:	B	DIF:	Easy	REF:	9.7	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Remembering		
+
+	42.	Regions of continents that have NOT been subjected to orogeny during the past one billion years are termed ________.
+a.
+exotic terranes
+c.
+cratons
+b.
+accreted terranes
+d.
+cratonic platforms
+
+
+ANS:	C	DIF:	Moderate	REF:	9.7	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Remembering		
+
+	43.	Metamorphic rocks found in cratons are exposed during orogenesis by ________.
+a.
+magmatic intrusion
+c.
+shear strain
+b.
+epeirogeny
+d.
+exhumation
+
+
+ANS:	D	DIF:	Easy	REF:	9.6	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Understanding		
+
+	44.	The process of ________ turns the steep slopes of mountains into gentle hills.
+a.
+shortening
+c.
+uplift
+b.
+erosion
+d.
+expansion
+
+
+ANS:	B	DIF:	Easy	REF:	9.6	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Understanding		
+
+	45.	Why can mountains on Earth NOT grow as high as those on Mars?
+a.
+The geothermal gradient on Earth is too high.
+b.
+Gravity on Earth is much lower than on Mars.
+c.
+The rate of erosion is significantly higher on Earth.
+d.
+The rate of uplift is significantly higher on Mars.
+
+
+ANS:	A	DIF:	Moderate	REF:	9.6	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Understanding		
+
+	46.	Cratonic platforms generally show ________ topography.
+a.
+rugged, steep
+c.
+gentle, subdued
+b.
+jagged, subdued
+d.
+angular, subdued
+
+
+ANS:	C	DIF:	Easy	REF:	9.7	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Applying
+
+	47.	Shields contain vast areas of exposed metamorphic rocks; this is due to the ________ process.
+a.
+exhumation
+c.
+burial
+b.
+epeirogenic
+d.
+sedimentation
+
+
+ANS:	A	DIF:	Easy	REF:	9.6	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Applying
+
+	48.	Erosional processes work to remove material from mountains; thus, overtime the topography will become less ________.
+a.
+rugged
+c.
+flat-lying
+b.
+weathered
+d.
+stretched
+
+
+ANS:	A	DIF:	Moderate	REF:	9.6	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Applying
+
+	49.	Mount Marshak towers above the landscape at 5.3 km tall. The rate of uplift at Mount Marshak is 1.3 mm/yr and the rate of erosion is 1.5 mm/yr. How tall will Mount Marshak be after a million years, assuming everything remains constant?
+a.
+5.5 km
+c.
+5.1 km
+b.
+7.3 km
+d.
+3.3 km
+
+
+ANS:	C	DIF:	Difficult	REF:	9.6	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Applying
+
+	50.	What can be said about a mountain range that is being uplifted at 2 cm/yr but is not growing any taller?
+a.
+The crustal root is thinning at the same rate as the uplift.
+b.
+The crustal root is thickening faster than the uplift.
+c.
+The rate of erosion is the same as the rate of uplift.
+d.
+The rate of erosion is higher than the rate of uplift.
+
+
+ANS:	C	DIF:	Difficult	REF:	9.6	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Analyzing
+
+SHORT ANSWER
+
+	1.	Describe the differences between brittle and ductile deformation.
+
+ANS:	
+Brittle deformation occurs in rigid materials or as a result of very high strain rates and produces fractures. Ductile deformation occurs in plastic materials or results of very low strain rates and produces folds and flow in rocks.
+
+DIF:	Easy	REF:	9.2	
+OBJ:	Understand how and why rocks deform (crack, bend, or flow) during mountain building.
+MSC:	Analyzing
+
+	2.	What types of geologic structures would you expect to find in an area that had undergone compression?
+
+ANS:	
+Answers will vary; however, students should mention folding, reverse and thrust faulting, and perhaps tectonic foliation. They should not mention normal faulting.
+
+DIF:	Easy	REF:	9.2 | 9.3 | 9.4	
+OBJ:	Understand the characteristics of basic geologic structures (joints, faults, folds, foliations), and how to describe them.			MSC:	Applying
+
+	3.	Explain how the mountains in the Basin and Range Province were formed?
+
+ANS:	
+The mountains in the Basin and Range Province are the result of continental rifting processes. As the crust is pulled apart via tensional stress, the plate begins to thin. Much of this thinning is accommodated by normal faulting within the rift basin. A series of fault-block mountains is created as blocks of crust rotate down along normal faults, producing the series of basins and mountain ranges typical of the Basin and Range Province.
+
+DIF:	Moderate	REF:	9.5	
+OBJ:	Understand where and why mountain belts form, what processes cause their uplift, and how their formation relates to plate tectonics.	MSC:	Understanding		
+
+	4.	Explain what the ultimate fate is of all mountains on Earth?
+
+ANS:	
+The ultimate fate of any mountain on Earth is to erode away completely and become part of the rock cycle again.
+
+DIF:	Easy	REF:	9.6	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Understanding		
+
+	5.	The Appalachian Mountains were formed due to the collision of North America and Africa at the end of the Paleozoic era. Describe what the Appalachians looked like when formed and what has caused them to become a series of gently sloping hills today?
+
+ANS:	
+The Appalachian Mountains probably looked very similar to the Himalayan Mountains—very tall, steep slopes and rugged, towering peaks. Erosion and orogenic collapse have slowly unroofed the metamorphic core and subdued the topography.
+
+DIF:	Moderate	REF:	9.5 | 9.6	
+OBJ:	Understand how nature carves mountain ranges into rugged landscapes.
+MSC:	Analyzing

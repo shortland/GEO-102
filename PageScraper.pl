@@ -9,6 +9,8 @@ my $pageData = `curl -s "$baseURL"`;
 my @pages = ($pageData =~ m/<li><a href="[\w\d]+\.rtf">\s?(\w+)/g);
 
 foreach my $page (@pages) {
-	print "Getting page: $page\n";
-	`curl "$baseURL/$page.rtf" > "Questions/$page.rtf"`;
+	$page =~ m/_(ch[0-9]+|int[A-Z])/;
+	my $newPageName = $1;
+	print "Getting page: $newPageName\n";
+	`curl "$baseURL/$page.rtf" > "RawQuestions/$newPageName.rtf"`;
 }

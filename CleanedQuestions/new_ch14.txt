@@ -1,0 +1,550 @@
+CHAPTER 14: Streams and Floods: The Geology of Running Water
+
+MULTIPLE CHOICE
+
+1. In uniform sediments with a relatively constant and gentle slope at the surface, a ________ drainage network is expected.
+a. dendritic
+c. rectangular
+b. radial
+d. trellis
+
+ANS: A
+
+
+
+2. In a region with prominent orthogonal (perpendicular to each other) sets of joints, a ________ drainage network is expected.
+a. dendritic
+c. rectangular
+b. radial
+d. trellis
+
+ANS: C
+
+
+
+3. Meandering streams ________.
+a. consist of a series of intertwined channels that are overloaded with sediment
+b. have flowing water either episodically or during only a portion of the year
+c. have a channel that is highly sinuous (curvy)
+d. are those that divert flow from streams they have intersected through stream erosion
+
+ANS: C
+
+
+
+4. Braided streams ________.
+a. consist of a series of intertwined channels that are overloaded with sediment
+b. have flowing water either episodically or during only a portion of the year
+c. have a channel that is highly sinuous (curvy)
+d. are those that divert flow from streams they have intersected through stream capture
+
+ANS: A
+
+
+
+5. Ephemeral streams ________.
+a. consist of a series of intertwined channels that are overloaded with sediment
+b. have flowing water either episodically or during only a portion of the year
+c. have a channel that is highly sinuous (curvy)
+d. are those that divert flow from streams they have intersected through stream erosion
+
+ANS: B
+
+
+
+6. The figure below shows an example of a ________ drainage network.
+
+a. dendritic
+c. rectangular
+b. radial
+d. trellis
+
+ANS: A
+
+
+
+7. The figure below shows an example of a ________ drainage network.
+
+a. dendritic
+c. rectangular
+b. radial
+d. trellis
+
+ANS: B
+
+
+
+8. The figure below shows an example of a ________ drainage network.
+
+a. dendritic
+c. rectangular
+b. radial
+d. trellis
+
+ANS: D
+
+
+
+9. Which of the following is true of ephemeral streams but NOT permanent streams?
+a. They are subject to erosion of sediment.
+b. They contain water only during rainfall.
+c. They can be fed by large drainage basins.
+d. They occur only in tropical regions.
+
+ANS: B
+
+
+
+10. The inner edge of a meander, where sediment is deposited, is called a(n) ________.
+a. meander neck
+c. point bar
+b. cut bank
+d. abandoned meander
+
+ANS: C
+
+
+
+11. The outer edge of a meander, where material is being eroded, is called a(n) ________.
+a. meander neck
+c. point bar
+b. cut bank
+d. abandoned meander
+
+ANS: B
+
+
+
+12. The discharge of a river will increase if ________.
+a. the water in the river slows down
+b. it rains in the drainage basin area
+c. the area does not receive rain for a while
+d. sediments settle to the bottom of the river
+
+ANS: B
+
+
+
+13. Landslides along cut banks are common; how would a landslide along a cut bank affect the discharge of a river (hint: the equation for discharge is D = Ac x Va)?
+a. The discharge would decrease because the velocity of the river would increase.
+b. The discharge would increase because the velocity of the river would decrease.
+c. The discharge would increase because the cross-sectional area of the river would decrease.
+d. The discharge would increase because the cross-sectional area of the river would increase.
+
+ANS: D
+
+
+
+14. The total sediment load of a stream consists of all of the following EXCEPT the ________ load.
+a. turbulent
+c. bed
+b. suspended
+d. dissolved
+
+ANS: A
+
+
+
+15. Within a meander, where is sediment most likely to be deposited?
+a. on the outer banks of the meander
+c. uniformly to either side of the meander
+b. on the inner banks of the meander
+d. directly in the middle of the meander
+
+ANS: B
+
+
+
+16. The discharge of a river traveling through a temperate region will typically ________ downstream; the discharge of a river traveling through an arid region will typically ________ downstream.
+a. increase; increase
+c. increase; decrease
+b. decrease; decrease
+d. decrease; increase
+
+ANS: C
+
+
+
+17. A small mountain stream will have a ________ competence and a ________ capacity than the Mississippi River.
+a. lower; lower
+c. greater; greater
+b. lower; greater
+d. greater; lower
+
+ANS: D
+
+
+
+18. As the velocity of flow decreases, which of the following is NOT true?
+a. The flow tends to become more laminar.
+b. The competence increases.
+c. Suspended sediment starts to be deposited.
+d. The saltation of the bed load may cease.
+
+ANS: B
+
+
+
+19. The slope of a stream surface measured between two points along its course is the ________.
+a. base level
+c. gradient
+b. floodplain
+d. thalweg
+
+ANS: C
+
+
+
+20. Ultimately, the base level of a stream valley can be no lower than the ________.
+a. average elevation of the continent on which it is found
+b. average elevation of the sea
+c. average elevation of the local catchment
+d. maximum elevation of the local catchment
+
+ANS: B
+
+
+
+21. The competence of a mountain river is ________ than that of a river on a floodplain because ________.
+a. lower; the gradient is greater
+c. lower; there are more boulders
+b. higher; the gradient is greater
+d. higher; there is more water
+
+ANS: B
+
+
+
+22. The stream gradient of most rivers ________.
+a. is greater near the source than near the mouth
+b. is greater near the mouth than near the source
+c. does not change significantly as a river flows downstream
+d. is greater for a meandering stream than for any other type
+
+ANS: A
+
+
+
+23. A meander that is cut off to become completely isolated from the main channel but which retains water is a(n) ________.
+a. meander neck
+c. oxbow lake
+b. cut bank
+d. thalweg
+
+ANS: C
+
+
+
+24. All else being equal, water will flow faster in a stream that has a ________, which is typically found near the river’s ________.
+a. steep gradient; source
+c. gentle gradient; source
+b. steep gradient; mouth
+d. gentle gradient; mouth
+
+ANS: A
+
+
+
+25. The base level of a tributary would become ________ if a dam and a reservoir were constructed where it flowed into a trunk stream.
+a. lower
+c. faster
+b. slower
+d. higher
+
+ANS: D
+
+
+
+26. At a river delta, which of the following is FALSE?
+a. The stream gradient decreases.
+b. A single channel breaks into multiple, radiating distributary channels.
+c. The competence decreases.
+d. The stream channel becomes very straight because of the large sediment load.
+
+ANS: D
+
+
+
+27. A(n) ________ is formed when a meander neck is cut off from the rest of the river.
+a. oxbow lake
+c. point bar
+b. cut bank
+d. floodplain
+
+ANS: A
+
+
+
+28. When one stream captures the flow from another stream it is called ________.
+a. stream rejuvenation
+c. antecedent capture
+b. stream piracy
+d. beveled capture
+
+ANS: B
+
+
+
+29. Geological evidence suggests that many millions of years ago, the Amazon basin drained toward the west rather than the east. What caused this drainage reversal?
+a. a rise in the global sea level
+c. the rise of the Andes Mountains
+b. a lowering in the global sea level
+d. global climate change
+
+ANS: C
+
+
+
+30. The distinction between a valley and a canyon is ________.
+a. nonexistent; the two terms are synonymous
+b. that the sides of a canyon are more steep than those of a valley
+c. that the sides of a valley are more steep than those of a canyon
+d. that valleys are often cut by streams, whereas canyons are eroded by the wind
+
+ANS: B
+
+
+
+31. Pirate streams ________.
+a. consist of a series of intertwined channels that are overloaded with sediment
+b. have flowing water either episodically or during only a portion of the year
+c. have a channel that is highly sinuous (curvy)
+d. form when headward erosion causes one stream to intersect another
+
+ANS: D
+
+
+
+32. The figure below is an aerial photograph of a meandering stream. The light-colored features labeled with arrows are ________.
+
+a. thalwegs
+c. flood plains
+b. cut banks
+d. point bars
+
+ANS: D
+
+
+
+33. What physical property of the underlying rock would lead to the formation of a cliff over which a waterfall may form?
+a. a high resistance to erosion
+c. large permeability
+b. high porosity
+d. very fine grain sizes
+
+ANS: A
+
+
+
+34. Why do meandering rivers meander (move) across their floodplain?
+a. because the large amounts of sediments that choke the rivers create point bars that are easily eroded away by additional flow of the rivers
+b. because they carry very small amounts of sediment and thus are not slowed down as a result of friction between the sediment and the river bottom
+c. because they are curved, which causes erosion on one side of the curve and deposition on the other side of the curve, thus moving the river in the direction of erosion
+d. because sediment is constantly being deposited on the river bottom, which causes the river to overflow its banks and create a new channel
+
+ANS: C
+
+
+
+35. The flat-lying area surrounding a river channel is termed the ________.
+a. base level
+c. stream gradient
+b. floodplain
+d. thalweg
+
+ANS: B
+
+
+
+36. One way to mitigate flooding is to build ________, which are areas that are intended to flood and as such are not zoned for buildings.
+a. floodways
+c. peneplains
+b. floodplains
+d. artificial levees
+
+ANS: A
+
+
+
+37. The ________ is the average number of years between floods.
+a. discharge limit
+c. recurrence interval
+b. annual probability
+d. flood-hazard gap
+
+ANS: C
+
+
+
+38. ________ increases the volume of water in and decreases the lag time of a flood.
+a. Establishment of natural levees
+c. Building a floodway
+b. Urbanization of an area
+d. Establishing farms
+
+ANS: B
+
+
+
+39. Which of the following is FALSE? A 100-year flood ________.
+a. has a 1% chance of occurring in any given year
+b. is more destructive than a 50-year flood
+c. cannot occur in successive years
+d. is based on the average recurrence interval of past floods for a particular stream
+
+ANS: C
+
+
+
+40. Using the following graph, predict the discharge for a 100-year flood.
+
+a. 600 ft3/s
+c. 700 ft3/s
+b. 650 ft3/s
+d. 100 ft3/s
+
+ANS: B
+
+
+
+41. If a 50-year flood occurs on the Mississippi River this year, what is the probability that a flood of the same magnitude will occur in the following year?
+a. zero
+c. 2%
+b. 1%
+d. 50%
+
+ANS: C
+
+
+
+42. Why are artificial levees only useful for some flooding events?
+a. Levees cannot be built larger than the surrounding floodplain.
+b. Flash floods occur too quickly for officials to close the levees.
+c. Levees are built in rural areas and will not help for flooding in the city.
+d. Large floods can create high pressures and undermine the levee.
+
+ANS: D
+
+
+
+43. ________ provide hydroelectric power; however, they also form barriers for migrating fish.
+a. Dams
+c. Floodways
+b. Levees
+d. Floodplains
+
+ANS: A
+
+
+
+44. Urbanization causes an increase in the volume of water entering a stream due to the abundance of ________ surfaces in cities and towns.
+a. permeable
+c. pourous
+b. impermeable
+d. potable
+
+ANS: B
+
+
+
+45. Dead zones occur due to a lack of ________ in the oceans.
+a. sediments
+c. oxygen
+b. phosphorus
+d. nitrogen
+
+ANS: C
+
+
+
+46. Dead zones are areas along the coasts where rivers spill excess nutrients into the oceans. Microorganisms feed on these nutrients, which in turn causes them to use up all the ________ in the water and kill larger organisms like fish.
+a. sediments
+c. oxygen
+b. phosphorus
+d. nitrogen
+
+ANS: C
+
+
+
+47. ________ release extra sediment to rivers, while ________ cause(s) a decrease in the sediment supply downriver.
+a. Dams; urbanization
+c. Dams; farms
+b. Farms; urbanization
+d. Farms; dams
+
+ANS: D
+
+
+
+48. If a dam is built on a river, what effects might be felt downstream?
+a. increase in the fish population
+c. increase in the sediment load
+b. decrease in sediment supply
+d. increase in flood potential
+
+ANS: B
+
+
+
+49. What is the effect on a river that runs through farmland?
+a. Sediment load will increase.
+c. The farm will dry out the river.
+b. Sediment load will decrease.
+d. The farm will add water to the river.
+
+ANS: A
+
+
+
+50. If a large airport, complete with paved runways, parking lots, and many new structures, is built next to a river, what might the effect be?
+a. a decrease in the fish population
+b. diminished nutrient supply for fish
+c. an increase in the likelihood of flooding
+d. Overuse of water will dry out the river.
+
+ANS: C
+
+
+
+SHORT ANSWER
+
+1. What is a stream? How is it similar/different from a river or a creek?
+
+ANS:
+A stream is a body of water that flows down a channel. A river is a large stream, while a creek is a small stream.
+
+
+
+2. You are a geologist trying to determine the discharge of a River. The stream is semi-circular in shape with a width of 10 meters. You measure the velocity of the river to be 0.2 m/s. What is the discharge of the river? Make sure to show your work for full credit.
+
+ANS:
+D = Ac x va
+Area of a circle = πr2
+Area of a semicircle = (1/2) πr2
+ = (1/2) π(10 m)2 = 157 m2
+D = 157 m2 × 0.2 m/s = 31.4 m3/s
+Discharge is 31.4 m3/s
+
+
+
+3. What will happen to a stream if the local base level is increased, for instance, by adding a dam to the river?
+
+ANS:
+Creating a local stream level will cause the river to slow as it enters the new reservoir. As the velocity of the river drops, the river will begin to deposit sediment.
+
+
+
+4. Name and describe two methods to mitigate flood hazards.
+
+ANS:
+Answers will vary but may include the building of levees or dams to control flooding, the building of floodways to reduce the damage to structures, the calculation of flood probability, and the creation of flood hazard maps to help with planning and zoning.
+
+
+
+5. Building dams on rivers traps sediment behind the dams—sediments that would normally have traveled all the way down the river and out into the ocean. How might this sediment starvation affect the coastal beaches?
+
+ANS:
+Beach sand along rivers is constantly moving and eroding away. If the beaches are not supplied with fresh sediment from nearby rivers, the beaches will erode away completely.
+
+

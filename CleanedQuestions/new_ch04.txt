@@ -1,0 +1,579 @@
+CHAPTER 04: Up from the Inferno: Magma and Igneous Rocks
+
+MULTIPLE CHOICE
+
+1. The interior of Earth consists almost entirely of ________ rock.
+a. solid
+c. sedimentary
+b. molten
+d. felsic
+
+ANS: A
+
+
+
+2. The mantle is composed entirely of ________.
+a. solid peridotite
+c. molten peridotite
+b. solid basalt
+d. molten basalt
+
+ANS: A
+
+
+
+3. The extremely high ________ within Earth keeps the rocks solid.
+a. temperature
+c. silica content
+b. pressure
+d. water content
+
+ANS: B
+
+
+
+4. Why is the outer core the only layer in Earth that is molten?
+a. The pressure decreases within Earth, thus allowing iron to melt.
+b. The pressure increases within Earth, thus allowing iron to melt.
+c. The temperature is high enough but pressure low enough to melt iron.
+d. The temperature is high enough but pressure low enough to melt olivine.
+
+ANS: C
+
+
+
+5. Despite the fact that the temperatures within Earth are hot enough to melt rock, Earth is mostly solid. Why do the rocks within Earth NOT melt?
+a. The pressure is too high.
+c. There is not enough water.
+b. The pressure is too low.
+d. They are not in contact with air.
+
+ANS: A
+
+
+
+6. In Bowen’s discontinuous reaction series, the first mineral to crystallize from a mafic melt is ________.
+a. olivine
+c. pyroxene
+b. plagioclase
+d. quartz
+
+ANS: A
+
+
+
+7. Important volatiles in magmas include ________.
+a. mafic minerals, such as olivine
+c. water and carbon dioxide
+b. potassium and aluminum
+d. silicon and iron
+
+ANS: C
+
+
+
+8. Volatiles refer to substances that ________.
+a. crystallize most rapidly out of a melt
+b. remain molten even after lava is erupted at the surface
+c. melt immediately upon contact with a hot body of magma
+d. are gases at surface temperature and pressure
+
+ANS: D
+
+
+
+9. The formation of magma within Earth is NOT caused by which of the following processes?
+a. decompression (drop in pressure)
+b. addition of volatiles
+c. transfer of heat from adjacent magma or very hot rocks
+d. loss of volatiles to the atmosphere
+
+ANS: D
+
+
+
+10. ________ melting occurs at subduction zones because the down-going plate ________.
+a. Heat transfer; is extremely hot
+b. Heat transfer; creates abundant friction
+c. Flux; contains abundant water
+d. Decompression; rises toward the surface
+
+ANS: C
+
+
+
+11. Decompression melting occurs at both ________ and ________.
+a. mid-ocean ridges; hotspots
+c. subduction zones; hotspots
+b. mid-ocean ridges; trenches
+d. subduction zones; mid-ocean ridges
+
+ANS: A
+
+
+
+12. Injecting hot fudge into ice cream and causing the ice cream to melt is an appropriate analogy for which cause of magma melt?
+a. melting due to a decrease in pressure
+b. melting due to an addition of volatiles
+c. melting due to heat transfer from rising magma
+d. melting due to an increase in pressure
+
+ANS: C
+
+
+
+13. If a body of magma is subjected to fractional crystallization, the first rock that is expected to crystallize from the magma will be ________.
+a. identical in chemical composition to the magma
+b. more mafic than the magma
+c. more felsic than the magma
+d. The composition of the rock is not predictable.
+
+ANS: B
+
+
+
+14. Given the solidus and liquidus curves below, which location represents material that is partially melted?
+
+a. A
+c. C
+b. B
+d. D
+
+ANS: C
+
+
+
+15. The difference between magma and lava is that ________.
+a. magma cools more rapidly than lava
+b. magma is found at the surface, whereas lava is found below the surface
+c. magma is found beneath the surface, whereas lava is found at the surface
+d. There is no difference; the two terms mean the same thing.
+
+ANS: C
+
+
+
+16. Which type of magma has the greatest silica content?
+a. felsic
+c. mafic
+b. intermediate
+d. ultramafic
+
+ANS: A
+
+
+
+17. Viscosity controls how ________.
+a. hot the fluid is
+c. quickly the fluid cools
+b. fast a rock will melt
+d. fast a fluid flows
+
+ANS: B
+
+
+
+18. Viscosity does NOT depend on ________.
+a. temperature
+c. silica content
+b. volatile content
+d. volume of the magma
+
+ANS: D
+
+
+
+19. The composition of magma will ________ when it erupts and turns into lava.
+a. remain the same
+c. become more mafic
+b. become more felsic
+d. have more silica
+
+ANS: A
+
+
+
+20. All things equal, a magma will have ________ viscosity than a lava.
+a. the same
+c. lower
+b. fractional
+d. higher
+
+ANS: C
+
+
+
+21. If the volatile content of magma is increased, its viscosity will ________.
+a. increase
+b. decrease
+c. stay the same
+d. Volatile content has no effect on viscosity.
+
+ANS: B
+
+
+
+22. All other factors being equal, if a body of magma becomes more felsic, its viscosity will ________.
+a. increase
+b. decrease
+c. stay the same
+d. Chemical composition has no effect on viscosity.
+
+ANS: A
+
+
+
+23. In general, if a body of igneous (source) rock is subjected to partial melting, the magma that is produced is expected to be ________.
+a. identical in chemical composition to the source rock
+b. more mafic than the source rock
+c. more felsic than the source rock
+d. The melt composition is not predictable.
+
+ANS: C
+
+
+
+24. An irregular-shaped and blob-like igneous rock body that cooled beneath the surface of Earth is a ________.
+a. dike
+c. sill
+b. pluton
+d. laccolith
+
+ANS: B
+
+
+
+25. A sill is a(n) ________.
+a. tabular intrusion that lies parallel to surrounding layers of sedimentary rock
+b. cooled layer of an ancient lava flow
+c. intrusion formed within the magma chamber of a volcano
+d. tabular intrusion that cuts across preexisting layers
+
+ANS: A
+
+
+
+26. A batholith is a(n) ________.
+a. large body of sedimentary rock
+c. amalgamation of plutons
+b. large body of metamorphic rock
+d. amalgamation of aureoles
+
+ANS: C
+
+
+
+27. Magma tends to ________.
+a. move upward, away from where it formed
+b. move downward, away from where it formed
+c. move laterally
+d. stay in one place
+
+ANS: A
+
+
+
+28. Stoping by magmas occurs when ________.
+a. pieces of surrounding country rock are broken off and assimilated
+b. the magma stops flowing and starts to solidify
+c. the magma becomes fully solidified to form intrusive rock
+d. the magma alters a thin rind of surrounding country rock
+
+ANS: A
+
+
+
+29. In the figure provided below, what type of igneous intrusion is the horizontal rock unit shown by letter A? 
+
+a. dike
+c. pluton
+b. sill
+d. laccolith
+
+ANS: B
+
+
+
+30. The image below is of a ________.
+
+a. sill
+c. dike
+b. pluton
+d. batholith
+
+ANS: C
+
+
+
+31. All other factors being equal (i.e., depth, volume, temperature, etc.), which type of igneous intrusion would cool fastest?
+a. pluton
+c. batholith
+b. dike
+d. All intrusions cool at the same rate.
+
+ANS: B
+
+
+
+32. Dikes serve an alternate purpose besides being an area where magma solidifies. For what else are dikes used?
+a. pathways for geyser flow
+c. storage space for nuclear materials
+b. linear holes that fill with sand
+d. magma pathways to surface volcanoes
+
+ANS: D
+
+
+
+33. An igneous rock with a mixed texture of coarse crystals (phenocrysts) surrounded by fine crystals (groundmass) is termed ________.
+a. porphyritic
+c. aphanitic
+b. phaneritic
+d. necrotic
+
+ANS: A
+
+
+
+34. Ash, and larger fragments of pumice are all examples of ________.
+a. intrusive igneous rocks
+c. volatiles
+b. hot spots
+d. pyroclastic debris
+
+ANS: D
+
+
+
+35. Most commonly, felsic igneous rocks ________.
+a. contain more iron and magnesium than intermediate rocks
+b. are lighter in color than mafic rocks
+c. are darker in color than mafic rocks
+d. are found in oceanic crust
+
+ANS: B
+
+
+
+36. Which of the following is NOT a characteristic of the extrusive igneous rock obsidian?
+
+a. It is composed of volcanic glass.
+c. It is typically felsic in composition.
+b. It possesses conchoidal fracture.
+d. It likely cooled very slowly.
+
+ANS: D
+
+
+
+37. The presence of vesicles in an igneous rock is evidence that the source melt ________.
+a. had a mafic composition
+b. contained dissolved volatiles
+c. underwent fractional crystallization
+d. was stoping and assimilating wall rock
+
+ANS: B
+
+
+
+38. As compared to coarse-grained igneous rocks, fine-grained igneous rocks ________.
+a. cool and solidify more quickly
+c. solidify at higher temperatures
+b. cool and solidify more slowly
+d. solidify at lower temperatures
+
+ANS: A
+
+
+
+39. Coarse-grained granite is most similar in mineral composition to fine-grained ________.
+a. andesite
+c. gabbro
+b. basalt
+d. rhyolite
+
+ANS: D
+
+
+
+40. As compared to mafic igneous rocks, all felsic igneous rocks ________.
+a. cool and solidify more quickly
+c. solidify at higher temperatures
+b. cool and solidify more slowly
+d. solidify at lower temperatures
+
+ANS: D
+
+
+
+41. Which of the following silicate minerals is often found in granite?
+a. olivine
+c. pyroxene
+b. calcite
+d. quartz
+
+ANS: B
+
+
+
+42. Volcanic arcs form along ________ boundaries.
+a. transform
+c. convergent
+b. transvergent
+d. divergent
+
+ANS: C
+
+
+
+43. Volcanic eruptions at divergent boundaries generally take the form of ________.
+a. pillow basalts
+c. lava domes
+b. pyroclastic flows
+d. pyroclastic falls
+
+ANS: A
+
+
+
+44. Volcanoes whose magma source is NOT linked to a plate boundary are associated with ________.
+a. continental rifts
+c. mid-ocean ridges
+b. hot spots
+d. subduction zones
+
+ANS: B
+
+
+
+45. An oceanic plate subducting under another oceanic plate will create a(n) ________.
+a. island arc
+c. continental rift
+b. continental arc
+d. transform fault
+
+ANS: A
+
+
+
+46. The formation of a hotspot is thought to be associated with ________.
+a. convergent boundaries
+c. mantle plumes
+b. divergent boundaries
+d. mid-ocean ridges
+
+ANS: C
+
+
+
+47. Which of the following pictures of volcanoes is the result of a convergent boundary?
+
+a. A
+c. C
+b. B
+d. D
+
+ANS: B
+
+
+
+48. Which of the places listed below was formed by a hotspot?
+a. Mount St. Helens, Washington
+c. Kilauea, Hawaii
+b. Mount Fuji, Japan
+d. Mount Pinatubo, Philippines
+
+ANS: C
+
+
+
+49. Large igneous provinces involve more than just the formation of large volumes of igneous rock. Which of the following global events has NOT been attributed to large igneous provinces?
+a. sea-level rise
+c. extinction
+b. climate change
+d. large outcrops of granite
+
+ANS: D
+
+
+
+50. Which type of plate boundary hosts the most explosive volcanoes?
+a. convergent only
+c. transform and convergent
+b. divergent only
+d. convergent and divergent
+
+ANS: A
+
+
+
+SHORT ANSWER
+
+1. Describe the process of decompression melting; be sure to include an example of where this type of melting occurs within Earth.
+
+ANS:
+Decompression melting occurs at divergent boundaries (mid-ocean ridges and rifts) and in mantle plumes when mantle rock is subjected to a decrease in pressure. The decrease in pressure allows the atoms more space to move, which in turn begins to break chemical bonds, turning a solid into a liquid.
+
+
+
+2. List the four major magma compositions in order of silica content.
+
+Silica Content
+Magma Composition
+Highest
+
+
+
+
+
+
+
+Lowest
+
+
+
+
+
+
+ANS:
+Silica Content
+Magma Composition
+Highest
+
+
+
+
+
+
+
+Lowest
+Felsic
+Intermediate
+Mafic
+Ultramafic
+
+
+
+
+3. Describe the difference between the relative viscosity of felsic versus mafic magma and how this affects the rate of flow of each type.
+
+ANS:
+Felsic magma has a high viscosity whereas mafic magma has a low viscosity. Magma with a high viscosity, such as felsic magmas, will flow much more slowly than those with a lower viscosity, such as mafic magma.
+
+
+
+4. The two images below are of a rhyolite and a granite. First, label each rock with its proper rock name. Second, describe the difference in cooling history of the two rocks.
+
+
+ANS:
+The left image is rhyolite and the right image is granite. The rhyolite cooled very quickly above ground, while the granite cooled very slowly below ground. Rocks should be labeled as below.
+
+
+
+5. Label the cross-section of the convergent boundary shown below. Be sure to use all of the following words/phrases: down-going plate, overriding plate, trench, volcanic arc, volatiles being released, magma forming, Moho, magma rising.
+
+
+ANS:
+
+
+

@@ -1,0 +1,568 @@
+CHAPTER 18: Amazing Ice: Glaciers and Ice Ages
+
+MULTIPLE CHOICE
+
+1. ________ glaciers cover vast areas of land, whereas ________ glaciers are restricted to mountaintops.
+a. Alpine; continental
+c. Piedmont; cirque
+b. Continental; alpine
+d. Piedmont; valley
+
+ANS: B
+
+
+
+2. At the present, glaciers cover about ________ of the surface of the continents.
+a. 1%
+c. 10%
+b. 5%
+d. 20%
+
+ANS: C
+
+
+
+3. An intermediate product in the transformation of snow to glacial ice is ________.
+a. firn
+c. ablation
+b. deposition
+d. terminus
+
+ANS: A
+
+
+
+4. ________ involves the internal flowing of ice under, generally, solid conditions, via the breaking and reforming of chemical bonds.
+a. Brittle flowing
+c. Plastic deformation
+b. Basal sliding
+d. Plastic sliding
+
+ANS: C
+
+
+
+5. Glaciers that move via basal sliding can often undergo surges in which they move at a much faster rate than normal because they ________.
+a. are not slowed down by plastic deformation
+b. float on a cushion of air like avalanches
+c. have minimal frictional contact with bedrock
+d. have a larger volume than other glaciers
+
+ANS: C
+
+
+
+6. Glacial ice forms when snow accumulates in large enough volumes to compact and force ________ out and ________ the ice crystal size.
+a. air; increase
+c. air; decrease
+b. water; increase
+d. water; decrease
+
+ANS: A
+
+
+
+7. The polar ice caps on Mars are an example of what type of glacier?
+a. continental
+c. piedmont
+b. cirque
+d. valley
+
+ANS: A
+
+
+
+8. The central glacier in the figure below once stretched all the way to the farthest ground moraine. What type of glacier was it? 
+
+a. a continental glacier
+c. a piedmont glacier
+b. a cirque glacier
+d. an ice cap
+
+ANS: C
+
+
+
+9. Which of the following images shows the oldest snow?
+
+a. A
+c. C
+b. B
+d. D
+
+ANS: D
+
+
+
+10. At depths of greater than 60, ice moves by plastic deformation. What causes this transition from brittle to ductile behavior?
+a. An increase in temperature causes the glacier to melt and slide.
+b. An increase in pressure increases friction and melts the ice.
+c. An increase in the pressure allows for only minute deformation.
+d. A decrease in the amount of trapped sediments allows more flow.
+
+ANS: C
+
+
+
+11. Cirques and horns are features associated with ________.
+a. mountain glaciation
+c. glacial outwash deposits
+b. continental glaciation
+d. loess deposits
+
+ANS: A
+
+
+
+12. Valleys carved by glaciers tend to be shaped like the letter ________, whereas valleys carved by water tend to be shaped like the letter ________.
+a. V; U
+c. U; V
+b. V; C
+d. V; I
+
+ANS: C
+
+
+
+13. Glacial ice exhibits ________ behavior near the top but ________ behavior beneath a depth of 60 m.
+a. brittle; plastic
+c. solid; liquid
+b. plastic; brittle
+d. plastic; elastic
+
+ANS: A
+
+
+
+14. Currently, almost all the glaciers on Earth are in a state of retreat, which means that the rate of ________ is less than the rate of ________.
+a. accumulation; ablation
+c. formation; sublimation
+b. ablation; accumulation
+d. calving; advance
+
+ANS: A
+
+
+
+15. ________ are formed when one glacier beheads another.
+a. Piedmont glaciers
+c. U-shaped valleys
+b. Hanging valleys
+d. Roche moutonée
+
+ANS: B
+
+
+
+16. A glacier will always advance from its source area if the rate of accumulation is greater than the rate of ________.
+a. subsidence
+c. ablation
+b. erosion
+d. uplift
+
+ANS: C
+
+
+
+17. In the movie Ice Age: The Meltdown, there is a large wall of ice that begins to melt and finally breaks, causing a large flood. On what real-life geologic event was this part of the movie based?
+a. the destruction of Glacial Lake Missoula
+b. the formation of the Great Salt Lake
+c. the breakup of the Ross Ice Shelf
+d. the draining of Lake Bonneville
+
+ANS: A
+
+
+
+18. You are hiking in your favorite forest when you encounter a surface that appears to have very fine scratches in it. What are these features?
+a. glacial till
+c. striations
+b. moraines
+d. scour marks
+
+ANS: C
+
+
+
+19. Which types of features would you find in a glacially carved landscape?
+a. eskers, drumlins, cirques, and kettles
+b. cirques, arêtes, horns, and striations
+c. cirques, arêtes, kettles, and tarns
+d. drumlins, ground moraines, and arêtes
+
+ANS: B
+
+
+
+20. Which of the following scenarios would lead to glacial advance during a time of global warming?
+a. a glacier in a depression that lies in shadows most of the day
+b. a glacier in a valley on the leeward side of a mountain range
+c. a glacier that caps the highest mountain on the planet
+d. a continental glacier that covers an entire continent
+
+ANS: A
+
+
+
+21. Sediments deposited directly by glaciers as they melt are characterized by ________.
+a. uniformly coarse grain size
+c. an absence of sorting
+b. uniformly fine grain size
+d. graded bedding
+
+ANS: C
+
+
+
+22. Sediments deposited directly by glaciers as they melt are termed ________.
+a. firn
+c. outwash
+b. loess
+d. till
+
+ANS: D
+
+
+
+23. Wind blows finer particles long distances from glacial environments, where they settle out to form ________.
+a. firn
+c. outwash
+b. loess
+d. till
+
+ANS: B
+
+
+
+24. Cirques, horns, and arêtes form from glacial ________, whereas moraines, erratics, and till form from glacial ________.
+a. erosion; deposition
+c. retreat; advance
+b. deposition; carving
+d. erosion; sublimation
+
+ANS: A
+
+
+
+25. ________ can be recognized as a series of U-shaped hills that are lined up and represent the ________ of the glacier.
+a. Terminal moraines; advance
+c. Drumlins; retreat
+b. Varves; advance
+d. Recessional moraines; retreat
+
+ANS: D
+
+
+
+26. Stratified sorted sand and gravel are deposited by ________.
+a. mountain glaciers
+c. glacial outwash streams
+b. continental glaciers
+d. windstorms
+
+ANS: C
+
+
+
+27. What types of moraines are shown in the figure below? 
+
+a. medial
+c. lateral
+b. terminal
+d. recessional
+
+ANS: A
+
+
+
+28. Identify the farthest reach of the glacier in the figure below.
+
+a. E
+c. G
+b. C
+d. F
+
+ANS: A
+
+
+
+29. Which of the following figures is of glacial lake-bed deposits?
+
+a. a
+c. c
+b. b
+d. d
+
+ANS: A
+
+
+
+30. If glaciers carry a mixture of different clast sizes, why are glacial outwash deposits layered?
+a. because clasts fall out of the glacier in size progression
+b. because gravity pulls out only the smallest particles
+c. because glacial outwash is formed from the bottom of the glacier
+d. because the glacier does not deposit the sediments; the river does
+
+ANS: D
+
+
+
+31. ________ glaciers during the Pleistocene Ice Age stretched all the way to Illinois, Kansas, and Nebraska.
+a. Mountain
+c. Alpine
+b. Piedmont
+d. Continental
+
+ANS: D
+
+
+
+32. ________ decreases as glaciers form.
+a. Albedo
+c. Sea level
+b. Rainfall
+d. Sublimation
+
+ANS: C
+
+
+
+33. Today, continental glaciers are limited to Antarctica and ________.
+a. Alaska
+c. Canada
+b. Greenland
+d. Siberia
+
+ANS: B
+
+
+
+34. During the last ice age, a ________ glacier covered much of the northern United States.
+a. piedmont
+c. mountain
+b. cirque
+d. continental
+
+ANS: D
+
+
+
+35. During the Pleistocene Ice Age, glaciers covered most of the ________ and contained several ________ centers.
+a. Northern Hemisphere; accumulation
+c. Southern Hemisphere; accumulation
+b. Northern Hemisphere; ablation
+d. Southern Hemisphere; ablation
+
+ANS: A
+
+
+
+36. A(n) ________ in eustatic sea level is ultimately the result of a ________ event.
+a. increase; global cooling
+c. decrease; subsidence
+b. increase; local uplift
+d. decrease; global cooling
+
+ANS: D
+
+
+
+37. Sea level ________ during glacials and ________ during interglacials.
+a. decreases; increases
+c. remains constant; decreases
+b. increases; decreases
+d. decreases; remains constant
+
+ANS: A
+
+
+
+38. During the Pleistocene Ice Age glaciers reached as far south as ________.
+a. Ontario, Canada
+c. Beijing, China
+b. Illinois, USA
+d. Tennessee, USA
+
+ANS: B
+
+
+
+39. Which of the following images shows evidence of the rising of sea level?
+
+a. A
+c. C
+b. B
+d. D
+
+ANS: B
+
+
+
+40. You find evidence of changes in sea level along a coastline. How can you tell if they are the results of glaciers?
+a. Look for evidence of glacial till in the form of moraines, drumlins, kettle lakes, or stratified glacial outwash sediment.
+b. Determine if the sea level changes coincide with the advance of glaciers in the mountains nearest to the coastline.
+c. Determine the timing of the changes in sea level and look for evidence of changes in sea level in other places around the world.
+d. Determine if the area contains evidence of glacial erosion such as U-shaped valleys, striations, erratics, and rock flour.
+
+ANS: C
+
+
+
+41. Ice is a substance with a high albedo, which means it ________.
+a. requires much heat to raise its temperature by 1°C
+b. absorbs most of the light that falls on it
+c. reflects most of the light that falls on it
+d. strongly refracts the light that falls on it
+
+ANS: C
+
+
+
+42. The Milankovitch Cycles describe the relation of Earth and the ________, which affects the amount of insolation Earth receives.
+a. time of day
+c. Moon
+b. ecliptic plane
+d. Sun
+
+ANS: D
+
+
+
+43. There have been ________ to ________ ice ages in Earth’s history, with the latest one occurring in the ________.
+a. four; five; Pleistocene Period
+c. four; five; Proterozoic Era
+b. five; six; Pleistocene Period
+d. five; six; Cenozoic Era
+
+ANS: B
+
+
+
+44. An important long-term factor that determines whether glacial ice will form on a continent has likely been the proportion of which gas in the atmosphere?
+a. oxygen
+c. carbon dioxide
+b. nitrogen
+d. carbon monoxide
+
+ANS: C
+
+
+
+45. By increasing the albedo of Earth, global ice sheets produce conditions that are ________ to their further advance, thus providing an example of ________ feedback.
+a. detrimental; positive
+c. favorable; positive
+b. detrimental; negative
+d. favorable; negative
+
+ANS: C
+
+
+
+46. The Milankovitch cycles describe the change in ________ because of changes in the ________ of Earth relative to the Sun.
+a. greenhouse gases; tilt
+c. albedo; precession
+b. eccentricity; orientation
+d. solar insolation; orientation
+
+ANS: D
+
+
+
+47. Which of the following would lead to an increase in the temperature of Earth?
+a. an increase in volcanic ash in the atmosphere
+b. the growth of massive areas of forested land
+c. a reduction in the square footage of glaciers on Earth
+d. a change in the angle of Earth’s tilt to 22.5 degrees
+
+ANS: C
+
+
+
+48. The loss of rain forests would ________ the greenhouse gases, thereby ________ global warming.
+a. increase; increasing
+c. decrease; increasing
+b. increase; decreasing
+d. decrease; decreasing
+
+ANS: A
+
+
+
+49. If a volcano were to erupt and release large amounts of ash into the air, how would this affect the climate on Earth?
+a. The ash would increase the albedo and decrease the global temperature.
+b. The ash would decrease the albedo and increase the global temperature.
+c. The ash would increase the greenhouse gases, thus increasing temperature.
+d. The ash would decrease the greenhouse gases, thus decreasing temperature.
+
+ANS: A
+
+
+
+50. The Mars rover Curiosity has recently found evidence that there was liquid water on the planet’s surface at some point in its history. Because we have not found any liquid water on the planet today, what does this imply about Mars?
+a. The planet was once covered entirely in liquid water.
+b. A drought must have removed all the water from the surface.
+c. The climate was once warm enough that the polar ice caps melted.
+d. The interior of Mars must be made entirely of liquid water.
+
+ANS: C
+
+
+
+SHORT ANSWER
+
+1. Label the glaciers in the image below using words from the word bank included (hint: not all the names will be used).
+Piedmont glacier
+
+Cirque glacier
+Continental glacier
+Valley glacier
+Ice apron
+Tidewater glacier
+Hanging glacier
+Mountain ice cap
+
+
+ANS:
+See image below.
+
+
+
+
+2. What are the circumstances that lead to glacial advance versus glacial retreat? Most glaciers today are in retreat. What does this imply about the glaciers and their environment?
+
+ANS:
+In order for a glacier to advance there must be more snow falling in the accumulation zone than there is ice removal in the zone of ablation. Retreating glaciers have more removal of material in the zone of ablation than snowfall in the accumulation zone. Since most glaciers today are in retreat, this means that there is more removal of glacial ice than there is addition of snow to the glacier. This implies that the glaciers are disappearing due to warming of their environment (e.g., the climate).
+
+
+
+3. Explain why the deposits made by glacial outwash are stratified.
+
+ANS:
+Deposits from outwash plains are stratified because the river is depositing the sediments, not the glacier, and thus the sediments will drop out of the river and be deposited based on the size fraction of the sediments and the rate of flow of the river.
+
+
+
+4. Draw a representative eustatic sea level curve you would expect to see for a world that experienced two glacials and three interglacials. Make sure to label your axes and the glacials and interglacials on the graph.
+
+ANS:
+Assuming higher sea level is toward the top of the graph, there should be three peaks and two troughs in the drawing. See example below.
+       
+
+
+
+5. List and describe one short-term cause for glaciations.
+
+ANS:
+Answer will vary but may cover the following topics. 
+
+The Milankovitch cycles describe the variation in Earth’s position relative to the Sun, with changes in the tilt, eccentricity, and precession of Earth. The summation of all three cycles can lead to Earth receiving relatively more solar insolation, which in turn can help to spur a change in Earth’s climate. 
+
+Changes in the reflectivity, or albedo, of Earth due to changes in the amount of snow can cause more (or less) solar insulation to be reflected back into space. 
+
+Disruption of sea currents can also lead to a shift in climate by forcing changes in the sea surface temperature, such as decreasing the temperature at the poles and allowing glaciers to form.
+
+Increases or decreases in greenhouse gases due to biological processes can also shift the climate; one example of this is the decrease in CO2 during the Middle Carboniferous Period, which led to a period of global cooling during the Late Carboniferous Period.
+
+Changes in the output of solar radiation by the Sun changes the amount of insolation Earth receives and thus can either warm or cool the planet.
+
+

@@ -1,0 +1,763 @@
+CHAPTER 06: Pages of Earth s Past: Sedimentary Rocks
+
+MULTIPLE CHOICE
+
+	1.	The breakdown of exposed rock into small fragments and dissolved ions is termed ________.
+a.
+deposition
+c.
+weathering
+b.
+erosion
+d.
+lithification
+
+
+ANS:	C	DIF:	Easy	REF:	6.1 | 6.2	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Remembering		
+
+	2.	The removal of detritus from weathered rock at an outcrop is termed ________.
+a.
+deposition
+c.
+weathering
+b.
+erosion
+d.
+lithification
+
+
+ANS:	B	DIF:	Easy	REF:	6.2	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Remembering		
+
+	3.	Lithification, the process by which sediments are turned into sedimentary rocks, includes  ________.
+a.
+erosion and transportation
+c.
+erosion and deposition
+b.
+transportation and cementation
+d.
+compaction and cementation
+
+
+ANS:	D	DIF:	Moderate	REF:	6.2	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Remembering		
+
+	4.	Cementation of sediments occurs when minerals ________ the spaces between sediment grains.
+a.
+swell into
+c.
+precipitate in
+b.
+pass through
+d.
+dissolve in
+
+
+ANS:	C	DIF:	Moderate	REF:	6.2	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Remembering		
+
+	5.	Compaction and cementation of grains occur during ________.
+a.
+erosion
+c.
+transport
+b.
+lithification
+d.
+weathering
+
+
+ANS:	B	DIF:	Easy	REF:	6.2	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Understanding		
+
+	6.	Diagenesis refers to ________.
+a.
+the development of layering within sedimentary rocks
+b.
+the act of deposition of sediment that will ultimately form sedimentary rock
+c.
+physical and chemical alterations, including compaction and cementation, that occur as sediment is transformed into rock
+d.
+the natural process of separating sediment by grain size
+
+
+ANS:	C	DIF:	Easy	REF:	6.5	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Understanding		
+
+	7.	Lithification occurs ________.
+a.
+in the shallow subsurface
+c.
+deep under the ground
+b.
+at the surface of Earth
+d.
+high in the mountains
+
+
+ANS:	A	DIF:	Difficult	REF:	6.2	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Understanding		
+
+	8.	As compared with metamorphism, diagenesis ________.
+a.
+means exactly the same thing
+b.
+takes place at lower temperatures and pressures
+c.
+takes place at higher temperatures and pressures
+d.
+takes place at greater depths that are well within the mantle
+
+
+ANS:	B	DIF:	Difficult	REF:	6.5	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Applying
+
+	9.	Which of the following processes involves the creation of ions in solution?
+a.
+deposition
+c.
+erosion
+b.
+transportation
+d.
+weathering
+
+
+ANS:	D	DIF:	Easy	REF:	6.2	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Applying
+
+	10.	A gravel bar in a river is an example of a landform created by ________.
+a.
+deposition
+c.
+transportation
+b.
+erosion
+d.
+lithification
+
+
+ANS:	A	DIF:	Easy	REF:	6.2	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Applying
+
+	11.	The elevation of a mountain is slowly decreased by weathering and ________.
+a.
+lithification
+c.
+erosion
+b.
+sedimentation
+d.
+deposition
+
+
+ANS:	C	DIF:	Easy	REF:	6.2	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Applying
+
+	12.	If water is the transport mechanism of sediment, the grain size of sedimentary deposits most closely indicates the ________.
+a.
+geographic extent of the weathering source rock at outcrop
+b.
+average velocity of the water from the time of erosion until deposition
+c.
+velocity of the water at the moment the sediment settled to the bottom
+d.
+climate conditions at the time of deposition
+
+
+ANS:	C	DIF:	Difficult	REF:	6.2	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Analyzing
+
+	13.	Glacial till is composed of ________-sized particles.
+a.
+mud
+c.
+boulder
+b.
+sand
+d.
+all
+
+
+ANS:	D	DIF:	Easy	REF:	6.4	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Remembering
+
+	14.	Geologists call individual layers of sedimentary rocks ________, whereas several of them together are called ________.
+a.
+beds; strata
+c.
+laminations; graded beds
+b.
+strata; beds
+d.
+graded beds; laminations
+
+
+ANS:	A	DIF:	Easy	REF:	6.3	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Remembering
+
+	15.	Topset, foreset, and bottomset beds together are indicative of ________ environments.
+a.
+alluvial fan
+c.
+delta
+b.
+lake bottom
+d.
+deep-marine
+
+
+ANS:	C	DIF:	Moderate	REF:	6.4	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Remembering
+
+	16.	Precipitation of gypsum due to evaporation of seawater produces which kind of sedimentary rock?
+a.
+biochemical
+c.
+clastic
+b.
+chemical
+d.
+organic
+
+
+ANS:	B	DIF:	Easy	REF:	6.2	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Understanding
+
+	17.	If a geologist found preserved mud cracks, he or she could conclude that the environment in which they formed ________.
+a.
+was once covered in wet mud
+b.
+was once covered by a glacier
+c.
+has been subjected to a major climate change event
+d.
+was the site of a mass extinction event
+
+
+ANS:	A	DIF:	Easy	REF:	6.3	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Understanding
+
+	18.	Grains become rounded primarily during ________.
+a.
+weathering at the outcrop
+c.
+transportation
+b.
+lithification
+d.
+deposition
+
+
+ANS:	C	DIF:	Moderate	REF:	6.2	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Understanding
+
+	19.	What type of sediment is typically found in lake bottoms?
+a.
+gravel
+c.
+pebbles
+b.
+sand
+d.
+clay/mud
+
+
+ANS:	D	DIF:	Difficult	REF:	6.4	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Understanding
+
+	20.	Consult the figure below. Here, distinct internal laminations are inclined at an angle to the boundary of the main sedimentary layers. This is termed ________.
+
+a.
+graded beds
+c.
+horizontal beds
+b.
+cross beds
+d.
+tilted beds
+
+
+ANS:	B	DIF:	Moderate	REF:	6.3	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Applying
+
+	21.	Siltstone or mudstone containing marine fossils likely formed in a ________ environment.
+a.
+shallow-marine
+c.
+marine-delta
+b.
+deep-marine
+d.
+coastal-beach
+
+
+ANS:	A	DIF:	Moderate	REF:	6.4	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Applying
+
+	22.	A well-sorted sandstone with asymmetric ripples was most likely deposited as sand by a(n) ________.
+a.
+river (far from source)
+c.
+river (near source)
+b.
+glacier
+d.
+alluvial fan
+
+
+ANS:	A	DIF:	Moderate	REF:	6.3	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Applying
+
+	23.	The image below shows a series of graded beds. How many full sets of graded beds are shown?
+
+a.
+1
+c.
+12
+b.
+3
+d.
+15
+
+
+ANS:	B	DIF:	Difficult	REF:	6.3	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Applying
+
+	24.	What is the difference between the formations of chalk versus chert?
+a.
+They have different grain sizes.
+b.
+They are made of different source materials.
+c.
+Chalk is terrestrial; chert is marine.
+d.
+Chalk is biochemical; chert is chemical.
+
+
+ANS:	B	DIF:	Moderate	REF:	6.2	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Analyzing
+
+	25.	Because the velocity of sediment settling (deposition) is positively related to grain size for waterborne sediments, fluvial deposits are more likely than glacial deposits to ________.
+a.
+be well sorted
+c.
+include fine grains, such as clay
+b.
+include coarse grains, such as cobbles
+d.
+have angular grains
+
+
+ANS:	A	DIF:	Difficult	REF:	6.2	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Analyzing
+
+	26.	A fine-grained clastic sedimentary rock that splits into thin sheets is ________.
+a.
+mudstone
+c.
+sandstone
+b.
+shale
+d.
+arkose
+
+
+ANS:	B	DIF:	Easy	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Remembering
+
+	27.	The primary difference between breccia and conglomerate is that conglomerate ________.
+a.
+is finer grained than breccia
+b.
+is coarser grained than breccia
+c.
+possesses more angular grains than breccia
+d.
+possesses more rounded grains than breccia
+
+
+ANS:	D	DIF:	Easy	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Remembering
+
+	28.	The majority of the rocks that are formed at the surface of Earth are ________ rocks.
+a.
+intrusive igneous
+c.
+sedimentary
+b.
+extrusive igneous
+d.
+metamorphic
+
+
+ANS:	C	DIF:	Easy	REF:	6.1	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Remembering
+
+	29.	Two major sources of energy, coal and oil shale, are considered ________ sedimentary rocks.
+a.
+clastic
+c.
+organic
+b.
+biochemical
+d.
+chemical
+
+
+ANS:	C	DIF:	Easy	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Remembering
+
+	30.	Lithified detritus (breakdown products of preexisting rocks) forms which kind of sedimentary rock?
+a.
+biochemical
+c.
+clastic
+b.
+chemical
+d.
+organic
+
+
+ANS:	C	DIF:	Easy	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Understanding
+
+	31.	When limestone becomes chemically altered so that half of the calcium atoms are replaced by magnesium, the resultant rock is termed ________.
+a.
+agate
+c.
+jasper
+b.
+dolostone
+d.
+travertine
+
+
+ANS:	B	DIF:	Easy	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Understanding
+
+	32.	Clastic sedimentary rocks are primarily classified on the basis of ________.
+a.
+grain size
+c.
+angularity
+b.
+degree of sorting
+d.
+mineral composition
+
+
+ANS:	A	DIF:	Moderate	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Understanding
+
+	33.	Scour marks are an indicator of ________.
+a.
+submarine landslides
+c.
+arid environments
+b.
+quiet, still water
+d.
+current flow
+
+
+ANS:	D	DIF:	Difficult	REF:	6.3	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Understanding
+
+	34.	Cemented shells of marine organisms form which kind of sedimentary rock?
+a.
+biochemical
+c.
+clastic
+b.
+chemical
+d.
+organic
+
+
+ANS:	A	DIF:	Easy	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Applying
+
+	35.	Biochemical limestones are dominated by carbonate mud and fragments of ________.
+a.
+siliceous shells of planktonic diatoms and foraminifera
+b.
+skeletons of marine invertebrates made of calcite and aragonite
+c.
+the phosphatic bones of fish
+d.
+the organic breakdown products of wood and leaves from trees
+
+
+ANS:	B	DIF:	Moderate	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Applying
+
+	36.	The image below shows an outcrop of coarse-grained sedimentary rock. Note the rock hammer for scale. What is the name of this rock type?
+
+a.
+sandstone
+c.
+breccia
+b.
+shale
+d.
+conglomerate
+
+
+ANS:	D	DIF:	Moderate	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Applying
+
+	37.	Which of the following is FALSE? As compared to arkose, quartz sandstone ________.
+a.
+contains more angular grains
+b.
+does not contain significant amounts of feldspar
+c.
+is likely to be found farther away from weathering granitic source rock
+d.
+is considered to be more compositionally mature
+
+
+ANS:	A	DIF:	Difficult	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Applying
+
+	38.	Which of the following does NOT reflect transport distance?
+a.
+angularity
+c.
+sphericity
+b.
+type of cement
+d.
+mineral content
+
+
+ANS:	B	DIF:	Moderate	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Analyzing
+
+	39.	Large layers of cross-bedded sand can be indicative of a ________ environment.
+a.
+submarine
+c.
+desert
+b.
+beach
+d.
+fluvial
+
+
+ANS:	C	DIF:	Moderate	REF:	6.3	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Remembering		
+
+	40.	Lake deposits tend to be composed of finely laminated mudstones, indicative of ________.
+a.
+quiet water
+c.
+bioturbation
+b.
+oscillating waves
+d.
+current flow
+
+
+ANS:	A	DIF:	Moderate	REF:	6.4	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Remembering		
+
+	41.	________ basins contain the largest accumulation of marine sediments.
+a.
+Rift
+c.
+Foreland
+b.
+Passive-margin
+d.
+Intracontinental
+
+
+ANS:	B	DIF:	Moderate	REF:	6.5	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Remembering		
+
+	42.	Basins that form on the continental side of mountain ranges are called ________ basins.
+a.
+rift
+c.
+foreland
+b.
+passive-margin
+d.
+intracontinental
+
+
+ANS:	C	DIF:	Moderate	REF:	6.5	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Remembering		
+
+	43.	Shallow-marine deposits tend to have abundant fossils due to their proximity to ________.
+a.
+reefs
+c.
+deltas
+b.
+beaches
+d.
+rivers
+
+
+ANS:	A	DIF:	Moderate	REF:	6.4	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Understanding		
+
+	44.	Thick accumulations of sediments and fossils in the deep ocean tend to be ________-sized due to the low amounts of energy.
+a.
+cobble
+c.
+clay
+b.
+gravel
+d.
+sand
+
+
+ANS:	C	DIF:	Moderate	REF:	6.4	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Understanding		
+
+	45.	Beach sediments travel ________ the ocean during a transgression and ________ the ocean during a regression.
+a.
+toward; away from
+c.
+parallel to; perpendicular to
+b.
+away from; toward
+d.
+perpendicular to; parallel to
+
+
+ANS:	B	DIF:	Moderate	REF:	6.5	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Understanding		
+
+	46.	Sedimentary basins are often subject to ________, which allows them to fill with thick accumulations of sediments.
+a.
+erosion
+c.
+uplift
+b.
+diagenesis
+d.
+subsidence
+
+
+ANS:	D	DIF:	Difficult	REF:	6.5	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Understanding		
+
+	47.	If a geologist finds thick accumulations of fossiliferous limestone, in what type of basin might they have been formed?
+a.
+passive-margin
+c.
+rift
+b.
+intracontinental
+d.
+foreland
+
+
+ANS:	A	DIF:	Moderate	REF:	6.5	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Applying
+
+	48.	The image below shows a layer of ________, which is an accumulation of dead plant material.
+
+a.
+limestone
+c.
+sandstone
+b.
+coal
+d.
+chalk
+
+
+ANS:	B	DIF:	Easy	REF:	6.2	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Applying
+
+	49.	Sea level rises locally, and marine sediments are deposited on top of terrestrial sediments during events termed ________.
+a.
+transgressions
+c.
+turbidity currents
+b.
+regressions
+d.
+cross bedding
+
+
+ANS:	A	DIF:	Moderate	REF:	6.5	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Applying
+
+	50.	Which of the following is FALSE about regressions?
+a.
+They are not typically well preserved in the sedimentary record.
+b.
+They can occur when the climate warms and continental ice sheets melt.
+c.
+They occur when the land is uplifted by tectonic processes.
+d.
+Coastal environments will migrate seaward.
+
+
+ANS:	B	DIF:	Difficult	REF:	6.5	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Analyzing
+
+SHORT ANSWER
+
+	1.	Describe the difference between lithification and diagenesis.
+
+ANS:	
+Lithification is the transformation of loose sediment into intact sedimentary rock via compaction and cementation. Diagenesis is the process (chemical, biological, or physical) by which any sedimentary rock is produced.
+
+DIF:	Moderate	REF:	6.5	
+OBJ:	Understand how sediment produced by weathering and biological activity at the Earth’s surface can transform into sedimentary rock.	MSC:	Analyzing
+
+	2.	Describe the depositional environment that formed the layers shown in the image below.
+
+
+ANS:	
+The image shows a sequence of red sandstones and shales. The sandstones were likely formed along a beach, while the shales were formed in a more muddy environment. Since both contain iron (red staining), they were formed in a subaerial environment. The environment was most likely a delta.
+
+DIF:	Moderate	REF:	6.2	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Applying
+
+	3.	Limestone can be either a biochemical or a chemical sedimentary rock. Explain how both types of limestone are formed. Make sure to describe the environments in which they were formed.
+
+ANS:	
+Fossiliferous limestone is generally formed in shallow marine environments, often near reefs. Travertine is a form of chemical limestone and can be formed in several ways, one of which is in caves as speleothems or other cave formations. Travertine can also be formed along carbonate terraces such as those at hot springs.
+
+DIF:	Difficult	REF:	6.2	
+OBJ:	Understand how to interpret past environments and sea-level changes by examining the composition, textures, and layering found in sedimentary rock.	MSC:	Understanding
+
+	4.	What traits would a clastic sedimentary rock have if it had traveled far from its source and was carried in a current with uniform energy? What environment would this be?
+
+ANS:	
+A clastic rock that had traveled far from its source and carried in a uniform energy current would have well-rounded, well-sorted sediment that would contain very stable minerals such as quartz. This environment would be a beach.
+
+DIF:	Moderate	REF:	6.2	
+OBJ:	Understand clues that geologists use to identify and classify different types of sedimentary rocks.	MSC:	Analyzing
+
+	5.	In which of the following three basin types might you be able to find oil forming and why? Rift basin, passive-margin basin, and foreland basin.
+
+ANS:	
+Passive-margin basins are formed in shallow marine environments, which would allow for the accumulation of organic-rich sediments that could potentially turn into oil.
+
+DIF:	Difficult	REF:	6.5	
+OBJ:	Understand where and why thick accumulations of sedimentary rocks form on Earth.
+MSC:	Analyzing

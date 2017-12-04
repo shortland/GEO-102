@@ -1,0 +1,322 @@
+INTERLUDE A: Rock Groups
+
+MULTIPLE CHOICE
+
+1. A(n) ________ material is held together, solid, and must be broken apart to separate it  into smaller pieces.
+a. unconsolidated
+c. coherent
+b. paved
+d. buttressed
+
+
+ANS:CDIF:EasyREF:A.2
+OBJ:Understand the geologic definition of rock.MSC:Remembering
+
+2. A(n) ________ of minerals forms a rock.
+a. compilation
+c. mass
+b. aggregate
+d. assembly
+
+
+ANS:BDIF:EasyREF:A.2
+OBJ:Understand the geologic definition of rock.MSC:Remembering
+
+3. Rocks are ________ and thus not man-made.
+a. coherent
+c. rare
+b. synthetic
+d. natural
+
+
+ANS:DDIF:ModerateREF:A.2
+OBJ:Understand the geologic definition of rock.MSC:Remembering
+
+4. A pile of unconsolidated sediment is NOT ________ and therefore NOT a rock.
+a. coherent
+c. natural
+b. aggregated
+d. solid
+
+
+ANS:ADIF:EasyREF:A.2
+OBJ:Understand the geologic definition of rock.MSC:Understanding
+
+5. A piece of concrete from a driveway is NOT considered a rock because it ________.
+a. is made of one mineral
+c. is unconsolidated
+b. does not contain minerals
+d. is man-made
+
+
+ANS:DDIF:ModerateREF:A.2
+OBJ:Understand the geologic definition of rock.MSC:Understanding
+
+6. Which one of the pictures does NOT show (a) rock(s)?
+ 
+
+Figure A
+Figure B
+
+
+Figure C
+Figure D
+
+a. Figure A
+c. Figure C
+b. Figure B
+d. Figure D
+
+
+ANS:DDIF:EasyREF:A.2
+OBJ:Understand the geologic definition of rock.MSC:Applying
+
+7. Which of the following describes a rock?
+a. a pile of damp sand still holding the form of a bucket
+b. a collection of crystals that fit together like puzzle pieces
+c. cobblestones cemented together to form a walkway
+d. a layer of mud at the bottom of a dry river bed
+
+
+ANS:BDIF:ModerateREF:A.2
+OBJ:Understand the geologic definition of rock.MSC:Applying
+
+8. What is the difference between a rock that is cemented and a rock that is crystalline?
+a. A rock that is cemented contains rounded grains that are held together by cement, whereas a crystalline rock contains angular grains held together by cement.
+b. Crystalline rocks contain minerals, while cemented rocks contain rock fragments; both are held together by static forces between grains.
+c. Minerals are held together as interlocking pieces in a cemented rock, whereas grains are held together by minerals precipitated in pore spaces in a crystalline rock.
+d. Minerals are held together as interlocking pieces in a crystalline rock, whereas in a cemented rock the grains do not fit together like puzzle pieces and instead are held together by cement.
+
+
+ANS:DDIF:ModerateREF:A.2
+OBJ:Understand the geologic definition of rock.MSC:Analyzing
+
+9. Which is a characteristic used to classify a rock?
+a. mineral stability
+c. water content
+b. rock texture
+d. degree of weathering
+
+
+ANS:BDIF:EasyREF:A.3
+OBJ:Understand the basis that geologists use to classify rock into three classes.
+MSC:Remembering
+
+10. Igneous rocks form from ________.
+a. heat and pressure applied to a rock
+b. precipitation of minerals out of a solution
+c. sediments cemented together
+d. molten rock cooling and forming crystals
+
+
+ANS:DDIF:EasyREF:A.3
+OBJ:Understand the basis that geologists use to classify rock into three classes.
+MSC:Remembering
+
+11. Which type of rock is formed by precipitation of minerals from a solution?
+a. metamorphic
+c. sedimentary
+b. glassy
+d. igneous
+
+
+ANS:CDIF:ModerateREF:A.3
+OBJ:Understand the basis that geologists use to classify rock into three classes.
+MSC:Remembering
+
+12. Composition describes the ________.
+a. degree of compaction and cementation in a rock
+b. arrangement of minerals in a rock
+c. presence of layers of minerals in a rock
+d. chemical makeup of a rock
+
+
+ANS:DDIF:EasyREF:A.3
+OBJ:Understand the basis that geologists use to classify rock into three classes.
+MSC:Understanding
+
+13. Where would you expect to find metamorphic rocks forming?
+a. deep inside a mountain range
+b. inside a lava flow on Hawaii
+c. under the water at the mid-ocean ridge
+d. at the bottom of the Mediterranean Sea
+
+
+ANS:ADIF:DifficultREF:A.3
+OBJ:Understand the basis that geologists use to classify rock into three classes.
+MSC:Understanding
+
+14. Imagine you are holding a rock composed of small sand grains cemented together. What subclassification of sedimentary rock is this?
+a. clastic
+c. igneous
+b. chemical
+d. crystalline
+
+
+ANS:ADIF:EasyREF:A.3
+OBJ:Understand the basis that geologists use to classify rock into three classes.
+MSC:Applying
+
+15. What type of texture is shown in the photomicrograph?
+
+a. foliation
+c. sedimentary
+b. crystalline
+d. clastic
+
+
+ANS:BDIF:DifficultREF:A.4
+OBJ:Understand the basis that geologists use to classify rock into three classes.
+MSC:Applying
+
+16. Why do geologists classify rocks?
+a. to determine the chemical makeup of Earth
+b. because rocks are the key to determining the Earth’s history
+c. because it makes it easier to tell them apart
+d. so that they can tell how old the rock is
+
+
+ANS:BDIF:DifficultREF:A.3
+OBJ:Understand the basis that geologists use to classify rock into three classes.
+MSC:Analyzing
+
+17. The picture below shows a(n) ________ of rock that geologists use to determine the minerals in the rock.
+
+a. hand sample
+c. outcrop
+b. thin section
+d. X-ray
+
+
+ANS:BDIF:ModerateREF:A.4
+OBJ:Understand the tools that can be used to study rocks.MSC:Remembering
+
+18. Geologists sometimes use analytical equipment to help identify rocks. One commonly used machine is the electron microprobe, which focuses a beam of electrons on a sample to determine ________.
+a. the amount of radioactive minerals
+c. the atomic weight
+b. how atoms are arranged
+d. the chemical composition
+
+
+ANS:DDIF:DifficultREF:A.4
+OBJ:Understand the tools that can be used to study rocks.MSC:Remembering
+
+19. Looking at a ________ helps geologists identify minerals and classify rocks.
+a. thin section
+c. thin slide
+b. micro section
+d. micro slide
+
+
+ANS:ADIF:EasyREF:A.4
+OBJ:Understand the tools that can be used to study rocks.MSC:Understanding
+
+20. A(n) ________ takes extremely high resolution images that can be used to determine the elements in a rock.
+a. petrographic microscope
+c. X-ray diffractometer
+b. scanning electron microscope
+d. photomicrograph
+
+
+ANS:BDIF:ModerateREF:A.4
+OBJ:Understand the tools that can be used to study rocks.MSC:Understanding
+
+21. Why do geologists use thin sections of rocks?
+a. to determine if the rock is molten
+c. to identify the minerals
+b. to identify foreign substances
+d. to determine the arrangement of atoms
+
+
+ANS:CDIF:DifficultREF:A.4
+OBJ:Understand the tools that can be used to study rocks.MSC:Understanding
+
+22. Which of the following images shows a hand specimen?
+
+a. A
+c. C
+b. B
+d. D
+
+
+ANS:DDIF:EasyREF:A.4
+OBJ:Understand the tools that can be used to study rocks.MSC:Applying
+
+23. Which of the following tools is used to identify minerals in the field?
+a. thin section
+c. petrographic microscope
+b. hand lens
+d. photomicrograph
+
+
+ANS:BDIF:ModerateREF:A.4
+OBJ:Understand the tools that can be used to study rocks.MSC:Applying
+
+24. Which piece of equipment is used to help a geologist see the internal structure of minerals?
+a. electron microprobe
+c. X-ray diffractometer
+b. mass spectrometer
+d. petrographic microscope
+
+
+ANS:CDIF:ModerateREF:A.4
+OBJ:Understand the tools that can be used to study rocks.MSC:Applying
+
+25. Why do thin sections help geologists identify minerals better than with a hand specimen alone?
+a. Thin sections allow the geologist to identify the chemicals within the minerals.
+b. Each mineral transmits polarized light differently and displays variations in colors.
+c. Looking at a thin section allows the geologist to see the atomic structure of the minerals.
+d. Cutting a thin section removes the weathered surface and shows the minerals’ true colors.
+
+
+ANS:BDIF:ModerateREF:A.4
+OBJ:Understand the tools that can be used to study rocks.MSC:Analyzing
+
+SHORT ANSWER
+
+1. Is a piece of concrete a rock? Why or why not?
+
+ANS:
+No, concrete is a man-made substance and therefore is not a rock, according to the definition.
+
+DIF:EasyREF:A.2OBJ:Understand the geologic definition of rock.
+MSC:Understanding
+
+2. Which of the images below shows a rock? Explain your reasoning.
+
+
+Figure A
+Figure B
+
+
+ANS:
+Figure B shows a rock because it is solid, coherent, and composed of an aggregate of minerals. Figure A is not a rock because it shows a collection of unconsolidated sediment.
+
+DIF:ModerateREF:A.2OBJ:Understand the geologic definition of rock.
+MSC:Applying
+
+3. List the three main rock groups and give a brief description of how each is formed.
+
+ANS:
+Igneous rocks are formed by the cooling of molten material. Sedimentary rocks are formed by the cementing of sediments or precipitation of minerals from a solution. Metamorphic rocks are formed by subjecting another rock to different heat and pressure conditions.
+
+DIF:ModerateREF:A.3
+OBJ:Understand the basis that geologists use to classify rock into three classes.
+MSC:Understanding
+
+4. Give the definition of rock texture.
+
+ANS:
+Rock texture is the size, shape, or arrangement of grains in a rock.
+
+DIF:ModerateREF:A.3
+OBJ:Understand the basis that geologists use to classify rock into three classes.
+MSC:Remembering
+
+5. How is a thin section made, and what is it used for?
+
+ANS:
+A thin section is made by taking a small slice of the rock and gluing it to a slide. The piece of rock on the slide is then ground down until it is so thin that light can pass through it. The thin section is then placed on a petrographic microscope and viewed under magnification and/or orientations of light in order to identify the minerals.
+
+DIF:ModerateREF:A.4
+OBJ:Understand the tools that can be used to study rocks.MSC:Understanding

@@ -1,0 +1,807 @@
+CHAPTER 15: Restless Realm: Oceans and Coasts
+
+MULTIPLE CHOICE
+
+	1.	The shallowest portions of an ocean found along the margins of continents are the ________.
+a.
+abyssal plains
+c.
+continental shelves
+b.
+continental rises
+d.
+continental slopes
+
+
+ANS:	C	DIF:	Easy	REF:	15.2	
+OBJ:	Understand why ocean basins exist, and how to explain variations in water depth.
+MSC:	Remembering		
+
+	2.	The form and topography (depth profile) of the ocean floor is termed ________.
+a.
+orogeny
+c.
+allocthony
+b.
+bathymetry
+d.
+aquitopography
+
+
+ANS:	B	DIF:	Moderate	REF:	15.2	
+OBJ:	Understand why ocean basins exist, and how to explain variations in water depth.
+MSC:	Remembering		
+
+	3.	Compared with the continental lithosphere, the oceanic lithosphere is ________.
+a.
+thicker
+c.
+approximately the same thickness
+b.
+thinner
+d.
+exactly five times thinner
+
+
+ANS:	B	DIF:	Moderate	REF:	15.2	
+OBJ:	Understand why ocean basins exist, and how to explain variations in water depth.
+MSC:	Understanding		
+
+	4.	Compared with the continental crust, the oceanic crust is ________.
+a.
+denser
+c.
+about the same density
+b.
+less dense
+d.
+about half as dense
+
+
+ANS:	A	DIF:	Moderate	REF:	15.2	
+OBJ:	Understand why ocean basins exist, and how to explain variations in water depth.
+MSC:	Understanding		
+
+	5.	The deepest segments of the ocean floor are found ________.
+a.
+along mid-ocean ridges
+b.
+in the geographic centers of abyssal plains
+c.
+in trenches associated with passive margins
+d.
+in trenches associated with subduction zones
+
+
+ANS:	D	DIF:	Moderate	REF:	15.2	
+OBJ:	Understand why ocean basins exist, and how to explain variations in water depth.
+MSC:	Understanding		
+
+	6.	Using the figure below, which of the following lists correctly identifies the various seafloor landforms?
+
+a.
+A = continental shelf, B = abyssal plain, C = mid-ocean ridge, D = trench
+b.
+A = abyssal plain, B = continental shelf, C = mid-ocean ridge, D = trench
+c.
+A = continental slope, B = mid-ocean ridge, C = trench, D = volcanic arc
+d.
+A = continental shelf, B = abyssal plain, C = trench, D = mid-ocean ridge
+
+
+ANS:	A	DIF:	Moderate	REF:	15.2	
+OBJ:	Understand why ocean basins exist, and how to explain variations in water depth.
+MSC:	Applying
+
+	7.	You are running a sonar survey to map the bathymetry of an ocean basin. Using the following continuous sonar data giving the depth of the seafloor, what feature have you just discovered?
+
+a.
+an abyssal plain
+c.
+a mid-ocean ridge
+b.
+a deep trench
+d.
+a continental shelf
+
+
+ANS:	C	DIF:	Moderate	REF:	15.2	
+OBJ:	Understand why ocean basins exist, and how to explain variations in water depth.
+MSC:	Applying
+
+	8.	What type of material would you expect to find on the continental slope?
+a.
+basalt and plankton shells
+c.
+silicic-rich gravels and plant remains
+b.
+carbonate-rich sediments and shells
+d.
+metamorphosed oceanic crust
+
+
+ANS:	B	DIF:	Difficult	REF:	15.2	
+OBJ:	Understand why ocean basins exist, and how to explain variations in water depth.
+MSC:	Applying
+
+	9.	Mid-ocean ridges (MORs), which are the sites of new oceanic crust formation, are linear mountain chains that run along divergent plate boundaries. Why does a MOR sit up higher than the surrounding oceanic crust?
+a.
+Hot materials are less dense and shrink; thus, the new crust will sit higher than the surrounding crust.
+b.
+As the hot magma exits the MOR, it shoots up higher than the surrounding crust.
+c.
+Hot materials are less dense and expand; thus, the new crust will sit higher than the surrounding crust.
+d.
+Hot, geothermal waters cause the new crust to expand and sit higher than the surrounding crust.
+
+
+ANS:	C	DIF:	Moderate	REF:	15.2	
+OBJ:	Understand why ocean basins exist, and how to explain variations in water depth.
+MSC:	Analyzing
+
+	10.	The density of seawater increases with ________ temperature and ________ salinity.
+a.
+increasing; increasing
+c.
+increasing; decreasing
+b.
+decreasing; increasing
+d.
+decreasing; decreasing
+
+
+ANS:	B	DIF:	Moderate	REF:	15.3	
+OBJ:	Understand the nature and causes of surface and deep currents.	
+MSC:	Remembering		
+
+	11.	Major oceanic surface currents travel ________.
+a.
+parallel to the prevailing wind direction in a region
+b.
+in direct opposition to prevailing winds as a result of the Coriolis effect
+c.
+at an angle to prevailing winds as a result of the Coriolis effect
+d.
+at an angle to prevailing winds as a result of the Doppler effect
+
+
+ANS:	C	DIF:	Difficult	REF:	15.3	
+OBJ:	Understand the nature and causes of surface and deep currents.	
+MSC:	Remembering		
+
+	12.	Thermohaline circulation carries ________ water from the poles to the equator, where the water becomes ________.
+a.
+warm; cold
+c.
+low density; more dense
+b.
+cold; warm
+d.
+low density; more salty
+
+
+ANS:	B	DIF:	Easy	REF:	15.3	
+OBJ:	Understand the nature and causes of surface and deep currents.	
+MSC:	Understanding		
+
+	13.	The sea surface salinity is ________ at the mouth of the Amazon River and ________ in the Great Salt Lake, Utah.
+a.
+low; low
+c.
+low; high
+b.
+high; low
+d.
+high; high
+
+
+ANS:	C	DIF:	Moderate	REF:	15.3	
+OBJ:	Understand the nature and causes of surface and deep currents.	
+MSC:	Understanding		
+
+	14.	The Coriolis effect causes the apparent deflection of currents due to ________.
+a.
+changes in wind speed
+c.
+changes in ocean currents
+b.
+the rotation of Earth
+d.
+the location of the Moon
+
+
+ANS:	B	DIF:	Difficult	REF:	15.3	
+OBJ:	Understand the nature and causes of surface and deep currents.	
+MSC:	Understanding		
+
+	15.	Where do the deep ocean currents rise to the surface?
+a.
+the equator
+c.
+the tropics
+b.
+the North Pole
+d.
+the South Pole
+
+
+ANS:	A	DIF:	Easy	REF:	15.3	
+OBJ:	Understand the nature and causes of surface and deep currents.	
+MSC:	Applying
+
+	16.	According to this map, where are you most likely to find upwelling currents?
+
+a.
+the North Pole
+c.
+the tropics
+b.
+the equator
+d.
+the South Pole
+
+
+ANS:	B	DIF:	Moderate	REF:	15.3	
+OBJ:	Understand the nature and causes of surface and deep currents.	
+MSC:	Applying
+
+	17.	Which of the following would be an area of the ocean with the LEAST dense water?
+a.
+the mouth of the Amazon River
+c.
+the middle of the Pacific Ocean
+b.
+off the coast of Africa
+d.
+off the coast of Madagascar
+
+
+ANS:	A	DIF:	Difficult	REF:	15.3	
+OBJ:	Understand the nature and causes of surface and deep currents.	
+MSC:	Applying
+
+	18.	How would the Coriolis effect affect the space station?
+a.
+The space station would curve to the right because it is above the Northern Hemisphere.
+b.
+The space station would curve to the left because it is above the Southern Hemisphere.
+c.
+The space station would not curve because it is above the equator and not affected.
+d.
+The space station would not be affected because it is not in Earth’s atmosphere.
+
+
+ANS:	D	DIF:	Difficult	REF:	15.3	
+OBJ:	Understand the nature and causes of surface and deep currents.	
+MSC:	Analyzing
+
+	19.	________ provides the largest tide-generating force.
+a.
+The Sun
+c.
+Earth
+b.
+The Moon
+d.
+The ocean
+
+
+ANS:	B	DIF:	Easy	REF:	15.3	
+OBJ:	Understand the behavior and cause of tides.		MSC:	Remembering
+
+	20.	Which is the larger of the two tidal bulges?
+a.
+the one farthest from the Sun
+c.
+the one closest to the Sun
+b.
+the one farthest from the Moon
+d.
+the one closest to the Moon
+
+
+ANS:	D	DIF:	Easy	REF:	15.3	
+OBJ:	Understand the behavior and cause of tides.		MSC:	Remembering
+
+	21.	The castle on the island of Mont Saint-Michel, France, can be accessed ________ a day during ________ tide.
+a.
+twice; high
+c.
+twice; low
+b.
+once; low
+d.
+once; high
+
+
+ANS:	C	DIF:	Easy	REF:	15.3	
+OBJ:	Understand the behavior and cause of tides.		MSC:	Understanding
+
+	22.	High tide will be ________ when the Sun and Moon are aligned parallel to each other as opposed to normally (when they are not aligned parallel to each other).
+a.
+the same
+c.
+higher
+b.
+lower
+d.
+reversed
+
+
+ANS:	C	DIF:	Moderate	REF:	15.3	
+OBJ:	Understand the behavior and cause of tides.		MSC:	Understanding
+
+	23.	What prevents each spot on Earth from experiencing two high tides and two low tides a day?
+a.
+the shape of the seafloor and coastline
+b.
+the shape of the tidal bulges
+c.
+the position of the Moon relative to Earth
+d.
+the position of the Sun relative to the Moon
+
+
+ANS:	A	DIF:	Difficult	REF:	15.3	
+OBJ:	Understand the behavior and cause of tides.		MSC:	Understanding
+
+	24.	Which of the following figures shows a coast experiencing high tide?
+
+a.
+A
+c.
+C
+b.
+B
+d.
+D
+
+
+ANS:	D	DIF:	Moderate	REF:	15.3	
+OBJ:	Understand the behavior and cause of tides.		MSC:	Applying
+
+	25.	What would happen to the tides if the Sun and Moon are aligned?
+a.
+There would be no tides at all.
+b.
+There would be no low tides on Earth.
+c.
+High tide would be much larger.
+d.
+There would be only low tides on Earth.
+
+
+ANS:	C	DIF:	Difficult	REF:	15.3	
+OBJ:	Understand the behavior and cause of tides.		MSC:	Applying
+
+	26.	A wave will disturb the water to a depth equal to ________.
+a.
+its wavelength
+c.
+the bottom of the seafloor
+b.
+its surface amplitude
+d.
+one-half of its wavelength
+
+
+ANS:	D	DIF:	Moderate	REF:	15.3	
+OBJ:	Understand why waves form and how they behave.	MSC:	Remembering
+
+	27.	Longshore currents ________ the shoreline.
+a.
+flow directly toward
+c.
+flow parallel to
+b.
+flow directly away from
+d.
+are not affected by
+
+
+ANS:	C	DIF:	Moderate	REF:	15.3	
+OBJ:	Understand why waves form and how they behave.	MSC:	Remembering
+
+	28.	Waves are created by ________.
+a.
+tides
+c.
+the crust
+b.
+the Moon
+d.
+wind
+
+
+ANS:	D	DIF:	Easy	REF:	15.3	
+OBJ:	Understand why waves form and how they behave.	MSC:	Remembering
+
+	29.	Longshore current is the result of waves ________.
+a.
+coming in perpendicular to the shore
+c.
+created during large storms
+b.
+coming into shore at an angle
+d.
+retreating back to the ocean
+
+
+ANS:	B	DIF:	Easy	REF:	15.3	
+OBJ:	Understand why waves form and how they behave.	MSC:	Understanding
+
+	30.	As a wave passes through the open ocean, the water molecules move ________.
+a.
+horizontally
+c.
+in a circular path
+b.
+diagonally
+d.
+straight up and down
+
+
+ANS:	C	DIF:	Difficult	REF:	15.3	
+OBJ:	Understand why waves form and how they behave.	MSC:	Understanding
+
+	31.	In the figure below, which letters represent the crest and trough?
+
+a.
+A and B
+c.
+C and D
+b.
+E and D
+d.
+C and B
+
+
+ANS:	C	DIF:	Easy	REF:	15.3	
+OBJ:	Understand why waves form and how they behave.	MSC:	Applying
+
+	32.	If a beach is in an east-west orientation and the waves are approaching the shore from a southeasterly direction, in which direction will the longshore drift be?
+a.
+northern
+c.
+southern
+b.
+western
+d.
+eastern
+
+
+ANS:	B	DIF:	Moderate	REF:	15.3	
+OBJ:	Understand why waves form and how they behave.	MSC:	Applying
+
+	33.	Why are waves larger during storms?
+a.
+The larger wind speeds create more shear.
+b.
+The storm increases the amount of upwelling.
+c.
+There is more water pulled in by the storm.
+d.
+The motion of the water becomes more elliptical.
+
+
+ANS:	A	DIF:	Moderate	REF:	15.3	
+OBJ:	Understand why waves form and how they behave.	MSC:	Analyzing
+
+	34.	________ are gently sloping areas on coastlines that consist mostly of sand.
+a.
+Tidal flats
+c.
+Lagoons
+b.
+Beaches
+d.
+Inlets
+
+
+ANS:	B	DIF:	Easy	REF:	15.4	
+OBJ:	Understand how a great variety of different coastal landforms develop and evolve.
+MSC:	Remembering		
+
+	35.	When sea level rises and floods a glacially carved valley, the area is called a(n) ________.
+a.
+fjord
+c.
+estuary
+b.
+wetland
+d.
+reef
+
+
+ANS:	A	DIF:	Easy	REF:	15.4	
+OBJ:	Understand how a great variety of different coastal landforms develop and evolve.
+MSC:	Remembering		
+
+	36.	Because of wave refraction, erosion along an irregular coastline is ________.
+a.
+even along the length of the coast
+b.
+greatest along headlands
+c.
+greatest in bays
+d.
+the same as it would be along a regular coastline
+
+
+ANS:	B	DIF:	Moderate	REF:	15.3	
+OBJ:	Understand how a great variety of different coastal landforms develop and evolve.
+MSC:	Remembering		
+
+	37.	Coastal landforms are constantly changing because the ________.
+a.
+sand is constantly moving
+c.
+sand is moved by developers
+b.
+tides are getting stronger
+d.
+storms are getting stronger
+
+
+ANS:	A	DIF:	Easy	REF:	15.4	
+OBJ:	Understand how a great variety of different coastal landforms develop and evolve.
+MSC:	Understanding		
+
+	38.	Barrier islands are constantly moving in the direction of ________.
+a.
+the longshore drift
+c.
+down welling
+b.
+the high tide
+d.
+the Coriolis effect
+
+
+ANS:	A	DIF:	Easy	REF:	15.4	
+OBJ:	Understand how a great variety of different coastal landforms develop and evolve.
+MSC:	Understanding		
+
+	39.	In the figure below, which direction is the longshore drift?
+
+a.
+south
+c.
+west
+b.
+east
+d.
+It is not possible to tell.
+
+
+ANS:	B	DIF:	Easy	REF:	15.4	
+OBJ:	Understand how a great variety of different coastal landforms develop and evolve.
+MSC:	Applying
+
+	40.	What will eventually happen to the headlands in the figure below? 
+
+a.
+They will join as the bays in between fill with sediment.
+b.
+They will become a straight line of cliffs as rock is eroded away.
+c.
+They will remain as they are for millions of years.
+d.
+The sea will submerge them as the terrace is uplifted.
+
+
+ANS:	B	DIF:	Moderate	REF:	15.4	
+OBJ:	Understand how a great variety of different coastal landforms develop and evolve.
+MSC:	Applying
+
+	41.	Many rocky coasts occur along active margins; why is this?
+a.
+Active margins are associated with larger storms, which causes more erosion of sediment, leading to fewer beaches.
+b.
+Active margins are associated with volcanic activity, and volcanic rocks are very hard to erode; thus, there is not enough sediment produced.
+c.
+Active margins often experience repeated uplift, and thus the waves have not had sufficient time to erode the land surface down to sea level.
+d.
+Active margins tend to have far fewer streams that feed sediment to the oceans; thus, there is not enough sand to create beaches.
+
+
+ANS:	C	DIF:	Difficult	REF:	15.4	
+OBJ:	Understand how a great variety of different coastal landforms develop and evolve.
+MSC:	Analyzing
+
+	42.	Building a dam across a river can lead to ________ because sediment becomes trapped behind the dam.
+a.
+pollution
+c.
+reef bleaching
+b.
+beach nourishment
+d.
+beach erosion
+
+
+ANS:	D	DIF:	Easy	REF:	15.6	
+OBJ:	Understand how rising sea level, wave erosion, and human activities affect coasts.
+MSC:	Remembering		
+
+	43.	When the sea level rises, an ocean may invade a river valley, producing a nearshore body of water of mixed and variable salinity termed a(n) ________.
+a.
+atoll
+c.
+estuary
+b.
+lagoon
+d.
+jetty
+
+
+ANS:	C	DIF:	Moderate	REF:	15.4	
+OBJ:	Understand how rising sea level, wave erosion, and human activities affect coasts.
+MSC:	Remembering		
+
+	44.	Along beaches, groins have ________.
+a.
+solved the problem of beach drift
+b.
+increased erosion rates immediately up current from the groin
+c.
+increased erosion rates immediately down current from the groin
+d.
+increased depositional rates immediately down current from the groin
+
+
+ANS:	C	DIF:	Moderate	REF:	15.6	
+OBJ:	Understand how rising sea level, wave erosion, and human activities affect coasts.
+MSC:	Remembering		
+
+	45.	If sea level continues to rise and covers the city of Miami, the Florida coast will become a(n) ________.
+a.
+emergent coast
+c.
+continental slope
+b.
+submergent coast
+d.
+abyssal plain
+
+
+ANS:	B	DIF:	Easy	REF:	15.5	
+OBJ:	Understand how rising sea level, wave erosion, and human activities affect coasts.
+MSC:	Understanding		
+
+	46.	Which type of coastline would most likely contain estuaries or fjords?
+a.
+subductive
+c.
+submergent
+b.
+emergent
+d.
+divergent
+
+
+ANS:	C	DIF:	Difficult	REF:	15.5	
+OBJ:	Understand how rising sea level, wave erosion, and human activities affect coasts.
+MSC:	Understanding		
+
+	47.	The entire state of Florida is composed of fossiliferous limestone. What does this imply about Florida during the recent past?
+a.
+It was covered with caves.
+c.
+It was an emergent coast.
+b.
+It was a submergent coast.
+d.
+It was in the mountains.
+
+
+ANS:	B	DIF:	Moderate	REF:	15.5	
+OBJ:	Understand how rising sea level, wave erosion, and human activities affect coasts.
+MSC:	Applying
+
+	48.	You have just bought your dream home along a coastline, but you notice that the beach in front of your new house is slowly disappearing. You decide to solve this by building a groin. Winds blow predominantly from east to west. Where do you place your groin?
+a.
+parallel to the shoreline several meters offshore
+b.
+perpendicular to the shore to the east of your house
+c.
+perpendicular to the shore to the west of your house
+d.
+perpendicular to the shore directly in front of your house
+
+
+ANS:	C	DIF:	Moderate	REF:	15.5	
+OBJ:	Understand how rising sea level, wave erosion, and human activities affect coasts.
+MSC:	Applying
+
+	49.	Sea level is currently rising at 3.3 mm/yr, and scientists predict that global warming could cause a rise in sea level of 7 if left unabated. How long will it take the sea to rise 7 m at the current rate?
+a.
+2,121 years
+c.
+2.121 years
+b.
+0.0004 year
+d.
+0.47 year
+
+
+ANS:	A	DIF:	Easy	REF:	15.5	
+OBJ:	Understand how rising sea level, wave erosion, and human activities affect coasts.
+MSC:	Applying
+
+	50.	Why do beaches become sediment-starved after dams are installed on rivers?
+a.
+Dams trap water, thus reducing the volume of water that enters the ocean and erodes away the coast to produce sediment.
+b.
+Rivers supply sediment to beaches; dams trap river sediment, and thus that sediment cannot make it to the beaches.
+c.
+The chemical composition of river water is changed when it flows through a dam; this alters the amount of chemical weathering that occurs along the coast.
+d.
+Dams are built using sediment covered in concrete; the sediment most often comes from nearby beaches.
+
+
+ANS:	B	DIF:	Difficult	REF:	15.5	
+OBJ:	Understand how rising sea level, wave erosion, and human activities affect coasts.
+MSC:	Analyzing
+
+SHORT ANSWER
+
+	1.	Label the landforms of ocean basins shown in the image below using the following word bank (note: not all of the words will be used):
+
+Beach
+Continental shelf
+Continental slope
+Continental rise
+Trench
+Abyssal plain
+Island arc
+Mid-ocean ridge
+Seamount
+Continental arc
+Accretionary prism
+Atoll
+
+
+ANS:	
+A = Continental shelf, B = Continental slope, C = Mid-ocean ridge, D = Continental rise, 
+E = Continental arc, F = Trench, G = Abyssal plain
+
+DIF:	Easy	REF:	15.2	
+OBJ:	Understand why ocean basins exist, and how to explain variations in water depth.
+MSC:	Applying
+
+	2.	Describe what thermohaline circulation is and how it works.
+
+ANS:	
+Thermohaline circulation is the vertical movement of ocean water due to changes in density. Cold or salty water has a high density that causes it to sink toward the bottom of the ocean. The water then circulates along the ocean bottom until it becomes less dense, either by warming up or by decreasing the salinity, and rises to the surface. This process mixes the oceans vertically.
+
+DIF:	Moderate	REF:	15.3	
+OBJ:	Understand the nature and causes of surface and deep currents.	
+MSC:	Understanding		
+
+	3.	Describe what longshore drift is and how it works.
+
+ANS:	
+Longshore drift is the movement of sediment along the beach. Longshore drift occurs when waves come into the beach at an angle and wash the sand diagonally up the beach. The wave returns to the ocean straight down the slope due to the pull of gravity and carries the sand along with it. Thus, overall the sand on the beach moves in a zigzag pattern down the beach in the direction of longshore drift.
+
+DIF:	Moderate	REF:	15.3	
+OBJ:	Understand why ocean basins exist, and how to explain variations in water depth.
+MSC:	Understanding		
+
+	4.	Explain why it is not a good idea to build on barrier islands.
+
+ANS:	
+Barrier islands are temporary features because the sand they are composed of is constantly moving due to longshore drift. Any structures built on barrier islands can be undermined by the constant erosion of sand.
+
+DIF:	Easy	REF:	15.4	
+OBJ:	Understand how a great variety of different coastal landforms develop and evolve.
+MSC:	Understanding		
+
+	5.	Describe one way humans have tried to mitigate beach erosion. Was it ultimately successful in both the short term and long term?
+
+ANS:	
+Answers will vary; however, students may discuss beach nourishment or the use of hard stabilization structures. Beach nourishment involves placing new sediment onto the beach to replace the eroded sand. Beach nourishment can be effective in the short term; however, it does not stop the erosion from occurring and will need to be used again at a later date. Hard stabilization structures like groins, jetties, or breakwaters prevent erosion at a specific spot but shift the erosion to another nearby spot. This will fix the issue both short and long term; however, it will cause problems for other areas along the beach, which may ultimately cause different problems (i.e., legal issues). Riprap or seawalls are hard structures made of concrete or large boulders that are meant to absorb the energy from waves and prevent erosion. However, these structures can be undermined and destroyed by large storms and thus are a measure that will need to be repaired often.
+
+DIF:	Moderate	REF:	15.6	
+OBJ:	Understand how rising sea level, wave erosion, and human activities affect coasts.
+MSC:	Analyzing

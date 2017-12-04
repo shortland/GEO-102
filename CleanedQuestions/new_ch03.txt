@@ -1,0 +1,544 @@
+CHAPTER 03: Patterns in Nature: Minerals
+
+MULTIPLE CHOICE
+
+1. The internal ordering of mineral crystals can be detected using ________.
+a. magnetic resonance imaging (MRI)
+b. X-ray diffraction
+c. a scanning electron microscope (SEM)
+d. cathodized axial tomography (CAT)
+
+ANS: B
+
+
+
+2. When two different minerals have the same chemical formula but different crystal structures, they are said to be ________.
+a. polymorphs
+b. polyliths
+c. monoliths
+d. This is not possible. Two minerals cannot have the same chemical formula.
+
+ANS: A
+
+
+
+3. When a solution becomes oversaturated, new solid particles are said to ________.
+a. precipitate from the solution
+b. dissolve into the solution
+c. react with the solution and produce heat
+d. rapidly expand, causing an explosion
+
+ANS: A
+
+
+
+4. Natural glass is NOT considered a mineral because it ________.
+a. is not produced by geologic processes
+b. is organic
+c. does not have a fixed crystalline structure
+d. can be made synthetically as well as be a naturally occurring substance
+
+ANS: C
+
+
+
+5. Which of the following is NOT true about minerals?
+a. All minerals are compounds of more than one element.
+b. All minerals are naturally made.
+c. Some minerals are precipitated by organisms.
+d. All minerals can be expressed as chemical formulas.
+
+ANS: A
+
+
+
+6. Minerals are all naturally occurring solid substances with a definable chemical composition. They must also possess ________.
+a. an ability to be synthesized in the laboratory as well as be found in nature
+b. metallic elements, such as iron, calcium, or magnesium
+c. a nonmetallic, vitreous luster
+d. a fixed crystalline structure (spatial arrangement of atoms and ions)
+
+ANS: D
+
+
+
+7. Which of the following is NOT a mineral?
+a. quartz
+c. petroleum
+b. diamond
+d. gold
+
+ANS: C
+
+
+
+8. Which of the following is NOT a way for minerals to crystallize?
+a. solidification of a melt (lava/magma)
+b. bonding carbon to oxygen atoms to form organic compounds
+c. solid-state diffusion
+d. biomineralization
+
+ANS: B
+
+
+
+9. Which of the following is a mineral?
+a. granite
+c. salt dissolved in water
+b. cubic zirconia
+d. calcite
+
+ANS: D
+
+
+
+10. Which of the following is a mineral?
+a. petroleum (oil), which is a liquid
+b. cubic zirconia, which is a synthetic diamond substitute
+c. ice, which is water in the solid state
+d. obsidian, a type of volcanic glass
+
+ANS: C
+
+
+
+11. The ________ class of minerals contains the anion S−2.
+a. oxides
+c. sulfides
+b. halides
+d. sulfates
+
+ANS: C
+
+
+
+12. The ________ class of minerals includes a substance commonly known as rust.
+a. oxides
+c. halides
+b. carbonates
+d. silicates
+
+ANS: A
+
+
+
+13. The ________ class of minerals are very good conductors due to the ability of the electrons in the atoms to move around.
+a. native metals
+c. silicates
+b. sulfides
+d. carbonates
+
+ANS: A
+
+
+
+14. The silica tetrahedron that forms the backbone of all the silicate minerals is composed of silicon and what other element?
+a. magnesium
+c. iron
+b. oxygen
+d. carbon
+
+ANS: B
+
+
+
+15. The mineral calcite is in the ________ mineral class.
+a. sulfate
+c. silicate
+b. carbonate
+d. oxide
+
+ANS: B
+
+
+
+16. The framework silicates are the most complicated because they ________.
+a. contain silica tetrahedral
+c. produce flat sheets
+b. have crystal lattices
+d. share all four oxygen
+
+ANS: D
+
+
+
+17. Minerals are grouped into mineral classes primarily on a basis of ________.
+a. chemistry, specifically the cations within the chemical formula
+b. chemistry, specifically the anions within the chemical formula
+c. hardness; hard, soft, and medium are the three primary classes
+d. the number of cleavage directions present
+
+ANS: B
+
+
+
+18. The silicates are broken into several groups based on the way the silica tetrahedral are ________.
+a. bonded to anions
+c. arranged and bonded
+b. bonded to iron atoms
+d. arranged and charged
+
+ANS: C
+
+
+
+19. Calcite (CaCO3) is in which mineral class?
+a. silicates
+c. oxides
+b. carbonates
+d. sulfides
+
+ANS: B
+
+
+
+20. Potassium feldspar (KAlSi3O8) is in which mineral class?
+a. silicates
+c. oxides
+b. carbonates
+d. sulfides
+
+ANS: A
+
+
+
+21. Pyrite (FeS2) is in which mineral class?
+a. silicates
+c. oxides
+b. carbonates
+d. sulfides
+
+ANS: D
+
+
+
+22. In which type of silicate are the greatest proportion of oxygen atoms shared by pairs of adjacent tetrahedra?
+a. chain silicates
+b. framework silicates
+c. sheet silicates
+d. Sharing of oxygen atoms does not occur in silicates.
+
+ANS: B
+
+
+
+23. The mineral class that makes up more than 95% of the continental crust is termed the ________.
+a. silicates
+c. halides
+b. carbonates
+d. oxides
+
+ANS: A
+
+
+
+24. Which layer of Earth does NOT contain silicates?
+a. oceanic crust
+c. outer core
+b. upper mantle
+d. asthenosphere
+
+ANS: C
+
+
+
+25. The major rock-forming minerals fall into the ________ mineral class.
+a. oxides
+c. sulfates
+b. silicates
+d. sulfides
+
+ANS: B
+
+
+
+26. Fewer than 50 minerals on Earth are ________.
+a. found on other planets
+c. found in the crust
+b. used for industrial purposes
+d. commonly found in rocks
+
+ANS: D
+
+
+
+27. Which of the following minerals is more commonly known as table salt?
+a. gypsum
+c. halite
+b. feldspar
+d. quartz
+
+ANS: C
+
+
+
+28. The mantle is composed almost entirely of the mineral class ________.
+a. silicates
+c. halides
+b. oxides
+d. sulfates
+
+ANS: A
+
+
+
+29. Which of the following minerals is a silicate?
+a. galena
+c. calcite
+b. olivine
+d. halite
+
+ANS: B
+
+
+
+30. Which common rock-forming mineral shows up in all three major rock types (igneous, sedimentary, and metamorphic)?
+a. diamond
+c. olivine
+b. quartz
+d. kaolinite
+
+ANS: B
+
+
+
+31. The color of a mineral in powdered form is termed ________.
+a. color
+c. luster
+b. specific gravity
+d. streak
+
+ANS: D
+
+
+
+32. Cleavage in minerals refers to ________.
+a. a tendency to break in an irregular pattern
+b. a tendency to break along planes of weakness
+c. the sharpness of edges between crystal faces
+d. the development of well-formed crystal faces
+
+ANS: B
+
+
+
+33. Synthetically made glass and natural quartz crystals both exhibit a fracture pattern termed ________.
+a. glassy fracture
+c. one-directional cleavage
+b. conchoidal fracture
+d. obtuse fracture
+
+ANS: B
+
+
+
+34. Which of the following common minerals is softest?
+a. quartz
+c. talc
+b. calcite
+d. fluorite
+
+ANS: C
+
+
+
+35. With regard to minerals, hardness refers to the ability to resist ________.
+a. breaking
+b. being scratched
+c. chemical reactions with other substances
+d. bending
+
+ANS: B
+
+
+
+36. ________ is a mineral property defined by the density of the mineral sample divided by the density of water (1.0 g/cm3).
+a. Mass
+c. Luster
+b. Specific gravity
+d. Streak
+
+ANS: B
+
+
+
+37. The image below shows a mineral specimen of quartz. What is the term for the smoothly curving, clamshell-shaped surface on the sample below?
+
+a. conchoidal fracture
+c. cleavage plane
+b. facet
+d. striation
+
+ANS: A
+
+
+
+38. The image below shows a mineral with hydrochloric acid applied to it. What mineral is this?
+
+a. quartz
+c. calcite
+b. halite
+d. fluorite
+
+ANS: C
+
+
+
+39. Trace amounts of impurity in a mineral can commonly produce significant differences in ________ among individual crystals of this mineral.
+a. color
+c. luster
+b. cleavage
+d. streak
+
+ANS: A
+
+
+
+40. Ore minerals, such as galena, tend to be different from typical minerals (such as quartz) in that they have a ________.
+a. very dark color
+c. large specific gravity
+b. diamond-like crystal habit
+d. vitreous luster
+
+ANS: C
+
+
+
+41. For the majority of minerals, the streak color obtained when the mineral is scratched against a porcelain plate is ________.
+a. only useful if the mineral is softer than porcelain
+b. more variable than the color in a hand sample among crystals
+c. not useful because the porcelain will often chemically react with the mineral
+d. always dark brown or black
+
+ANS: A
+
+
+
+42. Using the Mohs hardness scale below, which of the following statements is FALSE?
+
+a. Your fingernail can scratch a sample of gypsum.
+b. Diamonds are twice as hard as apatite.
+c. Diamonds are more than seven times as hard as quartz.
+d. Quartz cannot scratch anything made of diamond.
+
+ANS: B
+
+
+
+43. Which common gemstone results from biomineralization?
+a. diamond
+c. pearl
+b. garnet
+d. sapphire
+
+ANS: C
+
+
+
+44. Diamonds are usually found in ________.
+a. graphite
+c. metamorphic rocks
+b. kimberlite
+d. sedimentary rocks
+
+ANS: B
+
+
+
+45. A facet is a ________ on a gem.
+a. polished surface
+c. small impurity
+b. cleavage plane
+d. crystal face
+
+ANS: A
+
+
+
+46. Gemstones are commonly found in pegmatites, which are igneous rocks that are ________.
+a. exceptionally mafic
+c. exceptionally coarse grained
+b. extrusive, forming from lava
+d. exceptionally fine grained
+
+ANS: C
+
+
+
+47. The diamonds we typically see today in engagement rings do not display their natural crystal faces but rather ________, which are made by grinding the gem on a spinning lap.
+a. striations
+c. cleavage planes
+b. facets
+d. facades
+
+ANS: B
+
+
+
+48. Which of the following is considered a gem?
+a. clay
+c. garnet
+b. feldspar
+d. gold
+
+ANS: C
+
+
+
+49. Which of the images below shows a gem?
+
+a. A
+c. C
+b. B
+d. D
+
+ANS: B
+
+
+
+50. Why are diamonds used in saw blades not nearly as expensive as diamonds used in jewelry?
+a. They are neither rare nor beautiful.
+b. They are beautiful but very common.
+c. They are actually man-made diamonds.
+d. They are the cuttings from gems.
+
+ANS: A
+
+
+
+SHORT ANSWER
+
+1. Explain why a cubic zirconia is NOT a mineral.
+
+ANS:
+Cubic zirconia are man-made and therefore not considered a mineral.
+
+
+
+2. Draw and label a silicon-oxygen tetrahedron.
+
+ANS:
+
+
+
+
+3. Why are minerals often referred to as “the building blocks of Earth”?
+
+ANS:
+Earth is made of many different types of rocks, and rocks are composed of a mixture of minerals in various forms. Thus, the smallest “building block” of Earth is actually the mineral.
+
+
+
+4. Some physical properties are more useful for certain minerals than others. Explain how color can be useful to identify some minerals but not others. Be sure to use mineral examples in your answer.
+
+ANS:
+Some minerals, like olivine, are always the same color. However, other minerals, such as quartz, come in a variety of colors, and thus color is not a useful physical property to use to identify quartz.
+
+
+
+5. Diamond is a polymorph of graphite. What is a polymorph, and explain how a piece of graphite could be turned into a diamond by geologic processes.
+
+ANS:
+A polymorph is a mineral with the same chemical composition but a different crystal structure. If graphite is buried down deep enough into Earth the pressure will cause the bonds between carbons to rearrange, strengthening the crystal and turning it into a diamond.
+
+

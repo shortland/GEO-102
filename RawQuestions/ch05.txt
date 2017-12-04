@@ -1,0 +1,792 @@
+CHAPTER 05: The Wrath of Vulcan: Volcanic Eruptions
+
+MULTIPLE CHOICE
+
+	1.	Nonviolent eruptions characterized by extensive flows of basaltic lava are termed ________.
+a.
+pyroclastic
+c.
+explosive
+b.
+effusive
+d.
+plinian
+
+
+ANS:	B	DIF:	Easy	REF:	5.3	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Remembering		
+
+	2.	In 79 C.E., the citizens of Pompeii in the Roman Empire were buried by pyroclastic debris derived from an eruption of ________.
+a.
+Mount Olympus
+c.
+Mount Vesuvius
+b.
+Olympus Mons
+d.
+Mount St. Helens
+
+
+ANS:	C	DIF:	Easy	REF:	5.1	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Remembering		
+
+	3.	Of the three primary forms of subaerial volcanoes, ________ consist of alternating layers of tephra and solidified lava.
+a.
+stratovolcanoes
+c.
+shield volcanoes
+b.
+cinder cones
+d.
+fissure volcanoes
+
+
+ANS:	A	DIF:	Easy	REF:	5.3	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Remembering		
+
+	4.	The textural term for a basaltic lava flow that has a smooth, ropy appearance is ________.
+a.
+pahoehoe
+c.
+pumice
+b.
+a’a’
+d.
+ignimbrite
+
+
+ANS:	A	DIF:	Easy	REF:	5.2	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Understanding		
+
+	5.	The Columbia River Plateau is an example of a ________.
+a.
+caldera
+c.
+flood basalt
+b.
+fissure
+d.
+hot spot
+
+
+ANS:	C	DIF:	Moderate	REF:	5.4	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Understanding		
+
+	6.	Explosive or voluminous eruptions may cause the volcano to collapse on the floor of the now-empty magma chamber, producing a broad depression termed a ________. 
+
+a.
+dike
+c.
+caldera
+b.
+lahar
+d.
+fissure
+
+
+ANS:	C	DIF:	Moderate	REF:	5.3	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Understanding		
+
+	7.	The Hawaiian island chain is an example of a(n) ________.
+a.
+island volcanic arc
+c.
+hotspot island chain
+b.
+continental volcanic arc
+d.
+stratovolcanic assembly
+
+
+ANS:	C	DIF:	Easy	REF:	5.4	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Applying
+
+	8.	Fissure eruptions take place when ________.
+a.
+volatiles effervesce prior to lava flow
+b.
+groundwater interacts with magma
+c.
+basaltic lava clogs the eruptive vent
+d.
+lava erupts out of a long crack in the ground forming a curtain of lava
+
+
+ANS:	B	DIF:	Moderate	REF:	5.3	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Applying
+
+	9.	Based on your knowledge of volcanoes and volcanic products, you can say with confidence that the outcrop in the image below formed ________.
+
+a.
+on land at a continental hotspot
+c.
+on land at a continental rift
+b.
+underwater at a subduction zone
+d.
+underwater at a mid-ocean ridge
+
+
+ANS:	D	DIF:	Difficult	REF:	5.2	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Applying
+
+	10.	The tall polygonal features preserved in the ancient basalt flow in the image below formed because the lava ________.
+
+a.
+was moving as it cooled, so it fractured
+b.
+erupted underwater and cooled rapidly, forming many fractures
+c.
+was subjected to shaking from earthquakes, and subsequently fractured
+d.
+shrank as it cooled, forming tall polygonal-shaped fractures
+
+
+ANS:	D	DIF:	Difficult	REF:	5.2	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Applying
+
+	11.	Which of the following is FALSE? Caldera forming eruptions ________.
+a.
+can be so explosive that a significant portion of the volcano can be destroyed
+b.
+occur when groundwater or seawater enters the magma chamber
+c.
+occur due to fractional crystallization of the magma chamber
+d.
+produce little to no lava at the surface
+
+
+ANS:	B	DIF:	Difficult	REF:	5.3	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Analyzing
+
+	12.	Felsic magma tends to form ________ eruptions.
+a.
+effusive
+c.
+intrusive
+b.
+explosive
+d.
+infusive
+
+
+ANS:	B	DIF:	Easy	REF:	5.3	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Remembering		
+
+	13.	The lower the viscosity of a lava the more likely it is to produce an ________ eruption.
+a.
+effusive
+c.
+intrusive
+b.
+explosive
+d.
+infusive
+
+
+ANS:	A	DIF:	Easy	REF:	5.3	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Remembering		
+
+	14.	Felsic magma generally forms in ________.
+a.
+the mantle
+c.
+continental crust
+b.
+mid-ocean ridges
+d.
+oceanic crust
+
+
+ANS:	C	DIF:	Moderate	REF:	5.4	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Analyzing
+
+	15.	Why is felsic magma much more likely to produce an explosive eruption?
+a.
+Felsic magma is at a higher magma temperature, which will force an explosion.
+b.
+Felsic magma cools at a lower temperature and thus will still be molten upon eruption.
+c.
+Felsic magma has a low viscosity, which will flow easily and erupt at a faster velocity.
+d.
+Felsic magma has a high viscosity, which will tend to stick in and clog volcanic conduits.
+
+
+ANS:	D	DIF:	Easy	REF:	5.3	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Understanding		
+
+	16.	Compared to felsic lavas, mafic lavas have a ________.
+a.
+lighter color
+c.
+lower density
+b.
+lower viscosity
+d.
+higher silica content
+
+
+ANS:	B	DIF:	Moderate	REF:	5.2	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Understanding		
+
+	17.	Hotspots are produced by mantle plumes that are composed of mafic magma; however, Yellowstone is a hotspot that erupts more explosively because the hotspot ________.
+a.
+is hotter and thus melts more rock
+c.
+originates at the core-mantle boundary
+b.
+rises through the continental crust
+d.
+rises through a mid-ocean ridge
+
+
+ANS:	B	DIF:	Difficult	REF:	5.3	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Understanding		
+
+	18.	Pillow lavas are associated with ________ eruptions.
+a.
+subaerial rhyolitic
+c.
+submarine rhyolitic
+b.
+subaerial basaltic
+d.
+submarine basaltic
+
+
+ANS:	D	DIF:	Difficult	REF:	5.4	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Understanding		
+
+	19.	The image below shows a lava dome that never left the volcanic crater. What is the likely composition of the rocks that make up this lava dome?
+
+a.
+felsic
+c.
+mafic
+b.
+intermediate
+d.
+ultramafic
+
+
+ANS:	A	DIF:	Moderate	REF:	5.2	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Applying
+
+	20.	What properties of the source magma lead to the formation of a shield volcano?
+a.
+low viscosity and mafic composition
+b.
+high viscosity and felsic composition
+c.
+any magma composition so long as it contains a large portion of dissolved volatiles
+d.
+an intermediate composition magma that encounters seawater in the magma chamber
+
+
+ANS:	A	DIF:	Moderate	REF:	5.3	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Applying
+
+	21.	Basaltic lavas ________.
+a.
+contain less silica than rhyolitic lavas
+b.
+contain more silica than rhyolitic lavas
+c.
+are more viscous than rhyolitic lavas
+d.
+typically contain a greater proportion of trapped volatiles than rhyolitic lavas
+
+
+ANS:	A	DIF:	Difficult	REF:	5.2	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Applying
+
+	22.	Whether an eruption will primarily produce lava flows or pyroclastic debris is NOT influenced by the ________ the source magma.
+a.
+viscosity of
+c.
+proportion of volatiles within
+b.
+composition of
+d.
+depth and residence time of
+
+
+ANS:	D	DIF:	Moderate	REF:	5.2	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Analyzing
+
+	23.	A fast-moving flow consisting of a mixture of water and volcanoclastic debris is termed a ________.
+a.
+lahar
+c.
+flood basalt
+b.
+pyroclastic flow
+d.
+hyaloclastite
+
+
+ANS:	A	DIF:	Easy	REF:	5.2	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Remembering		
+
+	24.	Gases that are abundantly emitted by volcanoes include ________.
+a.
+water vapor, carbon dioxide, and sulfur dioxide
+b.
+oxygen, ozone, and water vapor
+c.
+oxygen, hydrogen, and argon
+d.
+carbon dioxide, carbon monoxide, and oxygen
+
+
+ANS:	A	DIF:	Moderate	REF:	5.2	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Remembering		
+
+	25.	In 1902 a famous, deadly pyroclastic flow killed thousands of people on the Caribbean island of ________.
+a.
+Puerto Rico
+c.
+Aruba
+b.
+Martinique
+d.
+Jamaica
+
+
+ANS:	B	DIF:	Moderate	REF:	5.4	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Remembering		
+
+	26.	What was unusual about the 1986 volcano-related disaster near Lake Nyos in Cameroon?
+a.
+A volcanic eruption involved a lateral blast of volcanoclastic debris that no one anticipated.
+b.
+Pyroclastic flows buried surrounding villages, reminiscent of Pompeii ~1,900 years earlier.
+c.
+Volcanically derived carbon dioxide gas bubbled from the lake and suffocated people and animals nearby.
+d.
+A slurry of lava and lake water flowed rapidly outward from the lake and buried surrounding villages.
+
+
+ANS:	C	DIF:	Easy	REF:	5.6	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Understanding		
+
+	27.	The cloud that rises from the vent of an actively erupting volcano is composed of ________.
+a.
+smoke from wildfires inside the volcanic crater
+b.
+smoke from wildfires on the outer slopes of the volcano that funnel into the crater
+c.
+fine volcanoclastic debris (ash) suspended in the air
+d.
+a continuous fountain of dark, basaltic lava
+
+
+ANS:	C	DIF:	Easy	REF:	5.2	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Understanding		
+
+	28.	Ash, cinders, and blocks are all types of ________.
+a.
+pyroclastic debris
+c.
+Pele’s hair
+b.
+lava flows
+d.
+volcanoes
+
+
+ANS:	A	DIF:	Easy	REF:	5.2	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Understanding		
+
+	29.	Volcanic bombs are ________.
+a.
+volcanic fragments that were ejected while still soft or molten
+b.
+explosive bodies of lava with high volatile content
+c.
+volcanic fragments that were already solid rock before being ejected during an eruption
+d.
+used by geologists to set off small eruptions in volcanoes that are deemed potentially dangerous
+
+
+ANS:	A	DIF:	Moderate	REF:	5.2	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Understanding		
+
+	30.	A mixture of air, hot ash, and pumice lapilli that rushes down the side of a volcano in a scalding avalanche is termed a(n) ________.
+a.
+ash fall
+c.
+pyroclastic flow
+b.
+lahar
+d.
+convective plume
+
+
+ANS:	C	DIF:	Easy	REF:	5.4	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Applying
+
+	31.	The image below shows a ________, which is a large piece of pyroclastic debris ejected during an eruption, with a smooth texture due to the fact that it was partially molten when ejected.
+
+a.
+block
+c.
+lapilli
+b.
+bomb
+d.
+xenolith
+
+
+ANS:	B	DIF:	Moderate	REF:	5.2	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Applying
+
+	32.	Which of the following poses the greatest hazard to human life associated with volcanoes?
+a.
+flowing lava
+c.
+falling ash
+b.
+volcanic gas
+d.
+pyroclastic flows
+
+
+ANS:	D	DIF:	Moderate	REF:	5.5	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Applying
+
+	33.	Columnar joints form when ________.
+a.
+a lava flow cools very rapidly, causing the flow to shatter in a chaotic pattern
+b.
+a lava flow encounters groundwater, which causes the flow to rapidly fracture
+c.
+a lava flow erupts under deep water
+d.
+during the final stages of cooling, a lava flow contracts, forming tall polygonal fractures
+
+
+ANS:	D	DIF:	Difficult	REF:	5.2	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Analyzing
+
+	34.	The average time between eruptions is called a(n) ________.
+a.
+repose interval
+c.
+forecast
+b.
+prediction
+d.
+assessment
+
+
+ANS:	A	DIF:	Easy	REF:	5.6	
+OBJ:	Understand why impending eruptions can be predicted, sometimes.
+MSC:	Remembering		
+
+	35.	Changes in the shape of a volcano can indicate ________.
+a.
+an increase in the heat flow from the magma
+b.
+an extinct volcano becoming active
+c.
+a magma chamber filling or emptying
+d.
+the release of gases from the magma
+
+
+ANS:	C	DIF:	Moderate	REF:	5.6	
+OBJ:	Understand why impending eruptions can be predicted, sometimes.
+MSC:	Remembering		
+
+	36.	If magma is fracturing rocks as it moves through the subsurface, there would most likely be an increase in ________.
+a.
+recurrence interval
+c.
+silica content
+b.
+volcanic gas emission
+d.
+seismic activity
+
+
+ANS:	D	DIF:	Moderate	REF:	5.6	
+OBJ:	Understand why impending eruptions can be predicted, sometimes.
+MSC:	Remembering		
+
+	37.	Scientists monitor volcanoes to help predict when eruptions will occur. Which of the following is NOT a potential sign to look for when predicting volcanic eruptions?
+a.
+changes in earthquake activity
+b.
+changes in Earth’s magnetic field
+c.
+small changes in the shape of the volcano
+d.
+increases in gas and steam emissions
+
+
+ANS:	B	DIF:	Moderate	REF:	5.6	
+OBJ:	Understand why impending eruptions can be predicted, sometimes.
+MSC:	Understanding		
+
+	38.	Volcanoes are considered dormant if they ________.
+a.
+still have a magma source but show no signs of impending eruption
+b.
+no longer have a magma source and therefore will never erupt again
+c.
+have an active magma source and are currently erupting
+d.
+have an active magma source but will never erupt again
+
+
+ANS:	A	DIF:	Difficult	REF:	5.6	
+OBJ:	Understand why impending eruptions can be predicted, sometimes.
+MSC:	Understanding		
+
+	39.	The volcano in the image below is ________.
+
+a.
+active
+c.
+dormant
+b.
+extinct
+d.
+quiescent
+
+
+ANS:	B	DIF:	Easy	REF:	5.6	
+OBJ:	Understand why impending eruptions can be predicted, sometimes.
+MSC:	Applying
+
+	40.	If a volcano lies along a convergent boundary but has not erupted in over 100,000 years, the volcano is considered ________.
+a.
+active
+c.
+extinct
+b.
+dormant
+d.
+dead
+
+
+ANS:	B	DIF:	Moderate	REF:	5.6	
+OBJ:	Understand why impending eruptions can be predicted, sometimes.
+MSC:	Applying
+
+	41.	If a volcano was actively releasing a large amount of volcanic gas and then abruptly stopped, what might happen to the volcano in the near future?
+a.
+It will become extinct because the magma supply has been rapidly withdrawn.
+b.
+It will erupt effusively because the supply of volcanic gas has dissipated.
+c.
+It will erupt explosively because the volcanic gases have no way to escape slowly.
+d.
+It will erupt effusively because the gases have made the magma less viscous.
+
+
+ANS:	C	DIF:	Difficult	REF:	5.6	
+OBJ:	Understand why impending eruptions can be predicted, sometimes.
+MSC:	Analyzing
+
+	42.	The famous “year without a summer” occurred due to the eruption of ________.
+a.
+Mount St. Helens, Washington
+c.
+Kilauea, Hawaii
+b.
+Mount Tambora, Indonesia
+d.
+Mount Fuji, Japan
+
+
+ANS:	B	DIF:	Easy	REF:	5.7	
+OBJ:	Understand how eruptions may affect climate, evolution, and perhaps the future of civilizations.
+MSC:	Remembering		
+
+	43.	Volcanic eruptions release ________, which can block some sunlight from reaching Earth.
+a.
+ash
+c.
+magma
+b.
+gas
+d.
+ozone
+
+
+ANS:	A	DIF:	Moderate	REF:	5.7	
+OBJ:	Understand how eruptions may affect climate, evolution, and perhaps the future of civilizations.
+MSC:	Remembering		
+
+	44.	Which volcanic eruption nearly wiped humanity off the planet?
+a.
+1991—Mount Pinatubo, Philippines
+c.
+1980—Mount St. Helens, USA
+b.
+75Ka— Toba, Indonesia
+d.
+1815—Mount Tambora, Indonesia
+
+
+ANS:	B	DIF:	Moderate	REF:	5.7	
+OBJ:	Understand how eruptions may affect climate, evolution, and perhaps the future of civilizations.
+MSC:	Remembering		
+
+	45.	How can volcanic eruptions lower the global temperature on Earth?
+a.
+gases block sunlight
+c.
+ash blocks sunlight
+b.
+gases trap heat
+d.
+ash traps heat
+
+
+ANS:	C	DIF:	Easy	REF:	5.7	
+OBJ:	Understand how eruptions may affect climate, evolution, and perhaps the future of civilizations.
+MSC:	Understanding		
+
+	46.	The ash released by explosive volcanic eruptions can also produce ________.
+a.
+infertile land
+c.
+disruption of magnets
+b.
+unusual sunsets
+d.
+mutations in livestock
+
+
+ANS:	B	DIF:	Difficult	REF:	5.7	
+OBJ:	Understand how eruptions may affect climate, evolution, and perhaps the future of civilizations.
+MSC:	Understanding		
+
+	47.	Which of the following volcanic products can decrease global temperatures?
+a.
+sulphur dioxide
+c.
+carbon monoxide
+b.
+mafic magma
+d.
+ash and aerosols
+
+
+ANS:	D	DIF:	Easy	REF:	5.7	
+OBJ:	Understand how eruptions may affect climate, evolution, and perhaps the future of civilizations.
+MSC:	Applying
+
+	48.	According to the graph below, what occurred after the 1991 eruption of Pinatubo in the Philippines? 
+
+a.
+Global temperatures decreased.
+c.
+Global carbon dioxide increased.
+b.
+Global temperatures increased.
+d.
+Global carbon dioxide decreased.
+
+
+ANS:	A	DIF:	Easy	REF:	5.7	
+OBJ:	Understand how eruptions may affect climate, evolution, and perhaps the future of civilizations.
+MSC:	Applying
+
+	49.	A Minoan civilization, postulated to be the fabled “City of Atlantis,” was destroyed by the eruption of ________.
+a.
+Toba, Indonesia
+c.
+Krakatau, Indonesia
+b.
+Santorini, Greece
+d.
+Mount Fuji, Japan
+
+
+ANS:	B	DIF:	Easy	REF:	5.7	
+OBJ:	Understand how eruptions may affect climate, evolution, and perhaps the future of civilizations.
+MSC:	Applying
+
+	50.	Volcanoes have provided some positive benefits to humankind and life in general over geologic time. Which of the following is NOT true about volcanoes?
+a.
+Volcanic eruptions can enrich soils, making land more fertile.
+b.
+Volatiles from volcanoes provided much of our early oceans’ water.
+c.
+Volcanic eruptions have prevented several mass extinctions by cooling Earth’s climate.
+d.
+Gases from volcanic eruptions provided much of the content of the early atmosphere.
+
+
+ANS:	C	DIF:	Moderate	REF:	5.7	
+OBJ:	Understand how eruptions may affect climate, evolution, and perhaps the future of civilizations.
+MSC:	Analyzing
+
+SHORT ANSWER
+
+	1.	Describe how explosive eruptions occur. Make sure to address viscosity, gas content, and the process for building pressure.
+
+ANS:	
+Explosive eruptions occur when high viscosity magma sticks and clogs up the conduit. This causes an increase in gas pressure behind the plug. When the gas pressure is high enough to overcome the friction of the conduit plug, the magma will burst out of the vent violently.
+
+DIF:	Moderate	REF:	5.2	
+OBJ:	Understand that not all eruptions are alike—some yield streams of lava, while others produce catastrophic explosions.		MSC:	Understanding		
+
+	2.	The style of eruption depends on the plate tectonic setting in which the volcano is situated. Compare the different eruption styles you would observe at a divergent versus a convergent plate boundary. Make sure to address composition, viscosity, gas content, and so on in your answer.
+
+ANS:	
+Eruptions at divergent plate boundaries are effusive. They involve quiet lava flows that produce pillow basalts. The magma composition is generally mafic and thus generally has a low viscosity, which allows the lava to flow easily. Convergent plate boundaries tend to be associated with more explosive eruptions (however, effusive are also possible). The magma compositions tend to contain more silica and thus have a higher viscosity. This high viscosity can often cause the thick, sticky magma to clog up the volcanic conduit, trapping gas under the plug. Gas pressure will then begin to build up until the pressure is high enough to cause an explosion.
+
+DIF:	Difficult	REF:	5.4	
+OBJ:	Understand how the type of an eruption reflects the character of lava, which in turn depends on the geologic setting.			MSC:	Analyzing
+
+	3.	List and describe two volcanic hazards, including both a description of the hazard and the possible effects of the hazard.
+
+ANS:	
+Answers will vary extensively. However, some possible answers are below.
+a) Lava flows are effusive eruptions of hot, molten lava that can sometimes flow for very long distances. Lava flows tend to move slow enough to move out of the way of a flow and as such the main hazard associated with lava flows is fire. Structures that cannot be relocated will catch on fire when the lava flow is very near and can often burn to the ground.
+
+b) Pyroclastic falls occur after explosive eruptions when pyroclastic material is blown up into the air and then rains down on the surrounding countryside. As the ash is cooled by the time it reaches the ground the hazards associated with pyroclastic fall include collapsed roofs, buried crops, and damage to machinery with moving parts (including flying airplanes).
+
+c) Pyroclastic flows are massive, incandescent clouds of rolling ash, gas, and other debris that flow down hillsides at very fast speeds. These clouds are instantaneously deadly, as they incinerate whatever is in their paths.
+
+d) Lahars are volcanic mudflows that can occur during an eruption or even years after an eruption. The lahar itself is composed of ash and water (melted glacier, storms, etc.) and has the consistency of wet cement. They move very quickly down valleys and canyons and can bury entire towns in seconds. Lahars are also capable of picking up and carrying away large objects such as entire forests, houses, bridges, and so on.
+
+e) Volcanic gases released from the volcano can pose a significant threat to people and animals nearby. Although water vapor is the most abundant gas released, large quantities of carbon dioxide, sulfur dioxide, hydrochloric acid, and sulfuric acid are also released and can be toxic to those nearby.
+
+DIF:	Easy	REF:	5.5	
+OBJ:	Understand ways in which volcanic eruptions can be dangerous natural hazards.
+MSC:	Understanding		
+
+	4.	Recurrence intervals are often used as estimates of when the next eruption might occur. Explain what a recurrence interval is, how it is calculated, and why it is not the most useful means of forecasting eruptions.
+
+ANS:	
+A recurrence interval is the average time between eruptions. It is calculated by taking the total number of years between the first and last eruption and dividing it by the total number of eruptions. The problem with recurrence intervals calculated for volcanic eruptions is that there are generally only a very small number of eruptions for which we have data and thus the average calculated contains a large amount of error.
+
+DIF:	Difficult	REF:	5.6	
+OBJ:	Understand why impending eruptions can be predicted, sometimes.
+MSC:	Analyzing
+
+	5.	Describe how an explosive volcanic eruption can create a global cooling event.
+
+ANS:	
+Explosive eruptions produce ash that can be pushed far up into the atmosphere. Once in the atmosphere the ash will reflect sunlight that will in turn lower the global temperature.
+
+DIF:	Easy	REF:	5.7	
+OBJ:	Understand how eruptions may affect climate, evolution, and perhaps the future of civilizations.
+MSC:	Understanding		

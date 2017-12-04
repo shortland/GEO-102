@@ -1,0 +1,338 @@
+INTERLUDE F: An Introduction to Landscapes and the Hydrologic Cycle
+
+MULTIPLE CHOICE
+
+1. Which of the following is NOT an example of a landform?
+a. mesa
+c. water
+b. valley
+d. dune
+
+
+ANS:CDIF:EasyREF:F.1
+OBJ:Understand what a landscape is and what questions geologists ask about landscapes.
+MSC:Remembering
+
+2. The difference in elevation in an area is called ________.
+a. erosion
+c. relief
+b. deposition
+d. landform
+
+
+ANS:CDIF:EasyREF:F.2
+OBJ:Understand what a landscape is and what questions geologists ask about landscapes.
+MSC:Remembering
+
+3. Why do scientists believe there was once liquid water on Mars?
+a. Depositional landforms are seen on Mars but not erosional landforms.
+b. Landforms such as river channels and sandbars are seen on Mars.
+c. Large depressions are seen on Mars that were once large lakes.
+d. Evidence of marine life has been found in the rocks on Mars.
+
+
+ANS:BDIF:DifficultREF:Box F.2
+OBJ:Understand what a landscape is and what questions geologists ask about landscapes.
+MSC:Understanding
+
+4. Which of the following mountain ranges is likely composed of soft material?
+
+a. Figure 1
+c. Figure 3
+b. Figure 2
+d. Figure 4
+
+
+ANS:ADIF:ModerateREF:F.3
+OBJ:Understand what a landscape is and what questions geologists ask about landscapes.
+MSC:Applying
+
+5. The following is a picture of a landform on Mars. What feature in this picture indicates that Mars may have had running water sometime in the past?
+
+a. deeply cut channels formed by a flowing river
+b. large sandbars likely formed by a sediment-choked river
+c. depressions formed during collapse of sinkholes
+d. a large flat expanse of land, likely a desert
+
+
+ANS:BDIF:ModerateREF:F.5
+OBJ:Understand what a landscape is and what questions geologists ask about landscapes.
+MSC:Applying
+
+6. Why do some life activities strengthen the substrate while others weaken it?
+a. Burrowing creatures distribute stronger soil around, while plants digest and weaken soil.
+b. Burrowing creatures distribute stronger soil around, while plant roots wedge soil apart.
+c. Plant roots help anchor soil, while burrowing into or mining out soil weakens it.
+d. Some organisms secrete a binding agent in the soil, while plants digest and weaken soil.
+
+
+ANS:CDIF:DifficultREF:F.3
+OBJ:Understand what a landscape is and what questions geologists ask about landscapes.
+MSC:Analyzing
+
+7. Mountain ranges are the result of ________.
+a. relief
+c. subsidence
+b. topography
+d. uplift
+
+
+ANS:DDIF:EasyREF:F.2
+OBJ:Understand the difference between uplift and subsidence and the forces that drive them.
+MSC:Remembering
+
+8. If an area experiences uplift it will form a ________; if it experiences subsidence it will form a ________.
+a. depression; mountain
+c. valley; mesa
+b. mountain; depression
+d. basin; mountain
+
+
+ANS:BDIF:ModerateREF:F.2
+OBJ:Understand the difference between uplift and subsidence and the forces that drive them.
+MSC:Remembering
+
+9. Uplift and subsidence are both ultimately the result of ________.
+a. gravitational resistance
+c. external energy
+b. convectional heating
+d. plate tectonics
+
+
+ANS:DDIF:EasyREF:F.2
+OBJ:Understand the difference between uplift and subsidence and the forces that drive them.
+MSC:Understanding
+
+10. What process created the terrace that forms the cliff in the picture below?
+
+a. subsidence
+c. uplift
+b. deposition
+d. relief
+
+
+ANS:CDIF:EasyREF:F.2
+OBJ:Understand the difference between uplift and subsidence and the forces that drive them.
+MSC:Applying
+
+11. Which of the following landforms would be the result of subsidence?
+a. mountain range
+c. desert buttes
+b. wave-cut terrace
+d. fore-arc basin
+
+
+ANS:DDIF:EasyREF:F.2
+OBJ:Understand the difference between uplift and subsidence and the forces that drive them.
+MSC:Applying
+
+12. ________ energy drives plate motion.
+a. External
+c. Gravitational
+b. Internal
+d. Radiative
+
+
+ANS:BDIF:ModerateREF:F.2
+OBJ:Understand the contrasts between internal and external energy in the Earth System.
+MSC:Remembering
+
+13. Currents and wind are created by the interaction of ________ and ________ energy.
+a. internal; external
+c. gravitational; external
+b. internal; gravitational
+d. convective; gravitational
+
+
+ANS:CDIF:ModerateREF:F.2
+OBJ:Understand the contrasts between internal and external energy in the Earth System.
+MSC:Remembering
+
+14. ________ energy is the cause of uplift of mountain ranges.
+a. Internal
+c. Conductive
+b. External
+d. Gravitational
+
+
+ANS:ADIF:ModerateREF:F.2
+OBJ:Understand the contrasts between internal and external energy in the Earth System.
+MSC:Understanding
+
+15. Which energy sources are responsible for the destruction in the image below?
+
+a. internal and external
+c. gravitational and external
+b. gravitational and internal
+d. convective and internal
+
+
+ANS:CDIF:DifficultREF:F.2
+OBJ:Understand the contrasts between internal and external energy in the Earth System.
+MSC:Applying
+
+16. Landforms built by an accumulation of sediment are called ________ landforms.
+a. erosional
+c. mechanical
+b. depositional
+d. eradication
+
+
+ANS:BDIF:EasyREF:F.3
+OBJ:Understand how erosional and depositional landscapes differ.
+MSC:Remembering
+
+17. If erosion is occurring in an area of weak rock, what would you expect the landscape to look like?
+a. gentle hills
+c. uplifted terraces
+b. steep cliffs
+d. vertical canyons
+
+
+ANS:ADIF:EasyREF:F.2
+OBJ:Understand how erosional and depositional landscapes differ.
+MSC:Understanding
+
+18. Which of the following is NOT an agent of erosion?
+a. air
+c. precipitation
+b. water
+d. ice
+
+
+ANS:CDIF:ModerateREF:F.3
+OBJ:Understand how erosional and depositional landscapes differ.
+MSC:Understanding
+
+19. What circumstance is likely to produce depositional landforms?
+a. flash flooding of a river in the desert
+c. a river entering a large body of water
+b. a river flowing out of a lake
+d. ocean waves crashing on the beach
+
+
+ANS:CDIF:DifficultREF:F.3
+OBJ:Understand how erosional and depositional landscapes differ.
+MSC:Understanding
+
+20. Which of the following landscapes is dominated by erosion?
+a. glacial valley
+c. carbonate shelf
+b. river delta
+d. abyssal plain
+
+
+ANS:ADIF:EasyREF:F.3
+OBJ:Understand how erosional and depositional landscapes differ.
+MSC:Applying
+
+21. What would an area experiencing erosion look like compared to one experiencing deposition?
+a. deep valleys or canyons versus large flat, open areas
+b. large sand dunes versus large open bodies of water
+c. rolling hills versus steep peaks
+d. large, dry flatlands versus deep river channels
+
+
+ANS:ADIF:ModerateREF:F.3
+OBJ:Understand how erosional and depositional landscapes differ.
+MSC:Analyzing
+
+22. Which of the following best describes the hydrologic cycle?
+a. the movement of water through the ground to form aquifers
+b. the cycle that water passes through when going from solid to liquid to gas
+c. the circular motion due to density differences created when water boils
+d. the movement of Earth’s water through a series of reservoirs
+
+
+ANS:DDIF:ModerateREF:F.4
+OBJ:Understand the reservoirs and exchange processes of the hydrologic cycle.
+MSC:Remembering
+
+23. How does water get from the atmosphere into the groundwater system?
+a. Precipitation falls into rivers and then flows downriver into the groundwater system.
+b. Precipitation falls on the ground and infiltrates the ground surface to the groundwater system.
+c. Water from the ocean is sucked up into the groundwater system due to a pressure difference.
+d. Plants secrete water into the groundwater system in a process called evapotranspiration.
+
+
+ANS:BDIF:EasyREF:F.4
+OBJ:Understand the reservoirs and exchange processes of the hydrologic cycle.
+MSC:Understanding
+
+24. Which progression best describes how water goes from the ocean to a river?
+a. evaporation → precipitation → infiltration into the ground
+b. evaporation → precipitation → runoff
+c. evaporation → precipitation → evapotranspiration
+d. evapotranspiration → runoff → precipitation
+
+
+ANS:BDIF:ModerateREF:F.4
+OBJ:Understand the reservoirs and exchange processes of the hydrologic cycle.
+MSC:Applying
+
+25. Why is understanding the hydrologic cycle so important to understanding how landscapes form?
+a. because water has the ability to seep underground and affect the layers of rock
+b. because the oceans cover a vast majority of our planet and are a main erosional agent
+c. because the rate at which groundwater moves through the subsurface determines erosion rates
+d. because water is the main erosional and depositional agent on Earth
+
+
+ANS:DDIF:DifficultREF:F.4
+OBJ:Understand the reservoirs and exchange processes of the hydrologic cycle.
+MSC:Analyzing
+
+SHORT ANSWER
+
+1. What is a landform and how is it linked to the landscape?
+
+ANS:
+A landform is an individual feature such as a mountain, valley, and so on. Landscapes are the shape of the land surface and thus are composed of landforms.
+
+DIF:ModerateREF:F.1
+OBJ:Understand what a landscape is and what questions geologists ask about landscapes.
+MSC:Understanding
+
+2. Describe the process that drives the uplift of mountain ranges.
+
+ANS:
+Mountain ranges are uplifted by the convergence of two plates, which is ultimately the result of internal energy within the Earth.
+
+DIF:ModerateREF:F.2
+OBJ:Understand the difference between uplift and subsidence and the forces that drive them.
+MSC:Understanding
+
+3. What type(s) of energy control(s) erosion? Explain your answer.
+
+ANS:
+Erosion is controlled by external and gravitational energy. The external energy controls the climate and weather in an area and gravitational energy controls the mass movement of materials down slopes.
+
+DIF:ModerateREF:F.2
+OBJ:Understand the contrasts between internal and external energy in the Earth System.
+MSC:Understanding
+
+4. The image below shows the Valles Marineris on Mars. Is this landform depositional or erosional? Explain your answer.
+
+
+ANS:
+The Valles Marineris is a deep canyon that was the result of erosional processes. The students’ explanations will vary but should discuss that canyons are the result of running water removing material and thus are erosional in nature.
+
+DIF:EasyREF:F.5
+OBJ:Understand how erosional and depositional landscapes differ.
+MSC:Applying
+
+5. Starting with a drop of water in the ocean, describe a full cycle of movement of the water drop through the hydrologic cycle (the water must end up back in the ocean). Through what reservoirs does that water move? What physical forms does the water take (e.g., liquid, solid, gas)?
+
+ANS:
+Answers will vary but may include: 
+
+Liquid water begins in the ocean, is evaporated to become gas in the atmosphere, moves over a mountain range and condenses to liquid water, falls as rain on the mountains, and drains down a river and out into the ocean.
+
+Liquid water begins in the ocean, is evaporated to become gas in the atmosphere, moves over a mountain range, and condenses to liquid water. The water cools to form solid snowflakes and falls in the mountains; the snow melts in the spring and flows down rivers to the ocean.
+
+Liquid water begins in the ocean, is evaporated to become gas in the atmosphere, moves over a mountain range and condenses to liquid water, falls as rain on the mountains, infiltrates into the groundwater system, and flows back out into the ocean.
+
+Liquid water begins in the ocean, is evaporated to become gas in the atmosphere, and falls as rain back into the ocean.
+
+DIF:ModerateREF:F.4
+OBJ:Understand the reservoirs and exchange processes of the hydrologic cycle.
+MSC:Analyzing

@@ -1,0 +1,793 @@
+CHAPTER 12: Riches in Rock: Energy and Mineral Resources
+
+MULTIPLE CHOICE
+
+	1.	Chemically, oil and gas are both ________.
+a.
+pure forms of carbon
+c.
+hydrocarbons
+b.
+carbohydrates
+d.
+carbonate minerals
+
+
+ANS:	C	DIF:	Easy	REF:	12.3	
+OBJ:	Understand what oil and gas are, how they form, where they come from, and how they are obtained.	MSC:	Remembering		
+
+	2.	A buried body of rock that is induced by heat to exude oil is termed a ________ rock.
+a.
+reservoir
+c.
+source
+b.
+seal
+d.
+trap
+
+
+ANS:	C	DIF:	Easy	REF:	12.3	
+OBJ:	Understand what oil and gas are, how they form, where they come from, and how they are obtained.	MSC:	Remembering		
+
+	3.	In the subsurface, nonbiogenic natural gas ________.
+a.
+consists of longer carbon chains as compared to oil
+b.
+is denser than oil and thus will float
+c.
+is generated at higher temperatures than oil
+d.
+is generated at higher temperatures than graphite
+
+
+ANS:	C	DIF:	Moderate	REF:	12.3	
+OBJ:	Understand what oil and gas are, how they form, where they come from, and how they are obtained.	MSC:	Understanding		
+
+	4.	Which organic substance is produced by black organic shale at temperatures below (cooler than) the oil window?
+a.
+natural gas
+c.
+kerogen
+b.
+coal
+d.
+keratin
+
+
+ANS:	C	DIF:	Easy	REF:	12.3	
+OBJ:	Understand what oil and gas are, how they form, where they come from, and how they are obtained.	MSC:	Understanding		
+
+	5.	If oil shale is buried deep enough to attain a temperature of 200°C, what is formed?
+a.
+gas
+c.
+graphite
+b.
+oil
+d.
+kerogen
+
+
+ANS:	A	DIF:	Easy	REF:	12.3	
+OBJ:	Understand what oil and gas are, how they form, where they come from, and how they are obtained.	MSC:	Applying
+
+	6.	If the average geothermal gradient in an area is 15°C/km, how deep must oil shale be buried in order for it to transform into oil?
+a.
+greater than 10 km but no more than 15 km
+b.
+greater than 3 km but no more than 6 km
+c.
+greater than 6 km but no more than 15 km
+d.
+greater than 6 km but no more than 10 km
+
+
+ANS:	D	DIF:	Difficult	REF:	12.3	
+OBJ:	Understand what oil and gas are, how they form, where they come from, and how they are obtained.	MSC:	Applying
+
+	7.	Why are source rocks always sedimentary?
+a.
+Sedimentary rocks are the only rocks that contain fossils.
+b.
+Sedimentary rocks are most abundant at the surface.
+c.
+Sedimentary rocks contain pores for plankton to live in.
+d.
+Sedimentary rocks are the only rocks formed in the ocean.
+
+
+ANS:	A	DIF:	Moderate	REF:	12.3	
+OBJ:	Understand what oil and gas are, how they form, where they come from, and how they are obtained.	MSC:	Analyzing
+
+	8.	________ create(s) an easy route for oil to follow from the rock to a well.
+a.
+Hydrofracturing
+c.
+Drilling mud
+b.
+Seismic reflection
+d.
+Pumps
+
+
+ANS:	A	DIF:	Easy	REF:	12.5	
+OBJ:	Understand the difference between conventional and unconventional fossil fuel resources.
+MSC:	Remembering		
+
+	9.	A reservoir rock contains ________ porosity and permeability, while a seal rock contains ________ porosity and permeability.
+a.
+higher; lower
+c.
+no; high
+b.
+lower; higher
+d.
+no; low
+
+
+ANS:	A	DIF:	Moderate	REF:	12.4	
+OBJ:	Understand the difference between conventional and unconventional fossil fuel resources.
+MSC:	Remembering		
+
+	10.	________ is/are an example of conventional hydrocarbon sources.
+a.
+Shale gas
+c.
+Oil shale
+b.
+Tar sands
+d.
+Crude oil
+
+
+ANS:	D	DIF:	Easy	REF:	12.4 | 12.5	
+OBJ:	Understand the difference between conventional and unconventional fossil fuel resources.
+MSC:	Understanding		
+
+	11.	Which of the following would make the best reservoir rock in a conventional hydrocarbon system?
+
+a.
+high-porosity, high-permeability rock
+b.
+low-porosity, low-permeability rock
+c.
+high-porosity, low-permeability rock
+d.
+low-porosity, high-permeability rock
+
+
+ANS:	A	DIF:	Easy	REF:	12.4	
+OBJ:	Understand the difference between conventional and unconventional fossil fuel resources.
+MSC:	Understanding		
+
+	12.	A black, organic-rich shale could likely serve as either of which two necessary types of rocks within oil fields?
+a.
+source rock or seal rock
+c.
+source rock or reservoir rock
+b.
+reservoir rock or seal rock
+d.
+reservoir rock but not source rock
+
+
+ANS:	A	DIF:	Moderate	REF:	12.4	
+OBJ:	Understand the difference between conventional and unconventional fossil fuel resources.
+MSC:	Applying
+
+	13.	Shale, salt, and fine-grained limestone are all good candidates to serve as ________ within an oil field.
+a.
+a reservoir rock
+b.
+a seal rock
+c.
+a source rock
+d.
+either a source rock or a reservoir rock
+
+
+ANS:	B	DIF:	Moderate	REF:	12.4	
+OBJ:	Understand the difference between conventional and unconventional fossil fuel resources.
+MSC:	Applying
+
+	14.	Which of the following would make the best reservoir rock in a conventional hydrocarbon system?
+a.
+poorly cemented shale
+c.
+poorly cemented sandstone
+b.
+hydrofractured shale
+d.
+well-cemented sandstone
+
+
+ANS:	C	DIF:	Moderate	REF:	12.4	
+OBJ:	Understand the difference between conventional and unconventional fossil fuel resources.
+MSC:	Analyzing
+
+	15.	Coal is formed when heat and pressure alter deposits of ancient ________.
+a.
+kerogen
+c.
+terrestrial plants
+b.
+plankton
+d.
+tar
+
+
+ANS:	C	DIF:	Moderate	REF:	12.6	
+OBJ:	Understand how coal forms and is classified, obtained, and used.	
+MSC:	Remembering		
+
+	16.	A large portion of the coal reserves in the world formed during the ________ period.
+a.
+Jurassic
+c.
+Carboniferous
+b.
+Silurian
+d.
+Permian
+
+
+ANS:	C	DIF:	Moderate	REF:	12.6	
+OBJ:	Understand how coal forms and is classified, obtained, and used.	
+MSC:	Remembering		
+
+	17.	Which sequence shows an increase in coal rank from lowest to highest?
+a.
+anthracite, bituminous, lignite
+c.
+bituminous, lignite, anthracite
+b.
+lignite, bituminous, anthracite
+d.
+bituminous, anthracite, lignite
+
+
+ANS:	B	DIF:	Easy	REF:	12.6	
+OBJ:	Understand how coal forms and is classified, obtained, and used.	
+MSC:	Understanding		
+
+	18.	The classification of coal is based on the concentration of carbon in the rock. Which of the following chain of processes causes the concentration of carbon to increase?
+a.
+burial ◊ decay of plant matter ◊ release of organic molecules ◊ concentration of carbon
+b.
+burial ◊ chemical reactions ◊ release of gases ◊ concentration of carbon
+c.
+decay of plant matter ◊ burial ◊ release of gases ◊ concentration of carbon
+d.
+chemical reactions ◊ burial ◊ release of gases ◊ concentration of carbon
+
+
+ANS:	B	DIF:	Difficult	REF:	12.6	
+OBJ:	Understand how coal forms and is classified, obtained, and used.	
+MSC:	Understanding		
+
+	19.	At which geologic setting are you most likely to find anthracite coal forming?
+a.
+bottom of sedimentary basins
+c.
+margins of igneous plutons
+b.
+edges of mountain ranges
+d.
+bottom of swampy areas
+
+
+ANS:	B	DIF:	Easy	REF:	12.6	
+OBJ:	Understand how coal forms and is classified, obtained, and used.	
+MSC:	Applying
+
+	20.	You are a landowner looking to develop a coal mine on your property. You determine that a surface mine is the best option, as the coal seam you are targeting is close to the surface. The cost to start the mine is $20 million and the annual cost to operate is $16 million. You estimate that you can remove 450,000 tons of coal a year and sell the coal for $38.50 per ton. How long will it take before you pay off your investment and start to make a profit?
+a.
+15 months
+c.
+1.15 years
+b.
+15 years
+d.
+115 months
+
+
+ANS:	B	DIF:	Difficult	REF:	12.6	
+OBJ:	Understand how coal forms and is classified, obtained, and used.	
+MSC:	Applying
+
+	21.	Fission occurs when nuclear bonds of atoms are broken, releasing massive amounts of ________.
+a.
+protons
+c.
+energy
+b.
+anions
+d.
+electrons
+
+
+ANS:	C	DIF:	Moderate	REF:	12.7	
+OBJ:	Understand where nuclear fuel comes from, and how nuclear power plants operate.
+MSC:	Remembering		
+
+	22.	If nuclear reactors are NOT regulated by the use of control rods that absorb ________ and thus decrease the amount of atoms undergoing ________, the system may become too hot and melt down.
+a.
+radiation; decay
+c.
+neutrons; fission
+b.
+radiation; fusion
+d.
+neutrons; fusion
+
+
+ANS:	C	DIF:	Moderate	REF:	12.7	
+OBJ:	Understand where nuclear fuel comes from, and how nuclear power plants operate.
+MSC:	Remembering		
+
+	23.	________ occurs when a neutron strikes a radioactive atom.
+a.
+Fusion
+c.
+Enrichment
+b.
+Fission
+d.
+Atomic splicing
+
+
+ANS:	B	DIF:	Easy	REF:	12.7	
+OBJ:	Understand where nuclear fuel comes from, and how nuclear power plants operate.
+MSC:	Understanding		
+
+	24.	U-235, the isotope of uranium commonly utilized in nuclear power plants, is ________.
+a.
+the most common of the naturally occurring isotopes of uranium
+b.
+heavier than the other well-known isotope of uranium
+c.
+rare even in uranium-rich deposits and must be enriched to use as fuel
+d.
+only found in quartz veins in granite plutons
+
+
+ANS:	C	DIF:	Difficult	REF:	12.7	
+OBJ:	Understand where nuclear fuel comes from, and how nuclear power plants operate.
+MSC:	Understanding		
+
+	25.	Nuclear fission produces a large yield of energy; however, this energy is not in the form of electricity. What form of energy is produced by fission?
+a.
+mechanical
+c.
+chemical
+b.
+thermal
+d.
+gravitational
+
+
+ANS:	B	DIF:	Easy	REF:	12.7	
+OBJ:	Understand where nuclear fuel comes from, and how nuclear power plants operate.
+MSC:	Applying
+
+	26.	The principal concern with storing nuclear waste is ________.
+a.
+allowing sufficient time for short-lived radioactive atoms to decay
+b.
+ensuring access to groundwater to keep the waste cool
+c.
+keeping spent fuel rods separated from other waste
+d.
+making biodegradable waste containers
+
+
+ANS:	A	DIF:	Difficult	REF:	12.7	
+OBJ:	Understand where nuclear fuel comes from, and how nuclear power plants operate.
+MSC:	Analyzing
+
+	27.	________ power uses flowing water to produce energy.
+a.
+Wind
+c.
+Hydroelectric
+b.
+Geothermal
+d.
+Nuclear
+
+
+ANS:	C	DIF:	Moderate	REF:	12.8	
+OBJ:	Understand the nature of alternative energy sources, including hydrothermal, geothermal, and wind.	MSC:	Remembering
+
+	28.	Geothermal energy is used extensively in Iceland and New Zealand due to the fact that both of these countries host multiple ________.
+a.
+rivers
+c.
+volcanoes
+b.
+mountains
+d.
+coastlines
+
+
+ANS:	C	DIF:	Moderate	REF:	12.8	
+OBJ:	Understand the nature of alternative energy sources, including hydrothermal, geothermal, and wind.	MSC:	Remembering
+
+	29.	Solar energy uses sunlight to induce a flow of ________ between two wafers.
+a.
+water
+c.
+light
+b.
+oxygen
+d.
+electrons
+
+
+ANS:	D	DIF:	Easy	REF:	12.8	
+OBJ:	Understand the nature of alternative energy sources, including hydrothermal, geothermal, and wind.	MSC:	Understanding
+
+	30.	The primary challenge of hydrogen fuel cells is ________.
+a.
+that hydrogen is in very limited supply
+b.
+that they generate excessive pollution
+c.
+designing them to store explosive gas in a safe way
+d.
+that they are inefficient
+
+
+ANS:	C	DIF:	Moderate	REF:	12.8	
+OBJ:	Understand the nature of alternative energy sources, including hydrothermal, geothermal, and wind.	MSC:	Understanding
+
+	31.	The image below is of the San Onofre Nuclear Generating Station in Southern California, which was shut down in 2012 due to safety concerns. Which of the following alternative energy resources could be used in this environment to replace the energy generated by the nuclear power plant?
+
+a.
+geothermal
+c.
+biomass
+b.
+hydroelectric
+d.
+fuel cells
+
+
+ANS:	B	DIF:	Difficult	REF:	12.8	
+OBJ:	Understand the nature of alternative energy sources, including hydrothermal, geothermal, and wind.	MSC:	Applying
+
+	32.	________ energy is NOT as useful in the Pacific Northwest as it would be in Texas.
+a.
+Wind
+c.
+Nuclear
+b.
+Solar
+d.
+Geothermal
+
+
+ANS:	B	DIF:	Difficult	REF:	12.8	
+OBJ:	Understand the nature of alternative energy sources, including hydrothermal, geothermal, and wind.	MSC:	Analyzing
+
+	33.	A mineral that consists of only metal atoms is known as a(n) ________ metal.
+a.
+native
+c.
+industrial
+b.
+ore
+d.
+rare earth
+
+
+ANS:	A	DIF:	Easy	REF:	12.1	
+OBJ:	Understand what an ore deposit is, where ores form, and how metals can be extracted from ores
+MSC:	Remembering		
+
+	34.	The ability of a metal to be bent, molded, and stretched is termed ________.
+a.
+tempering
+c.
+malleability
+b.
+cold working
+d.
+dexterity
+
+
+ANS:	C	DIF:	Easy	REF:	12.1	
+OBJ:	Understand what an ore deposit is, where ores form, and how metals can be extracted from ores
+MSC:	Remembering		
+
+	35.	The high electrical conductivity associated with metallic bonds is found in ________.
+a.
+all minerals
+c.
+native metals
+b.
+metal alloys only
+d.
+magnetic minerals only
+
+
+ANS:	C	DIF:	Moderate	REF:	12.1	
+OBJ:	Understand what an ore deposit is, where ores form, and how metals can be extracted from ores
+MSC:	Understanding		
+
+	36.	Consult the figure below. In what kind of terrain would you expect to find a placer deposit?
+
+a.
+a dry lake bed
+c.
+the ocean floor
+b.
+a mountain peak
+d.
+a streambed
+
+
+ANS:	D	DIF:	Easy	REF:	12.1	
+OBJ:	Understand what an ore deposit is, where ores form, and how metals can be extracted from ores
+MSC:	Applying
+
+	37.	The stereotypical gold rush prospector panning for gold in a streambed is an example of exploiting ________ deposits.
+a.
+magmatic
+c.
+residual mineral
+b.
+placer
+d.
+sedimentary
+
+
+ANS:	B	DIF:	Easy	REF:	12.1	
+OBJ:	Understand what an ore deposit is, where ores form, and how metals can be extracted from ores
+MSC:	Applying
+
+	38.	In what types of rocks are ore minerals found?
+a.
+only in igneous rocks
+b.
+only in igneous and sedimentary rocks
+c.
+only in igneous and metamorphic rocks
+d.
+in igneous, sedimentary, and metamorphic rocks
+
+
+ANS:	D	DIF:	Difficult	REF:	12.1	
+OBJ:	Understand what an ore deposit is, where ores form, and how metals can be extracted from ores
+MSC:	Analyzing
+
+	39.	The blocks of rock used in construction are termed ________.
+a.
+dimension stone
+c.
+ore
+b.
+gemstone
+d.
+lodestone
+
+
+ANS:	A	DIF:	Easy	REF:	12.11	
+OBJ:	Understand where nonmetallic resources (stone, gravel, salts) occur, and how they are used.
+MSC:	Remembering		
+
+	40.	________ is a nonmetal mineral formed by evaporation and used to make drywall.
+a.
+Sulfur
+c.
+Zinc
+b.
+Gypsum
+d.
+Marble
+
+
+ANS:	B	DIF:	Easy	REF:	12.11	
+OBJ:	Understand where nonmetallic resources (stone, gravel, salts) occur, and how they are used.
+MSC:	Remembering		
+
+	41.	Which of the following nonmetallic resources has an igneous origin?
+a.
+salt
+c.
+limestone
+b.
+granite
+d.
+gypsum
+
+
+ANS:	B	DIF:	Moderate	REF:	12.11	
+OBJ:	Understand where nonmetallic resources (stone, gravel, salts) occur, and how they are used.
+MSC:	Understanding		
+
+	42.	Stone used for buildings, chemicals in fertilizers, and sand used to make glass are all examples of mineral resources known as ________.
+a.
+tailings
+c.
+clinker
+b.
+industrial minerals
+d.
+slag
+
+
+ANS:	B	DIF:	Difficult	REF:	12.11	
+OBJ:	Understand where nonmetallic resources (stone, gravel, salts) occur, and how they are used.
+MSC:	Understanding		
+
+	43.	The image below is of a limestone quarry in Illinois. On the wall at the very back of the quarry you can see layers that appear to curve upward. What do these layers represent?
+
+a.
+lines made by the miners as they remove material
+b.
+cross-bedding produced at eolian sand dunes
+c.
+layers of deep marine, sedimentary basin deposits
+d.
+layers of shallow marine, continental shelf deposits
+
+
+ANS:	D	DIF:	Difficult	REF:	12.11	
+OBJ:	Understand where nonmetallic resources (stone, gravel, salts) occur, and how they are used.
+MSC:	Applying
+
+	44.	Limestone is often used as diminution stone and as crushed stone. If you are working as a geologist for a mining company that wishes to establish a new limestone quarry, for what type of ancient depositional systems will you look?
+a.
+deep marine
+c.
+shallow marine
+b.
+coastal estuaries
+d.
+desert playa lakes
+
+
+ANS:	C	DIF:	Moderate	REF:	12.11	
+OBJ:	Understand where nonmetallic resources (stone, gravel, salts) occur, and how they are used.
+MSC:	Applying
+
+	45.	Most energy for human consumption in the industrial world comes from ________.
+a.
+fossil fuels
+c.
+nuclear power
+b.
+wind
+d.
+water
+
+
+ANS:	A	DIF:	Easy	REF:	12.2	
+OBJ:	Understand the challenges that society faces as to the sustainability of energy sources in the future.	MSC:	Remembering
+
+	46.	In 1900, the most commonly used source of energy in the United States was ________.
+
+a.
+coal
+c.
+natural gas
+b.
+oil
+d.
+hydrothermal
+
+
+ANS:	A	DIF:	Moderate	REF:	12.2	
+OBJ:	Understand the challenges that society faces as to the sustainability of energy sources in the future.	MSC:	Understanding
+
+	47.	A resource is considered renewable if ________.
+a.
+it is used at rates greater than it is naturally replaced
+b.
+nature can replace it within a short time span relative to human life
+c.
+nature can replace it within hundreds or thousands of years
+d.
+nature can replace it within a million years
+
+
+ANS:	B	DIF:	Easy	REF:	12.9	
+OBJ:	Understand the challenges that society faces as to the sustainability of energy sources in the future.	MSC:	Understanding
+
+	48.	Which of the following lists contains only fossil fuels?
+a.
+coal, oil, natural gas
+c.
+nuclear, wood, natural gas
+b.
+coal, geothermal, wind
+d.
+hydroelectric, geothermal, wind
+
+
+ANS:	A	DIF:	Moderate	REF:	12.9	
+OBJ:	Understand the challenges that society faces as to the sustainability of energy sources in the future.	MSC:	Applying
+
+	49.	Which of these is true about mineral resources?
+a.
+They are renewable because they are naturally formed.
+b.
+They are renewable because we use them at slower rates than they are formed.
+c.
+They are nonrenewable because they are formed at slower rates than we use them.
+d.
+They are nonrenewable because they are no longer formed.
+
+
+ANS:	C	DIF:	Moderate	REF:	12.12	
+OBJ:	Understand the challenges that society faces as to the sustainability of energy sources in the future.	MSC:	Applying
+
+	50.	Nonrenewable resources are used much more prevalently today despite knowing that they pollute and will run out in the future. Why then are we NOT using more renewable resources?
+a.
+Nonrenewables are not cost-effective to use.
+b.
+Nonrenewables are complicated to use.
+c.
+Nonrenewable use depends on location.
+d.
+Nonrenewables have their own drawbacks.
+
+
+ANS:	A	DIF:	Moderate	REF:	12.9	
+OBJ:	Understand the challenges that society faces as to the sustainability of energy sources in the future.	MSC:	Analyzing
+
+SHORT ANSWER
+
+	1.	Coal gasification has sometimes been referred to as “clean coal.” Explain why coal gasification is not as “clean” as its name might suggest.
+
+ANS:	
+Coal gasification does not produce nearly as much CO2 as the straight burning of coal; however, the by-products are still toxic and often must be handled as hazardous waste. Some by-products may be reused to produce other products (such as cleaning chemicals), but they are still considered hazardous to humans.
+
+DIF:	Moderate	REF:	12.6	
+OBJ:	Understand how coal forms and is classified, obtained, and used.	
+MSC:	Understanding		
+
+	2.	Describe how oil is formed. Make sure to address what organisms must accumulate, in what environment they must be deposited, and how the oil window effects the formation.
+
+ANS:	
+Oil is formed when microscopic plankton die and accumulate in an anoxic environment on the ocean floor. As more and more layers of sediment are deposited on top of the plankton-rich layer, the temperature increases and chemical reactions begin to turn the organic material into kerogen. If the kerogen-rich layer is heated to between 90° and 150°C, the kerogen will break down into oil and gas molecules.
+
+DIF:	Moderate	REF:	12.3	
+OBJ:	Understand what oil and gas are, how they form, where they come from, and how they are obtained.	MSC:	Understanding		
+
+	3.	Gold is often found at the bottom of streambeds in placer deposits. Describe the process that forms these deposits.
+
+ANS:	
+As gold-bearing deposits weather away the sediment, composed of sand and gold flakes or nuggets, the gold-bearing sediment is transported to the stream that carries the lighter minerals away and leaves the heavier gold behind. After time a deposit of gold will form in the bed of the stream that can then be buried or become part of the rock record or be panned out by gold prospectors.
+
+DIF:	Easy	REF:	12.1	
+OBJ:	Understand what an ore deposit is, where ores form, and how metals can be extracted from ores
+MSC:	Understanding		
+
+	4.	What are two renewable energy resources that could be used in your city/state? List both and describe A) how the energy is formed, B) the best geographic location for the energy source, and C) what the drawbacks of each energy source are.
+
+ANS:	
+Depends entirely upon location used; however, some examples are given here. 
+
+Solar energy uses sunlight to produce energy either by heating or by inducing the flow of electrons between wafers in a solar panel. Solar energy works best in areas that receive plenty of sunlight year-round; however, if sunlight is too diffuse (in areas that are very rainy, for instance), then solar may not be as useful. In addition, it is not yet feasible to store large amounts of solar energy for use during dark periods, such as at night, and therefore solar needs to be supplemented with additional energy sources.
+
+Wind energy uses the wind to turn large propellers that then rotate the turbine to generate electricity. Wind energy is best used in large flat expanses that receive large amounts of wind (including areas offshore). Wind, like solar, only generates power when the wind is blowing; on calm days there is no electricity produced. Also, wind fields cover large expanses of land and can be an eyesore for some. Wind turbines have been known to be noisy, though the newer models combat this issue well. 
+Wind turbines can also kill birds and bats, though how much of an impact this is having on 
+the animal populations is still unknown and currently being studied by the United States Geological Survey (USGS).
+
+Geothermal energy uses Earth’s internal heat to produce steam that in turn runs turbines that generate electricity. Geothermal power can only be used in areas where there is a high amount of heat flow from the Earth, such as near magma sources. There are several places within the United States that have the capacity to utilize geothermal energy, many of which are on the West Coast and in Alaska. The main downside to this energy source is that it is only available in a few areas around the world.
+
+Hydroelectric power uses the potential energy in flowing water to spin turbines that generate electricity. This type of energy production must be near a source of flowing water such as a river or the ocean. Downsides are that dams can alter the ecosystem of a river significantly by flooding habitats and blocking the flow of sediment down the river. Dams can also significantly change the amount of water flowing down a river, thus impacting the areas downstream. Tidal dams use the change from high tide, which fills the area behind the dam, to low tide, which allows the water to escape via an outlet fitted with a turbine. Tidal dams have come up against issues due to their potential impact on tourism and possible impact on marine wildlife and coastal ecosystems.
+
+DIF:	Difficult	REF:	12.8	
+OBJ:	Understand the nature of alternative energy sources, including hydrothermal, geothermal, and wind.	MSC:	Applying
+
+	5.	Despite the fact that nonrenewable energy resources will eventually run out and that many tend to be large sources of pollution, why are they still used so prevalently in our society?
+
+ANS:	
+Fossil fuels are still used in abundance because they are cheap and our society is already set up to use them; thus, they are also easy. Nuclear power is expensive and dangerous; however, it yields a massive amount of energy that goes a long way toward feeding our societies’ thirst for energy.
+
+DIF:	Moderate	REF:	12.9	
+OBJ:	Understand the challenges that society faces as to the sustainability of energy sources in the future.	MSC:	Analyzing

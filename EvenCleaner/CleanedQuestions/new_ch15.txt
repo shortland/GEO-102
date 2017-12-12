@@ -1,0 +1,382 @@
+FIXED
+
+
+1. The shallowest portions of an ocean found along the margins of continents are the ________.
+a. abyssal plains
+b. continental rises
+c. continental shelves
+d. continental slopes
+ANS: C
+
+2. The form and topography (depth profile) of the ocean floor is termed ________.
+a. orogeny
+b. bathymetry
+c. allocthony
+d. aquitopography
+ANS: B
+
+3. Compared with the continental lithosphere, the oceanic lithosphere is ________.
+a. thicker
+b. thinner
+c. approximately the same thickness
+d. exactly five times thinner
+ANS: B
+
+4. Compared with the continental crust, the oceanic crust is ________.
+a. denser
+b. less dense
+c. about the same density
+d. about half as dense
+ANS: A
+
+5. The deepest segments of the ocean floor are found ________.
+a. along mid-ocean ridges
+b. in the geographic centers of abyssal plains
+c. in trenches associated with passive margins
+d. in trenches associated with subduction zones
+ANS: D
+
+6. Using the figure below, which of the following lists correctly identifies the various seafloor landforms?
+a. A = continental shelf, B = abyssal plain, C = mid-ocean ridge, D = trench
+b. A = abyssal plain, B = continental shelf, C = mid-ocean ridge, D = trench
+c. A = continental slope, B = mid-ocean ridge, C = trench, D = volcanic arc
+d. A = continental shelf, B = abyssal plain, C = trench, D = mid-ocean ridge
+ANS: A
+
+7. You are running a sonar survey to map the bathymetry of an ocean basin. Using the following continuous sonar data giving the depth of the seafloor, what feature have you just discovered?
+a. an abyssal plain
+b. a deep trench
+c. a mid-ocean ridge
+d. a continental shelf
+ANS: C
+
+8. What type of material would you expect to find on the continental slope?
+a. basalt and plankton shells
+b. carbonate-rich sediments and shells
+c. silicic-rich gravels and plant remains
+d. metamorphosed oceanic crust
+ANS: B
+
+9. Mid-ocean ridges (MORs), which are the sites of new oceanic crust formation, are linear mountain chains that run along divergent plate boundaries. Why does a MOR sit up higher than the surrounding oceanic crust?
+a. Hot materials are less dense and shrink; thus, the new crust will sit higher than the surrounding crust.
+b. As the hot magma exits the MOR, it shoots up higher than the surrounding crust.
+c. Hot materials are less dense and expand; thus, the new crust will sit higher than the surrounding crust.
+d. Hot, geothermal waters cause the new crust to expand and sit higher than the surrounding crust.
+ANS: C
+
+10. The density of seawater increases with ________ temperature and ________ salinity.
+a. increasing; increasing
+b. decreasing; increasing
+c. increasing; decreasing
+d. decreasing; decreasing
+ANS: B
+
+11. Major oceanic surface currents travel ________.
+a. parallel to the prevailing wind direction in a region
+b. in direct opposition to prevailing winds as a result of the Coriolis effect
+c. at an angle to prevailing winds as a result of the Coriolis effect
+d. at an angle to prevailing winds as a result of the Doppler effect
+ANS: C
+
+12. Thermohaline circulation carries ________ water from the poles to the equator, where the water becomes ________.
+a. warm; cold
+b. cold; warm
+c. low density; more dense
+d. low density; more salty
+ANS: B
+
+13. The sea surface salinity is ________ at the mouth of the Amazon River and ________ in the Great Salt Lake, Utah.
+a. low; low
+b. high; low
+c. low; high
+d. high; high
+ANS: C
+
+14. The Coriolis effect causes the apparent deflection of currents due to ________.
+a. changes in wind speed
+b. the rotation of Earth
+c. changes in ocean currents
+d. the location of the Moon
+ANS: B
+
+15. Where do the deep ocean currents rise to the surface?
+a. the equator
+b. the North Pole
+c. the tropics
+d. the South Pole
+ANS: A
+
+16. According to this map, where are you most likely to find upwelling currents?
+a. the North Pole
+b. the equator
+c. the tropics
+d. the South Pole
+ANS: B
+
+17. Which of the following would be an area of the ocean with the LEAST dense water?
+a. the mouth of the Amazon River
+b. off the coast of Africa
+c. the middle of the Pacific Ocean
+d. off the coast of Madagascar
+ANS: A
+
+18. How would the Coriolis effect affect the space station?
+a. The space station would curve to the right because it is above the Northern Hemisphere.
+b. The space station would curve to the left because it is above the Southern Hemisphere.
+c. The space station would not curve because it is above the equator and not affected.
+d. The space station would not be affected because it is not in Earth’s atmosphere.
+ANS: D
+
+19. ________ provides the largest tide-generating force.
+a. The Sun
+b. The Moon
+c. Earth
+d. The ocean
+ANS: B
+
+20. Which is the larger of the two tidal bulges?
+a. the one farthest from the Sun
+b. the one farthest from the Moon
+c. the one closest to the Sun
+d. the one closest to the Moon
+ANS: D
+
+21. The castle on the island of Mont Saint-Michel, France, can be accessed ________ a day during ________ tide.
+a. twice; high
+b. once; low
+c. twice; low
+d. once; high
+ANS: C
+
+22. High tide will be ________ when the Sun and Moon are aligned parallel to each other as opposed to normally (when they are not aligned parallel to each other).
+a. the same
+b. lower
+c. higher
+d. reversed
+ANS: C
+
+23. What prevents each spot on Earth from experiencing two high tides and two low tides a day?
+a. the shape of the seafloor and coastline
+b. the shape of the tidal bulges
+c. the position of the Moon relative to Earth
+d. the position of the Sun relative to the Moon
+ANS: A
+
+24. Which of the following figures shows a coast experiencing high tide?
+a. A
+b. B
+c. C
+d. D
+ANS: D
+
+25. What would happen to the tides if the Sun and Moon are aligned?
+a. There would be no tides at all.
+b. There would be no low tides on Earth.
+c. High tide would be much larger.
+d. There would be only low tides on Earth.
+ANS: C
+
+26. A wave will disturb the water to a depth equal to ________.
+a. its wavelength
+b. its surface amplitude
+c. the bottom of the seafloor
+d. one-half of its wavelength
+ANS: D
+
+27. Longshore currents ________ the shoreline.
+a. flow directly toward
+b. flow directly away from
+c. flow parallel to
+d. are not affected by
+ANS: C
+
+28. Waves are created by ________.
+a. tides
+b. the Moon
+c. the crust
+d. wind
+ANS: D
+
+29. Longshore current is the result of waves ________.
+a. coming in perpendicular to the shore
+b. coming into shore at an angle
+c. created during large storms
+d. retreating back to the ocean
+ANS: B
+
+30. As a wave passes through the open ocean, the water molecules move ________.
+a. horizontally
+b. diagonally
+c. in a circular path
+d. straight up and down
+ANS: C
+
+31. In the figure below, which letters represent the crest and trough?
+a. A and B
+b. E and D
+c. C and D
+d. C and B
+ANS: C
+
+32. If a beach is in an east-west orientation and the waves are approaching the shore from a southeasterly direction, in which direction will the longshore drift be?
+a. northern
+b. western
+c. southern
+d. eastern
+ANS: B
+
+33. Why are waves larger during storms?
+a. The larger wind speeds create more shear.
+b. The storm increases the amount of upwelling.
+c. There is more water pulled in by the storm.
+d. The motion of the water becomes more elliptical.
+ANS: A
+
+34. ________ are gently sloping areas on coastlines that consist mostly of sand.
+a. Tidal flats
+b. Beaches
+c. Lagoons
+d. Inlets
+ANS: B
+
+35. When sea level rises and floods a glacially carved valley, the area is called a(n) ________.
+a. fjord
+b. wetland
+c. estuary
+d. reef
+ANS: A
+
+36. Because of wave refraction, erosion along an irregular coastline is ________.
+a. even along the length of the coast
+b. greatest along headlands
+c. greatest in bays
+d. the same as it would be along a regular coastline
+ANS: B
+
+37. Coastal landforms are constantly changing because the ________.
+a. sand is constantly moving
+b. tides are getting stronger
+c. sand is moved by developers
+d. storms are getting stronger
+ANS: A
+
+38. Barrier islands are constantly moving in the direction of ________.
+a. the longshore drift
+b. the high tide
+c. down welling
+d. the Coriolis effect
+ANS: A
+
+39. In the figure below, which direction is the longshore drift?
+a. south
+b. east
+c. west
+d. It is not possible to tell.
+ANS: B
+
+40. What will eventually happen to the headlands in the figure below? 
+a. They will join as the bays in between fill with sediment.
+b. They will become a straight line of cliffs as rock is eroded away.
+c. They will remain as they are for millions of years.
+d. The sea will submerge them as the terrace is uplifted.
+ANS: B
+
+41. Many rocky coasts occur along active margins; why is this?
+a. Active margins are associated with larger storms, which causes more erosion of sediment, leading to fewer beaches.
+b. Active margins are associated with volcanic activity, and volcanic rocks are very hard to erode; thus, there is not enough sediment produced.
+c. Active margins often experience repeated uplift, and thus the waves have not had sufficient time to erode the land surface down to sea level.
+d. Active margins tend to have far fewer streams that feed sediment to the oceans; thus, there is not enough sand to create beaches.
+ANS: C
+
+42. Building a dam across a river can lead to ________ because sediment becomes trapped behind the dam.
+a. pollution
+b. beach nourishment
+c. reef bleaching
+d. beach erosion
+ANS: D
+
+43. When the sea level rises, an ocean may invade a river valley, producing a nearshore body of water of mixed and variable salinity termed a(n) ________.
+a. atoll
+b. lagoon
+c. estuary
+d. jetty
+ANS: C
+
+44. Along beaches, groins have ________.
+a. solved the problem of beach drift
+b. increased erosion rates immediately up current from the groin
+c. increased erosion rates immediately down current from the groin
+d. increased depositional rates immediately down current from the groin
+ANS: C
+
+45. If sea level continues to rise and covers the city of Miami, the Florida coast will become a(n) ________.
+a. emergent coast
+b. submergent coast
+c. continental slope
+d. abyssal plain
+ANS: B
+
+46. Which type of coastline would most likely contain estuaries or fjords?
+a. subductive
+b. emergent
+c. submergent
+d. divergent
+ANS: C
+
+47. The entire state of Florida is composed of fossiliferous limestone. What does this imply about Florida during the recent past?
+a. It was covered with caves.
+b. It was a submergent coast.
+c. It was an emergent coast.
+d. It was in the mountains.
+ANS: B
+
+48. You have just bought your dream home along a coastline, but you notice that the beach in front of your new house is slowly disappearing. You decide to solve this by building a groin. Winds blow predominantly from east to west. Where do you place your groin?
+a. parallel to the shoreline several meters offshore
+b. perpendicular to the shore to the east of your house
+c. perpendicular to the shore to the west of your house
+d. perpendicular to the shore directly in front of your house
+ANS: C
+
+49. Sea level is currently rising at 3.3 mm/yr, and scientists predict that global warming could cause a rise in sea level of 7 if left unabated. How long will it take the sea to rise 7 m at the current rate?
+a. 2,121 years
+b. 0.0004 year
+c. 2.121 years
+d. 0.47 year
+ANS: A
+
+50. Why do beaches become sediment-starved after dams are installed on rivers?
+a. Dams trap water, thus reducing the volume of water that enters the ocean and erodes away the coast to produce sediment.
+b. Rivers supply sediment to beaches; dams trap river sediment, and thus that sediment cannot make it to the beaches.
+c. The chemical composition of river water is changed when it flows through a dam; this alters the amount of chemical weathering that occurs along the coast.
+d. Dams are built using sediment covered in concrete; the sediment most often comes from nearby beaches.
+ANS: B
+
+1. Label the landforms of ocean basins shown in the image below using the following word bank (note: not all of the words will be used):
+a. Dams trap water, thus reducing the volume of water that enters the ocean and erodes away the coast to produce sediment.
+b. Rivers supply sediment to beaches; dams trap river sediment, and thus that sediment cannot make it to the beaches.
+c. The chemical composition of river water is changed when it flows through a dam; this alters the amount of chemical weathering that occurs along the coast.
+d. Dams are built using sediment covered in concrete; the sediment most often comes from nearby beaches.
+ANS:
+
+2. Describe what thermohaline circulation is and how it works.
+a. Dams trap water, thus reducing the volume of water that enters the ocean and erodes away the coast to produce sediment.
+b. Rivers supply sediment to beaches; dams trap river sediment, and thus that sediment cannot make it to the beaches.
+c. The chemical composition of river water is changed when it flows through a dam; this alters the amount of chemical weathering that occurs along the coast.
+d. Dams are built using sediment covered in concrete; the sediment most often comes from nearby beaches.
+ANS:
+
+3. Describe what longshore drift is and how it works.
+a. Dams trap water, thus reducing the volume of water that enters the ocean and erodes away the coast to produce sediment.
+b. Rivers supply sediment to beaches; dams trap river sediment, and thus that sediment cannot make it to the beaches.
+c. The chemical composition of river water is changed when it flows through a dam; this alters the amount of chemical weathering that occurs along the coast.
+d. Dams are built using sediment covered in concrete; the sediment most often comes from nearby beaches.
+ANS:
+
+4. Explain why it is not a good idea to build on barrier islands.
+a. Dams trap water, thus reducing the volume of water that enters the ocean and erodes away the coast to produce sediment.
+b. Rivers supply sediment to beaches; dams trap river sediment, and thus that sediment cannot make it to the beaches.
+c. The chemical composition of river water is changed when it flows through a dam; this alters the amount of chemical weathering that occurs along the coast.
+d. Dams are built using sediment covered in concrete; the sediment most often comes from nearby beaches.
+ANS:
+
+5. Describe one way humans have tried to mitigate beach erosion. Was it ultimately successful in both the short term and long term?

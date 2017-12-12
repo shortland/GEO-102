@@ -1,0 +1,382 @@
+FIXED
+
+
+1. ________ occurs when rocks bend, break, or flow during mountain building.
+a. Deformation
+b. Orogeny
+c. Lengthening
+d. Stress
+ANS: A
+
+2. Force-per-unit area is termed ________.
+a. stress
+b. strain
+c. power
+d. work
+ANS: A
+
+3. ________ occurs when rocks are pulled apart.
+a. Compression
+b. Tension
+c. Shear
+d. Pressure
+ANS: B
+
+4. The term for a change in shape induced by stress is ________.
+a. elastic rebound
+b. pressure release
+c. strain
+d. metamorphosis
+ANS: C
+
+5. Which of these is NOT one of the components of deformation?
+a. displacement
+b. rotation
+c. distortion
+d. dissolution
+ANS: D
+
+6. ________ stress results in the smearing out of rock.
+a. Compressional
+b. Tensional
+c. Shear
+d. Brittle
+ANS: C
+
+7. Why do earthquakes occur only above the brittle-ductile transition depth?
+a. Below the transition, the rocks are too hot.
+b. Below the transition, the rocks break too easily.
+c. Above the transition, the rocks are too hot.
+d. Above the transition, the rocks will flow.
+ANS: A
+
+8. A body of rock affected by tensile stress will likely undergo ________.
+a. shortening
+b. stretching
+c. shear strain
+d. rotation
+ANS: B
+
+9. How does the rate at which a body of rock is deformed affect its behavior?
+a. A rock deformed quickly is likely to exhibit brittle behavior.
+b. A rock deformed slowly is likely to exhibit brittle behavior.
+c. The rate of deformation has no effect on a rock’s behavior.
+d. The rate of deformation is important only below the brittle/plastic transition.
+ANS: A
+
+10. A body of rock affected by compressive stress will likely undergo ________.
+a. shortening
+b. stretching
+c. shear strain
+d. rotation
+ANS: A
+
+11. Which type of situation would be more likely to produce folds?
+a. cold, brittle crust under tension
+b. cold, brittle crust under compression
+c. warm, ductile crust under tension
+d. warm, ductile crust under compression
+ANS: D
+
+12. Under which of these conditions would a body of rock be more likely to exhibit plastic behavior?
+a. low temperature
+b. high temperature
+c. low pressure
+d. high rate of deformation
+ANS: B
+
+13. The fossil in the image below has been subjected to what type of stress?
+a. brittle
+b. tensional
+c. shear
+d. compressional
+ANS: C
+
+14. Under which condition would a body of rock be most likely to exhibit brittle behavior?
+a. slow rate of deformation
+b. low temperature
+c. high temperature
+d. high pressure
+ANS: B
+
+15. How is stress different from strain?
+a. Strain is a measure of the offset on a fault due to applied stress.
+b. Stress is the change in shape of a rock due to applied strain.
+c. Strain is the change in shape of a rock due to applied stress.
+d. They are not different; stress and strain are synonymous.
+ANS: C
+
+16. Normal, reverse, and thrust are all examples of ________ faults.
+a. strike-slip
+b. dip-slip
+c. oblique-slip
+d. lateral
+ANS: B
+
+17. Right-lateral and left-lateral are both examples of ________ faults.
+a. strike-slip
+b. dip-slip
+c. oblique-slip
+d. reverse
+ANS: A
+
+18. A fold shaped like an elongated arch is a(n) ________.
+a. anticline
+b. basin
+c. dome
+d. syncline
+ANS: A
+
+19. Normal faults are generally the result of ________ stress.
+a. tensional
+b. compressional
+c. shear
+d. triaxial
+ANS: A
+
+20. Folds are most often associated with ________ stress.
+a. tensional
+b. compressional
+c. shear
+d. straight
+ANS: B
+
+21. Tectonic foliation occurs under which of the following conditions?
+a. ductile, shear stress
+b. ductile, tensional stress
+c. brittle, shear stress
+d. brittle, compressional stress
+ANS: A
+
+22. Regularly spaced joints in an outcrop may indicate that an area ________.
+a. is under intense shear stress
+b. has experienced compressional stress
+c. is underlain by a thrust fault
+d. is formed from rocks that were once at great depth
+ANS: B
+
+23. The fold in the image below is a(n) ________.
+a. anticline
+b. basin
+c. dome
+d. syncline
+ANS: D
+
+24. On a geologic map, if the contacts between sedimentary rock units form a series of parallel lines, with the youngest unit in the center, the underlying structure is a ________.
+a. horizontal anticline
+b. plunging anticline
+c. horizontal syncline
+d. plunging syncline
+ANS: C
+
+25. Which fault below could result from both strike-slip and dip-slip stresses?
+a. A
+b. B
+c. C
+d. D
+ANS: D
+
+26. In the map below, the vertical, north-south trending fault is a ________ fault.
+a. normal dip-slip
+b. reverse dip-slip
+c. right-lateral strike-slip
+d. left-lateral strike-slip
+ANS: D
+
+27. The distinction between joints and faults is that ________.
+a. faults are joints that are greater than one square meter in areal extent
+b. faults are fractures along which displacement has occurred; displacement does not occur along joints
+c. joints are fractures along which displacement has occurred; displacement does not occur along faults
+d. there is no distinction; the two terms are synonymous
+ANS: B
+
+28. ________ is the process whereby rocks from depth are exposed at the surface during mountain building.
+a. Subsidence
+b. Uplift
+c. Jointing
+d. Foliation
+ANS: B
+
+29. An episode of mountain building is termed a(n) ________.
+a. orogeny
+b. phylogeny
+c. aureole
+d. slickenside
+ANS: A
+
+30. Continental crust is typically 35 kilometers thick but may be up to ________ thick under mountain ranges.
+a. 40 km
+b. 70 km
+c. 200 km
+d. 400 km
+ANS: B
+
+31. The balance between the weight of a mountain range and the buoyancy provided by the underlying mantle is termed ________ equilibrium.
+a. punctuated
+b. homeostatic
+c. isostatic
+d. osmotic
+ANS: C
+
+32. Mountain ranges formed along subduction zones are formed, in part, by ________ in the crust.
+a. compression
+b. stretching
+c. extension
+d. elongation
+ANS: A
+
+33. Normal faulting is most often associated with mountain building along ________ boundaries, while reverse faulting is generally observed at ________ boundaries.
+a. divergent; transform
+b. transform; convergent
+c. convergent; divergent
+d. divergent; convergent
+ANS: D
+
+34. Which of these properly illustrates the principle of isostasy?
+a. High-density crust floats on top of low-density mantle.
+b. Mountains stand high because they are gravitationally balanced by their deep crustal roots.
+c. When weight is added to the crust, the crust responds by rebounding upward.
+d. When material is removed from the crust, the crust maintains the new, lower elevation.
+ANS: B
+
+35. On which plate boundary would you be most likely to find mountains?
+a. Eastern North American Plate
+b. Western South American Plate
+c. Northern Antarctic Plate
+d. Western Nazca Plate
+ANS: B
+
+36. The formation of the Basin and Range Province is associated with which of the following processes?
+a. continental rifting
+b. continental collision
+c. fold and thrust faulting
+d. subduction zone volcanism
+ANS: A
+
+37. During the formation of Pangea, Africa collided with North America and created the Appalachian Mountains. Which of the following mountain ranges is a modern analogue for the ancient Appalachian Mountains?
+a. Andes Mountains
+b. Sierra Nevada Mountains
+c. Italian Alps
+d. Cascade Mountains
+ANS: C
+
+38. The Himalayan mountain range was formed at which tectonic setting?
+a. a convergent plate boundary
+b. a divergent plate boundary
+c. a transform plate boundary
+d. a hotspots
+ANS: A
+
+39. What happens to the crustal root of a mountain range as the mountains are slowly eroded away?
+a. The crustal root is eroded away at the same rate.
+b. The crustal root remains stationary.
+c. The crustal root sinks deeper into the mantle.
+d. The crustal root rises out of the mantle.
+ANS: D
+
+40. Regions where Precambrian metamorphic rocks are exposed at the surface are termed ________.
+a. shields
+b. cratonic platforms
+c. convergent margins
+d. domes
+ANS: A
+
+41. The outer portion of a craton, where deformed rocks are covered by sediments, is termed the ________.
+a. shield
+b. cratonic platform
+c. convergent margin
+d. exotic terrane
+ANS: B
+
+42. Regions of continents that have NOT been subjected to orogeny during the past one billion years are termed ________.
+a. exotic terranes
+b. accreted terranes
+c. cratons
+d. cratonic platforms
+ANS: C
+
+43. Metamorphic rocks found in cratons are exposed during orogenesis by ________.
+a. magmatic intrusion
+b. epeirogeny
+c. shear strain
+d. exhumation
+ANS: D
+
+44. The process of ________ turns the steep slopes of mountains into gentle hills.
+a. shortening
+b. erosion
+c. uplift
+d. expansion
+ANS: B
+
+45. Why can mountains on Earth NOT grow as high as those on Mars?
+a. The geothermal gradient on Earth is too high.
+b. Gravity on Earth is much lower than on Mars.
+c. The rate of erosion is significantly higher on Earth.
+d. The rate of uplift is significantly higher on Mars.
+ANS: A
+
+46. Cratonic platforms generally show ________ topography.
+a. rugged, steep
+b. jagged, subdued
+c. gentle, subdued
+d. angular, subdued
+ANS: C
+
+47. Shields contain vast areas of exposed metamorphic rocks; this is due to the ________ process.
+a. exhumation
+b. epeirogenic
+c. burial
+d. sedimentation
+ANS: A
+
+48. Erosional processes work to remove material from mountains; thus, overtime the topography will become less ________.
+a. rugged
+b. weathered
+c. flat-lying
+d. stretched
+ANS: A
+
+49. Mount Marshak towers above the landscape at 5.3 km tall. The rate of uplift at Mount Marshak is 1.3 mm/yr and the rate of erosion is 1.5 mm/yr. How tall will Mount Marshak be after a million years, assuming everything remains constant?
+a. 5.5 km
+b. 7.3 km
+c. 5.1 km
+d. 3.3 km
+ANS: C
+
+50. What can be said about a mountain range that is being uplifted at 2 cm/yr but is not growing any taller?
+a. The crustal root is thinning at the same rate as the uplift.
+b. The crustal root is thickening faster than the uplift.
+c. The rate of erosion is the same as the rate of uplift.
+d. The rate of erosion is higher than the rate of uplift.
+ANS: C
+
+1. Describe the differences between brittle and ductile deformation.
+a. The crustal root is thinning at the same rate as the uplift.
+b. The crustal root is thickening faster than the uplift.
+c. The rate of erosion is the same as the rate of uplift.
+d. The rate of erosion is higher than the rate of uplift.
+ANS:
+
+2. What types of geologic structures would you expect to find in an area that had undergone compression?
+a. The crustal root is thinning at the same rate as the uplift.
+b. The crustal root is thickening faster than the uplift.
+c. The rate of erosion is the same as the rate of uplift.
+d. The rate of erosion is higher than the rate of uplift.
+ANS:
+
+3. Explain how the mountains in the Basin and Range Province were formed?
+a. The crustal root is thinning at the same rate as the uplift.
+b. The crustal root is thickening faster than the uplift.
+c. The rate of erosion is the same as the rate of uplift.
+d. The rate of erosion is higher than the rate of uplift.
+ANS:
+
+4. Explain what the ultimate fate is of all mountains on Earth?
+a. The crustal root is thinning at the same rate as the uplift.
+b. The crustal root is thickening faster than the uplift.
+c. The rate of erosion is the same as the rate of uplift.
+d. The rate of erosion is higher than the rate of uplift.
+ANS:
+
+5. The Appalachian Mountains were formed due to the collision of North America and Africa at the end of the Paleozoic era. Describe what the Appalachians looked like when formed and what has caused them to become a series of gently sloping hills today?

@@ -1,0 +1,207 @@
+FIXED
+
+
+1. Petrified wood is a type of ________.
+a. permineralized organism
+b. chemical fossil
+c. trace fossil
+d. body fossil preserved in tar
+ANS:ADIF:EasyREF:E.2
+
+2. What type of fossil is composed of footprints or burrows?
+a. mold or cast
+b. chemical fossil
+c. trace fossil
+d. body fossil
+ANS:CDIF:EasyREF:E.2
+
+3. Which of the following statements regarding the fossil record is FALSE?
+a. Only some of Earth’s history is recorded in the rock record.
+b. The fossil record does not contain any fossil remains of plants, only animals.
+c. Many organisms have a low preservation potential.
+d. Paleontologists have not yet found all the fossils that are in rocks.
+ANS:BDIF:ModerateREF:E.2
+
+4. Which of the following would NOT be considered a fossil?
+a. Figure 1
+b. Figure 2
+c. Figure 3
+d. Figure 4
+ANS:DDIF:EasyREF:E.1
+
+5. Which of the following scenarios would most likely result in fossilization?
+a. Leaves fall to the forest floor during winter.
+b. A dinosaur walks across an outcrop of sandstone.
+c. A jellyfish is buried by a submarine landslide.
+d. Plankton get washed onto the beach during a storm.
+ANS:CDIF:DifficultREF:E.2
+
+6. Why do plants generally become carbonized impressions if they are preserved as fossils?
+a. because chemical reactions leave behind only the carbon
+b. because they are often decayed before fossilization
+c. because they are easily moved by winds and water
+d. because they are generally scavenged by animals
+ANS:ADIF:ModerateREF:E.2
+
+7. Fossils of ________ are known as extraordinary fossils.
+a. hard parts
+b. soft parts
+c. bones
+d. teeth
+ANS:BDIF:ModerateREF:E.2
+
+8. Organisms buried in ________ environments are more likely to be preserved because they will not undergo decay.
+a. anoxic
+b. antioxidant
+c. oxygenated
+d. vegetated
+ANS:ADIF:ModerateREF:E.2
+
+9. Why is the preservation potential of feathers so low?
+a. because birds usually die in dry environments
+b. because feathers do not contain hard parts
+c. because feathers are very small and thus are not well preserved
+d. because birds die in forests, areas with high oxygen levels
+ANS:BDIF:DifficultREF:E.2
+
+10. Imagine that a layer of leaves is scattered along a forest floor; what must happen in order to preserve these leaves as fossils?
+a. The leaves must be picked up by wind or animals and carried to a desert.
+b. The leaves must be buried slowly so that the leaves can begin to rot.
+c. The leaves must be buried rapidly in order to keep out oxygen.
+d. The leaves will never be preserved, as they do not contain hard parts.
+ANS:CDIF:ModerateREF:E.2
+
+11. The most general distinction among organisms is based on differences in DNA and is called the ________.
+a. kingdom
+b. phylum
+c. domain
+d. species
+ANS:CDIF:ModerateREF:E.3
+
+12. Mammals belong to the kingdom ________.
+a. Protista
+b. Mammalia
+c. Eukarya
+d. Animalia
+ANS:DDIF:ModerateREF:E.3
+
+13. Fossils are most often identified based on changes in their ________, which is easily recognizable, even in the field.
+a. morphology
+b. DNA
+c. domain
+d. lifestyle
+ANS:ADIF:ModerateREF:E.3
+
+14. To which major kingdom would a bivalve belong?
+a. Protista
+b. Animalia
+c. Plantae
+d. Fungi
+ANS:BDIF:EasyREF:E.3
+
+15. The following is an example of what type of fossil?
+a. trace fossil
+b. permineralized organism
+c. carbonized impression
+d. mold or cast fossil
+ANS:BDIF:ModerateREF:E.2
+
+16. If two animals are members of the same kingdom, how closely are they related in comparison to two animals that are members of the same genus?
+a. Animals of the same kingdom are less closely related than those of the same genus.
+b. Animals of the same kingdom are more closely related than those of the same genus.
+c. There is no way to tell how closely related either are without more information.
+d. Animals of the same kingdom are not related at all.
+ANS:ADIF:DifficultREF:E.3
+
+17. What is natural selection?
+a. the theory that all life began in shallow coastal pools of protein-rich water
+b. the theory that all life on Earth has evolved from single-celled organisms
+c. the idea that animals who share specialized characteristics are part of a genus
+d. the passing on of beneficial characteristics so that the most adaptable survive
+ANS:DDIF:EasyREF:E.5
+
+18. Darwin believed that the finches on the Galapagos Islands were once a single species but had ________ into several different species that could each eat different types of food.
+a. regressed
+b. reverted
+c. evolved
+d. relapsed
+ANS:CDIF:EasyREF:E.5
+
+19. Isolating a breeding population of animals can lead to evolution by ________.
+a. gradualism
+b. punctuated equilibrium
+c. survivability
+d. natural equilibrium
+ANS:BDIF:DifficultREF:E.5
+
+20. Which of the following is an example of natural selection?
+a. birds that evolve a new beak shape in order to exploit a different food source
+b. the extinction of the mammoths due to hunting by a new predator
+c. fossils of trilobites that have the same morphology but are separated by millions of years
+d. the mass extinction of the dinosaurs due to a meteorite’s impact 65 million years ago
+ANS:ADIF:ModerateREF:E.5
+
+21. When the last member of a species dies, this is called ________.
+a. fossilization
+b. natural selection
+c. extinction
+d. preservation
+ANS:CDIF:EasyREF:E.5
+
+22. A change in ________ can often cause mass extinctions of animals that are adapted to warm, tropical waters.
+a. global climate
+b. tectonic activity
+c. biodiversity
+d. food sources
+ANS:ADIF:EasyREF:E.5
+
+23. The mammoths went extinct due to a new predator, ________.
+a. dinosaurs
+b. elephants
+c. chimpanzees
+d. humans
+ANS:DDIF:EasyREF:E.2
+
+24. According to the figure below, which mass extinction was the most devastating?
+a. Permian/Triassic
+b. Ordovician/Silurian
+c. Cretaceous/Tertiary
+d. Late Devonian
+ANS:ADIF:EasyREF:E.5
+
+25. If a volcanic eruption occurs that blocks out some of the sunlight long enough for many plants to die, what (if anything) will happen to the carnivorous animal species?
+a. They will eventually die along with many other species in the food chain.
+b. The carnivorous animals will need to adapt to eat other plant species.
+c. They will die from the drop in temperature before the plant deaths affect them.
+d. Nothing will happen; carnivorous animals will not be affected by plant death.
+ANS:ADIF:DifficultREF:E.5
+
+1. Explain how the leaves in the image below were formed.
+a. They will eventually die along with many other species in the food chain.
+b. The carnivorous animals will need to adapt to eat other plant species.
+c. They will die from the drop in temperature before the plant deaths affect them.
+d. Nothing will happen; carnivorous animals will not be affected by plant death.
+ANS:
+
+2. Explain why the fossil record is incomplete.
+are of organisms with hard parts, and thus we are missing many soft-bodied organisms. In addition, organisms must be subjected to specific conditions in order to be preserved, and thus very few organisms overall are preserved. Lastly, we have simply not found every fossil on Earth yet.
+b. The carnivorous animals will need to adapt to eat other plant species.
+c. They will die from the drop in temperature before the plant deaths affect them.
+d. Nothing will happen; carnivorous animals will not be affected by plant death.
+ANS:
+
+3. Label each fossil in the image below with the common fossil name.
+are of organisms with hard parts, and thus we are missing many soft-bodied organisms. In addition, organisms must be subjected to specific conditions in order to be preserved, and thus very few organisms overall are preserved. Lastly, we have simply not found every fossil on Earth yet.
+b. The carnivorous animals will need to adapt to eat other plant species.
+c. They will die from the drop in temperature before the plant deaths affect them.
+d. Nothing will happen; carnivorous animals will not be affected by plant death.
+ANS:
+
+4. Explain how evolution by natural selection occurs.
+are of organisms with hard parts, and thus we are missing many soft-bodied organisms. In addition, organisms must be subjected to specific conditions in order to be preserved, and thus very few organisms overall are preserved. Lastly, we have simply not found every fossil on Earth yet.
+b. The carnivorous animals will need to adapt to eat other plant species.
+c. They will die from the drop in temperature before the plant deaths affect them.
+d. Nothing will happen; carnivorous animals will not be affected by plant death.
+ANS:
+
+5. How is mass extinction different from extinction?

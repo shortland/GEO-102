@@ -1,0 +1,382 @@
+FIXED
+
+
+1. Nonviolent eruptions characterized by extensive flows of basaltic lava are termed ________.
+a. pyroclastic
+b. effusive
+c. explosive
+d. plinian
+ANS: B
+
+2. In 79 C.E., the citizens of Pompeii in the Roman Empire were buried by pyroclastic debris derived from an eruption of ________.
+a. Mount Olympus
+b. Olympus Mons
+c. Mount Vesuvius
+d. Mount St. Helens
+ANS: C
+
+3. Of the three primary forms of subaerial volcanoes, ________ consist of alternating layers of tephra and solidified lava.
+a. stratovolcanoes
+b. cinder cones
+c. shield volcanoes
+d. fissure volcanoes
+ANS: A
+
+4. The textural term for a basaltic lava flow that has a smooth, ropy appearance is ________.
+a. pahoehoe
+b. a’a’
+c. pumice
+d. ignimbrite
+ANS: A
+
+5. The Columbia River Plateau is an example of a ________.
+a. caldera
+b. fissure
+c. flood basalt
+d. hot spot
+ANS: C
+
+6. Explosive or voluminous eruptions may cause the volcano to collapse on the floor of the now-empty magma chamber, producing a broad depression termed a ________. 
+a. dike
+b. lahar
+c. caldera
+d. fissure
+ANS: C
+
+7. The Hawaiian island chain is an example of a(n) ________.
+a. island volcanic arc
+b. continental volcanic arc
+c. hotspot island chain
+d. stratovolcanic assembly
+ANS: C
+
+8. Fissure eruptions take place when ________.
+a. volatiles effervesce prior to lava flow
+b. groundwater interacts with magma
+c. basaltic lava clogs the eruptive vent
+d. lava erupts out of a long crack in the ground forming a curtain of lava
+ANS: B
+
+9. Based on your knowledge of volcanoes and volcanic products, you can say with confidence that the outcrop in the image below formed ________.
+a. on land at a continental hotspot
+b. underwater at a subduction zone
+c. on land at a continental rift
+d. underwater at a mid-ocean ridge
+ANS: D
+
+10. The tall polygonal features preserved in the ancient basalt flow in the image below formed because the lava ________.
+a. was moving as it cooled, so it fractured
+b. erupted underwater and cooled rapidly, forming many fractures
+c. was subjected to shaking from earthquakes, and subsequently fractured
+d. shrank as it cooled, forming tall polygonal-shaped fractures
+ANS: D
+
+11. Which of the following is FALSE? Caldera forming eruptions ________.
+a. can be so explosive that a significant portion of the volcano can be destroyed
+b. occur when groundwater or seawater enters the magma chamber
+c. occur due to fractional crystallization of the magma chamber
+d. produce little to no lava at the surface
+ANS: B
+
+12. Felsic magma tends to form ________ eruptions.
+a. effusive
+b. explosive
+c. intrusive
+d. infusive
+ANS: B
+
+13. The lower the viscosity of a lava the more likely it is to produce an ________ eruption.
+a. effusive
+b. explosive
+c. intrusive
+d. infusive
+ANS: A
+
+14. Felsic magma generally forms in ________.
+a. the mantle
+b. mid-ocean ridges
+c. continental crust
+d. oceanic crust
+ANS: C
+
+15. Why is felsic magma much more likely to produce an explosive eruption?
+a. Felsic magma is at a higher magma temperature, which will force an explosion.
+b. Felsic magma cools at a lower temperature and thus will still be molten upon eruption.
+c. Felsic magma has a low viscosity, which will flow easily and erupt at a faster velocity.
+d. Felsic magma has a high viscosity, which will tend to stick in and clog volcanic conduits.
+ANS: D
+
+16. Compared to felsic lavas, mafic lavas have a ________.
+a. lighter color
+b. lower viscosity
+c. lower density
+d. higher silica content
+ANS: B
+
+17. Hotspots are produced by mantle plumes that are composed of mafic magma; however, Yellowstone is a hotspot that erupts more explosively because the hotspot ________.
+a. is hotter and thus melts more rock
+b. rises through the continental crust
+c. originates at the core-mantle boundary
+d. rises through a mid-ocean ridge
+ANS: B
+
+18. Pillow lavas are associated with ________ eruptions.
+a. subaerial rhyolitic
+b. subaerial basaltic
+c. submarine rhyolitic
+d. submarine basaltic
+ANS: D
+
+19. The image below shows a lava dome that never left the volcanic crater. What is the likely composition of the rocks that make up this lava dome?
+a. felsic
+b. intermediate
+c. mafic
+d. ultramafic
+ANS: A
+
+20. What properties of the source magma lead to the formation of a shield volcano?
+a. low viscosity and mafic composition
+b. high viscosity and felsic composition
+c. any magma composition so long as it contains a large portion of dissolved volatiles
+d. an intermediate composition magma that encounters seawater in the magma chamber
+ANS: A
+
+21. Basaltic lavas ________.
+a. contain less silica than rhyolitic lavas
+b. contain more silica than rhyolitic lavas
+c. are more viscous than rhyolitic lavas
+d. typically contain a greater proportion of trapped volatiles than rhyolitic lavas
+ANS: A
+
+22. Whether an eruption will primarily produce lava flows or pyroclastic debris is NOT influenced by the ________ the source magma.
+a. viscosity of
+b. composition of
+c. proportion of volatiles within
+d. depth and residence time of
+ANS: D
+
+23. A fast-moving flow consisting of a mixture of water and volcanoclastic debris is termed a ________.
+a. lahar
+b. pyroclastic flow
+c. flood basalt
+d. hyaloclastite
+ANS: A
+
+24. Gases that are abundantly emitted by volcanoes include ________.
+a. water vapor, carbon dioxide, and sulfur dioxide
+b. oxygen, ozone, and water vapor
+c. oxygen, hydrogen, and argon
+d. carbon dioxide, carbon monoxide, and oxygen
+ANS: A
+
+25. In 1902 a famous, deadly pyroclastic flow killed thousands of people on the Caribbean island of ________.
+a. Puerto Rico
+b. Martinique
+c. Aruba
+d. Jamaica
+ANS: B
+
+26. What was unusual about the 1986 volcano-related disaster near Lake Nyos in Cameroon?
+a. A volcanic eruption involved a lateral blast of volcanoclastic debris that no one anticipated.
+b. Pyroclastic flows buried surrounding villages, reminiscent of Pompeii ~1,900 years earlier.
+c. Volcanically derived carbon dioxide gas bubbled from the lake and suffocated people and animals nearby.
+d. A slurry of lava and lake water flowed rapidly outward from the lake and buried surrounding villages.
+ANS: C
+
+27. The cloud that rises from the vent of an actively erupting volcano is composed of ________.
+a. smoke from wildfires inside the volcanic crater
+b. smoke from wildfires on the outer slopes of the volcano that funnel into the crater
+c. fine volcanoclastic debris (ash) suspended in the air
+d. a continuous fountain of dark, basaltic lava
+ANS: C
+
+28. Ash, cinders, and blocks are all types of ________.
+a. pyroclastic debris
+b. lava flows
+c. Pele’s hair
+d. volcanoes
+ANS: A
+
+29. Volcanic bombs are ________.
+a. volcanic fragments that were ejected while still soft or molten
+b. explosive bodies of lava with high volatile content
+c. volcanic fragments that were already solid rock before being ejected during an eruption
+d. used by geologists to set off small eruptions in volcanoes that are deemed potentially dangerous
+ANS: A
+
+30. A mixture of air, hot ash, and pumice lapilli that rushes down the side of a volcano in a scalding avalanche is termed a(n) ________.
+a. ash fall
+b. lahar
+c. pyroclastic flow
+d. convective plume
+ANS: C
+
+31. The image below shows a ________, which is a large piece of pyroclastic debris ejected during an eruption, with a smooth texture due to the fact that it was partially molten when ejected.
+a. block
+b. bomb
+c. lapilli
+d. xenolith
+ANS: B
+
+32. Which of the following poses the greatest hazard to human life associated with volcanoes?
+a. flowing lava
+b. volcanic gas
+c. falling ash
+d. pyroclastic flows
+ANS: D
+
+33. Columnar joints form when ________.
+a. a lava flow cools very rapidly, causing the flow to shatter in a chaotic pattern
+b. a lava flow encounters groundwater, which causes the flow to rapidly fracture
+c. a lava flow erupts under deep water
+d. during the final stages of cooling, a lava flow contracts, forming tall polygonal fractures
+ANS: D
+
+34. The average time between eruptions is called a(n) ________.
+a. repose interval
+b. prediction
+c. forecast
+d. assessment
+ANS: A
+
+35. Changes in the shape of a volcano can indicate ________.
+a. an increase in the heat flow from the magma
+b. an extinct volcano becoming active
+c. a magma chamber filling or emptying
+d. the release of gases from the magma
+ANS: C
+
+36. If magma is fracturing rocks as it moves through the subsurface, there would most likely be an increase in ________.
+a. recurrence interval
+b. volcanic gas emission
+c. silica content
+d. seismic activity
+ANS: D
+
+37. Scientists monitor volcanoes to help predict when eruptions will occur. Which of the following is NOT a potential sign to look for when predicting volcanic eruptions?
+a. changes in earthquake activity
+b. changes in Earth’s magnetic field
+c. small changes in the shape of the volcano
+d. increases in gas and steam emissions
+ANS: B
+
+38. Volcanoes are considered dormant if they ________.
+a. still have a magma source but show no signs of impending eruption
+b. no longer have a magma source and therefore will never erupt again
+c. have an active magma source and are currently erupting
+d. have an active magma source but will never erupt again
+ANS: A
+
+39. The volcano in the image below is ________.
+a. active
+b. extinct
+c. dormant
+d. quiescent
+ANS: B
+
+40. If a volcano lies along a convergent boundary but has not erupted in over 100,000 years, the volcano is considered ________.
+a. active
+b. dormant
+c. extinct
+d. dead
+ANS: B
+
+41. If a volcano was actively releasing a large amount of volcanic gas and then abruptly stopped, what might happen to the volcano in the near future?
+a. It will become extinct because the magma supply has been rapidly withdrawn.
+b. It will erupt effusively because the supply of volcanic gas has dissipated.
+c. It will erupt explosively because the volcanic gases have no way to escape slowly.
+d. It will erupt effusively because the gases have made the magma less viscous.
+ANS: C
+
+42. The famous “year without a summer” occurred due to the eruption of ________.
+a. Mount St. Helens, Washington
+b. Mount Tambora, Indonesia
+c. Kilauea, Hawaii
+d. Mount Fuji, Japan
+ANS: B
+
+43. Volcanic eruptions release ________, which can block some sunlight from reaching Earth.
+a. ash
+b. gas
+c. magma
+d. ozone
+ANS: A
+
+44. Which volcanic eruption nearly wiped humanity off the planet?
+a. 1991—Mount Pinatubo, Philippines
+b. 75Ka— Toba, Indonesia
+c. 1980—Mount St. Helens, USA
+d. 1815—Mount Tambora, Indonesia
+ANS: B
+
+45. How can volcanic eruptions lower the global temperature on Earth?
+a. gases block sunlight
+b. gases trap heat
+c. ash blocks sunlight
+d. ash traps heat
+ANS: C
+
+46. The ash released by explosive volcanic eruptions can also produce ________.
+a. infertile land
+b. unusual sunsets
+c. disruption of magnets
+d. mutations in livestock
+ANS: B
+
+47. Which of the following volcanic products can decrease global temperatures?
+a. sulphur dioxide
+b. mafic magma
+c. carbon monoxide
+d. ash and aerosols
+ANS: D
+
+48. According to the graph below, what occurred after the 1991 eruption of Pinatubo in the Philippines? 
+a. Global temperatures decreased.
+b. Global temperatures increased.
+c. Global carbon dioxide increased.
+d. Global carbon dioxide decreased.
+ANS: A
+
+49. A Minoan civilization, postulated to be the fabled “City of Atlantis,” was destroyed by the eruption of ________.
+a. Toba, Indonesia
+b. Santorini, Greece
+c. Krakatau, Indonesia
+d. Mount Fuji, Japan
+ANS: B
+
+50. Volcanoes have provided some positive benefits to humankind and life in general over geologic time. Which of the following is NOT true about volcanoes?
+a. Volcanic eruptions can enrich soils, making land more fertile.
+b. Volatiles from volcanoes provided much of our early oceans’ water.
+c. Volcanic eruptions have prevented several mass extinctions by cooling Earth’s climate.
+d. Gases from volcanic eruptions provided much of the content of the early atmosphere.
+ANS: C
+
+1. Describe how explosive eruptions occur. Make sure to address viscosity, gas content, and the process for building pressure.
+a. Volcanic eruptions can enrich soils, making land more fertile.
+b. Volatiles from volcanoes provided much of our early oceans’ water.
+c. Volcanic eruptions have prevented several mass extinctions by cooling Earth’s climate.
+d. Gases from volcanic eruptions provided much of the content of the early atmosphere.
+ANS:
+
+2. The style of eruption depends on the plate tectonic setting in which the volcano is situated. Compare the different eruption styles you would observe at a divergent versus a convergent plate boundary. Make sure to address composition, viscosity, gas content, and so on in your answer.
+a. Volcanic eruptions can enrich soils, making land more fertile.
+b. Volatiles from volcanoes provided much of our early oceans’ water.
+c. Volcanic eruptions have prevented several mass extinctions by cooling Earth’s climate.
+d. Gases from volcanic eruptions provided much of the content of the early atmosphere.
+ANS:
+
+3. List and describe two volcanic hazards, including both a description of the hazard and the possible effects of the hazard.
+a) Lava flows are effusive eruptions of hot, molten lava that can sometimes flow for very long distances. Lava flows tend to move slow enough to move out of the way of a flow and as such the main hazard associated with lava flows is fire. Structures that cannot be relocated will catch on fire when the lava flow is very near and can often burn to the ground.
+b) Pyroclastic falls occur after explosive eruptions when pyroclastic material is blown up into the air and then rains down on the surrounding countryside. As the ash is cooled by the time it reaches the ground the hazards associated with pyroclastic fall include collapsed roofs, buried crops, and damage to machinery with moving parts (including flying airplanes).
+c) Pyroclastic flows are massive, incandescent clouds of rolling ash, gas, and other debris that flow down hillsides at very fast speeds. These clouds are instantaneously deadly, as they incinerate whatever is in their paths.
+d) Lahars are volcanic mudflows that can occur during an eruption or even years after an eruption. The lahar itself is composed of ash and water (melted glacier, storms, etc.) and has the consistency of wet cement. They move very quickly down valleys and canyons and can bury entire towns in seconds. Lahars are also capable of picking up and carrying away large objects such as entire forests, houses, bridges, and so on.
+ANS:
+
+4. Recurrence intervals are often used as estimates of when the next eruption might occur. Explain what a recurrence interval is, how it is calculated, and why it is not the most useful means of forecasting eruptions.
+a) Lava flows are effusive eruptions of hot, molten lava that can sometimes flow for very long distances. Lava flows tend to move slow enough to move out of the way of a flow and as such the main hazard associated with lava flows is fire. Structures that cannot be relocated will catch on fire when the lava flow is very near and can often burn to the ground.
+b) Pyroclastic falls occur after explosive eruptions when pyroclastic material is blown up into the air and then rains down on the surrounding countryside. As the ash is cooled by the time it reaches the ground the hazards associated with pyroclastic fall include collapsed roofs, buried crops, and damage to machinery with moving parts (including flying airplanes).
+c) Pyroclastic flows are massive, incandescent clouds of rolling ash, gas, and other debris that flow down hillsides at very fast speeds. These clouds are instantaneously deadly, as they incinerate whatever is in their paths.
+d) Lahars are volcanic mudflows that can occur during an eruption or even years after an eruption. The lahar itself is composed of ash and water (melted glacier, storms, etc.) and has the consistency of wet cement. They move very quickly down valleys and canyons and can bury entire towns in seconds. Lahars are also capable of picking up and carrying away large objects such as entire forests, houses, bridges, and so on.
+ANS:
+
+5. Describe how an explosive volcanic eruption can create a global cooling event.

@@ -1,0 +1,207 @@
+FIXED
+
+
+1. A(n) ________ material is held together, solid, and must be broken apart to separate it  into smaller pieces.
+a. unconsolidated
+b. paved
+c. coherent
+d. buttressed
+ANS:CDIF:EasyREF:A.2
+
+2. A(n) ________ of minerals forms a rock.
+a. compilation
+b. aggregate
+c. mass
+d. assembly
+ANS:BDIF:EasyREF:A.2
+
+3. Rocks are ________ and thus not man-made.
+a. coherent
+b. synthetic
+c. rare
+d. natural
+ANS:DDIF:ModerateREF:A.2
+
+4. A pile of unconsolidated sediment is NOT ________ and therefore NOT a rock.
+a. coherent
+b. aggregated
+c. natural
+d. solid
+ANS:ADIF:EasyREF:A.2
+
+5. A piece of concrete from a driveway is NOT considered a rock because it ________.
+a. is made of one mineral
+b. does not contain minerals
+c. is unconsolidated
+d. is man-made
+ANS:DDIF:ModerateREF:A.2
+
+6. Which one of the pictures does NOT show (a) rock(s)?
+a. Figure A
+b. Figure B
+c. Figure C
+d. Figure D
+ANS:DDIF:EasyREF:A.2
+
+7. Which of the following describes a rock?
+a. a pile of damp sand still holding the form of a bucket
+b. a collection of crystals that fit together like puzzle pieces
+c. cobblestones cemented together to form a walkway
+d. a layer of mud at the bottom of a dry river bed
+ANS:BDIF:ModerateREF:A.2
+
+8. What is the difference between a rock that is cemented and a rock that is crystalline?
+a. A rock that is cemented contains rounded grains that are held together by cement, whereas a crystalline rock contains angular grains held together by cement.
+b. Crystalline rocks contain minerals, while cemented rocks contain rock fragments; both are held together by static forces between grains.
+c. Minerals are held together as interlocking pieces in a cemented rock, whereas grains are held together by minerals precipitated in pore spaces in a crystalline rock.
+d. Minerals are held together as interlocking pieces in a crystalline rock, whereas in a cemented rock the grains do not fit together like puzzle pieces and instead are held together by cement.
+ANS:DDIF:ModerateREF:A.2
+
+9. Which is a characteristic used to classify a rock?
+a. mineral stability
+b. rock texture
+c. water content
+d. degree of weathering
+ANS:BDIF:EasyREF:A.3
+
+10. Igneous rocks form from ________.
+a. heat and pressure applied to a rock
+b. precipitation of minerals out of a solution
+c. sediments cemented together
+d. molten rock cooling and forming crystals
+ANS:DDIF:EasyREF:A.3
+
+11. Which type of rock is formed by precipitation of minerals from a solution?
+a. metamorphic
+b. glassy
+c. sedimentary
+d. igneous
+ANS:CDIF:ModerateREF:A.3
+
+12. Composition describes the ________.
+a. degree of compaction and cementation in a rock
+b. arrangement of minerals in a rock
+c. presence of layers of minerals in a rock
+d. chemical makeup of a rock
+ANS:DDIF:EasyREF:A.3
+
+13. Where would you expect to find metamorphic rocks forming?
+a. deep inside a mountain range
+b. inside a lava flow on Hawaii
+c. under the water at the mid-ocean ridge
+d. at the bottom of the Mediterranean Sea
+ANS:ADIF:DifficultREF:A.3
+
+14. Imagine you are holding a rock composed of small sand grains cemented together. What subclassification of sedimentary rock is this?
+a. clastic
+b. chemical
+c. igneous
+d. crystalline
+ANS:ADIF:EasyREF:A.3
+
+15. What type of texture is shown in the photomicrograph?
+a. foliation
+b. crystalline
+c. sedimentary
+d. clastic
+ANS:BDIF:DifficultREF:A.4
+
+16. Why do geologists classify rocks?
+a. to determine the chemical makeup of Earth
+b. because rocks are the key to determining the Earth’s history
+c. because it makes it easier to tell them apart
+d. so that they can tell how old the rock is
+ANS:BDIF:DifficultREF:A.3
+
+17. The picture below shows a(n) ________ of rock that geologists use to determine the minerals in the rock.
+a. hand sample
+b. thin section
+c. outcrop
+d. X-ray
+ANS:BDIF:ModerateREF:A.4
+
+18. Geologists sometimes use analytical equipment to help identify rocks. One commonly used machine is the electron microprobe, which focuses a beam of electrons on a sample to determine ________.
+a. the amount of radioactive minerals
+b. how atoms are arranged
+c. the atomic weight
+d. the chemical composition
+ANS:DDIF:DifficultREF:A.4
+
+19. Looking at a ________ helps geologists identify minerals and classify rocks.
+a. thin section
+b. micro section
+c. thin slide
+d. micro slide
+ANS:ADIF:EasyREF:A.4
+
+20. A(n) ________ takes extremely high resolution images that can be used to determine the elements in a rock.
+a. petrographic microscope
+b. scanning electron microscope
+c. X-ray diffractometer
+d. photomicrograph
+ANS:BDIF:ModerateREF:A.4
+
+21. Why do geologists use thin sections of rocks?
+a. to determine if the rock is molten
+b. to identify foreign substances
+c. to identify the minerals
+d. to determine the arrangement of atoms
+ANS:CDIF:DifficultREF:A.4
+
+22. Which of the following images shows a hand specimen?
+a. A
+b. B
+c. C
+d. D
+ANS:DDIF:EasyREF:A.4
+
+23. Which of the following tools is used to identify minerals in the field?
+a. thin section
+b. hand lens
+c. petrographic microscope
+d. photomicrograph
+ANS:BDIF:ModerateREF:A.4
+
+24. Which piece of equipment is used to help a geologist see the internal structure of minerals?
+a. electron microprobe
+b. mass spectrometer
+c. X-ray diffractometer
+d. petrographic microscope
+ANS:CDIF:ModerateREF:A.4
+
+25. Why do thin sections help geologists identify minerals better than with a hand specimen alone?
+a. Thin sections allow the geologist to identify the chemicals within the minerals.
+b. Each mineral transmits polarized light differently and displays variations in colors.
+c. Looking at a thin section allows the geologist to see the atomic structure of the minerals.
+d. Cutting a thin section removes the weathered surface and shows the minerals’ true colors.
+ANS:BDIF:ModerateREF:A.4
+
+1. Is a piece of concrete a rock? Why or why not?
+a. Thin sections allow the geologist to identify the chemicals within the minerals.
+b. Each mineral transmits polarized light differently and displays variations in colors.
+c. Looking at a thin section allows the geologist to see the atomic structure of the minerals.
+d. Cutting a thin section removes the weathered surface and shows the minerals’ true colors.
+ANS:
+
+2. Which of the images below shows a rock? Explain your reasoning.
+a. Thin sections allow the geologist to identify the chemicals within the minerals.
+b. Each mineral transmits polarized light differently and displays variations in colors.
+c. Looking at a thin section allows the geologist to see the atomic structure of the minerals.
+d. Cutting a thin section removes the weathered surface and shows the minerals’ true colors.
+ANS:
+
+3. List the three main rock groups and give a brief description of how each is formed.
+a. Thin sections allow the geologist to identify the chemicals within the minerals.
+b. Each mineral transmits polarized light differently and displays variations in colors.
+c. Looking at a thin section allows the geologist to see the atomic structure of the minerals.
+d. Cutting a thin section removes the weathered surface and shows the minerals’ true colors.
+ANS:
+
+4. Give the definition of rock texture.
+a. Thin sections allow the geologist to identify the chemicals within the minerals.
+b. Each mineral transmits polarized light differently and displays variations in colors.
+c. Looking at a thin section allows the geologist to see the atomic structure of the minerals.
+d. Cutting a thin section removes the weathered surface and shows the minerals’ true colors.
+ANS:
+
+5. How is a thin section made, and what is it used for?

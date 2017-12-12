@@ -1,0 +1,382 @@
+FIXED
+
+
+1. Material through which water readily flows is termed ________.
+a. fluent
+b. porous
+c. permeable
+d. fluid
+ANS: C
+
+2. A relatively impermeable layer of rock or sediment is termed a(n) ________ in hydrogeologic contexts.
+a. aquitard
+b. confined aquifer
+c. unconfined aquifer
+d. unsaturated zone
+ANS: A
+
+3. The rate of groundwater flow per unit area through a body of rock or sediment depends ________.
+a. only on the slope of the local water table
+b. only on the porosity of the rock or sediment
+c. on the slope of the water table and the porosity of the rock or sediment
+d. on the slope of the water table and the permeability of the rock or sediment
+ANS: D
+
+4. Rates of groundwater flow are ________ than stream flow because the water ________.
+a. higher; can flow through large caverns
+b. higher; does not have any obstacles to overcome
+c. lower; contains dissolved ions that slow it down
+d. lower; must make its way through tiny pore spaces
+ANS: D
+
+5. Groundwater ________.
+a. does not affect the porosity of the rock and sediment through which it flows
+b. uniformly increases porosity because of the dissolution of grains
+c. uniformly decreases porosity because of the deposition of minerals into pores
+d. may increase or decrease porosity through dissolution or deposition
+ANS: D
+
+6. If a material is porous, it ________.
+a. will be permeable as well
+b. will be impermeable
+c. may be permeable or impermeable
+d. would not be permeable or impermeable
+ANS: C
+
+7. A regular kitchen sponge has ________ porosity but ________ permeability.
+a. high; high
+b. low; high
+c. high; low
+d. no; high
+ANS: C
+
+8. You are attempting to calculate the discharge of groundwater in the Marshak Aquifer. The measured height of the water table in Well A is 300 and is 175 m in Well B, and the wells are 15,000 m apart. The Marshak Aquifer is composed of fine-grained sandstone with a hydraulic conductivity of 3 × 10 –5 m/s, and a cross-sectional area of 2 m2. What is the discharge of the Marshak Aquifer?
+a. 0.5 × 10 –7 m/s
+b. 6.0 × 10 5 m/s
+c. 5.0 × 10 5 m/s
+d. 5.0 × 10 –7 m/s
+ANS: D
+
+9. You are performing a dye trace study in which you add some dye to a recharge area of the Norton Aquifer and monitor various wells drilled into the aquifer to watch for the dye to appear. You have determined that the effective velocity of groundwater in the Norton Aquifer is 7.5 × 10–7 m/s, and you are monitoring wells at distances of 0.5 m (Well A), 2 m (Well B), and 100 m (Well C) from the recharge area. When do you expect the dye to appear at each well site?
+a. Well A = ~7 days, Well B = ~30 days, and Well C = ~4 years
+b. Well A = ~6 seconds, Well B = ~3 seconds, and Well C = ~133 seconds
+c. Well A = ~1.5 × 10 –6 seconds, Well B = ~3.75 × 10 –7 seconds, and Well C = ~7.5 × 10 –9 seconds
+d. Well A = ~7 years, Well B = ~30 years, and Well C = ~4 years
+ANS: A
+
+10. The hydraulic gradient in Darcy’s law is essentially the same as which of the following?
+a. the slope of a line
+b. the quadratic equation
+c. a Pythagorean triangle
+d. the area of a triangle
+ANS: A
+
+11. As a rule, groundwater always flows from areas of ________.
+a. greater elevation to those of lesser elevation
+b. greater water pressure to those of lesser water pressure
+c. greater hydraulic head to those of lesser hydraulic head
+d. lower hydraulic head to those of greater hydraulic head
+ANS: C
+
+12. Permeable rock or sediment between the water table and the land surface represents a(n) ________.
+a. aquitard
+b. confined aquifer
+c. unconfined aquifer
+d. unsaturated zone
+ANS: D
+
+13. The water table surface mimics the topography in an area because ________.
+a. hydraulic head forces it to stay close to the surface
+b. the permeability is lowest in hilly areas
+c. groundwater cannot penetrate below aquitards
+d. groundwater flow rates are so low
+ANS: D
+
+14. The elevation of the water table ________.
+a. is a constant for a given area so long as the topography remains the same
+b. may rise during times of drought and sink during rainy periods
+c. may rise during rainy periods and sink during droughts
+d. is completely unpredictable
+ANS: C
+
+15. Consult the figure below. Where is the hydraulic head the highest and why?
+a. A, because there is more rock above it.
+b. A, because there is more water above it.
+c. B, because there is less rock above it.
+d. B, because there is less water above it.
+ANS: B
+
+16. Imagine you are digging a hole when the hole suddenly starts to fill with water. What have you found?
+a. the capillary zone
+b. the vadose zone
+c. the water table
+d. an aquitard
+ANS: C
+
+17. Imagine you are drilling and find water; how would you be able to tell if you have found a perched aquifer?
+a. The water table is too high.
+b. The water table is too low.
+c. The water will be saltier.
+d. The water will be contaminated.
+ANS: A
+
+18. Which of the following statements about the water table is FALSE?
+a. The water table will mimic the topography in an area.
+b. The top surface of the saturated zone is the water table.
+c. A permanent river lies at or below the water table.
+d. The water table is also called the potentiometric surface.
+ANS: D
+
+19. Any place where groundwater naturally flows out of Earth’s surface is termed a(n) ________.
+a. artesian well
+b. regular well
+c. spring
+d. recharge area
+ANS: C
+
+20. A well that flows without pumping is called a(n) ________ well.
+a. ordinary
+b. artesian
+c. pressurized
+d. recharged
+ANS: B
+
+21. In order for a well to function properly it must be drilled below the water table and into a(n) ________.
+a. aquifer
+b. aquitard
+c. spring
+d. geyser
+ANS: A
+
+22. A flowing artesian well is one that ________.
+a. discharges groundwater at the ground surface without pumping
+b. has its intake sited within the vadose zone of an unconfined aquifer
+c. has its intake sited within the unsaturated zone of an unconfined aquifer
+d. has its recharge area at an elevation below sea level
+ANS: A
+
+23. Recharge areas for artesian wells and springs are generally in the ________.
+a. desert
+b. mountains
+c. ocean
+d. flatlands
+ANS: B
+
+24. Why does an artesian well flow without pumping?
+a. The water table is at the surface in an artesian aquifer.
+b. The hydraulic head is very low in the aquifer.
+c. The water in an unconfined aquifer is pressurized.
+d. The water in a confined aquifer is pressurized.
+ANS: D
+
+25. You have a choice to drill your water well into a shallow, unconfined aquifer or a deeper artesian aquifer. Drilling deeper will cost more money; however, you chose to drill into the artesian aquifer. Why?
+a. The artesian aquifer will have a higher permeability.
+b. The artesian aquifer will not be subject to overpumping.
+c. The artesian aquifer will flow on its own, without a pump.
+d. The artesian aquifer will contain more water for your use.
+ANS: C
+
+26. What does it mean if the potentiometric surface does NOT reach above the ground surface?
+a. The aquifer does not have any recharge into it and thus is dry.
+b. There will never be any artesian wells or springs associated with the aquifer.
+c. It will not be possible to pull water out of the aquifer from any type of well.
+d. The aquifer does not have a high enough permeability to produce water.
+ANS: B
+
+27. A(n) ________ spring is an area where hot water naturally seeps from the ground.
+a. artesian
+b. hot
+c. perched
+d. frio
+ANS: B
+
+28. A periodic explosive eruption of steam and water from within the ground up through the surface is termed a(n) ________.
+a. artesian well
+b. geyser
+c. spring
+d. recharge area
+ANS: B
+
+29. ________ regions are heated by volcanic sources.
+a. Hydrothermal
+b. Thermo-volcanic
+c. Geothermal
+d. Volcanothermal
+ANS: C
+
+30. Hot groundwater is mineralized because ________.
+a. minerals cannot precipitate in hot water
+b. the hot water dissolves minerals
+c. cold water cannot dissolve minerals
+d. it runs through layers containing salts
+ANS: B
+
+31. Hot springs can be formed by the heating of groundwater by magma or by ________.
+a. decompression heating
+b. infrared heating by the Sun
+c. the geothermal gradient
+d. heating by the core
+ANS: C
+
+32. Ultimately geysers erupt due to the ________.
+a. periodic opening and closing of a fracture
+b. mixing of hot and cold water to form steam
+c. decrease in pressure as water rises
+d. increase in pressure from the hot water
+ANS: D
+
+33. Where would you expect to find geysers?
+a. Iceland
+b. England
+c. Antarctica
+d. Greenland
+ANS: A
+
+34. Pumping vast quantities of water locally ________.
+a. raises the local water table
+b. lowers the local water table, forming a cone-shaped depression
+c. lowers the local water table, forming a cylindrical depression
+d. does not affect the water table
+ANS: B
+
+35. Land subsidence is likely when ________.
+a. groundwater recharge occurs
+b. the calcium content of groundwater increases
+c. the water table rises
+d. discharge lowers the water table
+ANS: D
+
+36. Hard water results from relatively high concentrations of dissolved ________.
+a. calcium and magnesium
+b. francium and cesium
+c. sodium
+d. potassium
+ANS: A
+
+37. Overpumping can lead to ________ of the ground surface.
+a. mineralization
+b. heating
+c. uplift
+d. subsidence
+ANS: D
+
+38. Consult the figure below. What will eventually happen to the Everglades if the people of Miami and Fort Myers do not stop using the water?
+a. It will shift toward Lake Okeechobee.
+b. It will eventually dry up and disappear.
+c. It will shift to be closer to Fort Myers.
+d. It will be replenished by recharge.
+ANS: B
+
+39. A(n) ________ aquifer is more likely to be contaminated than a(n) ________ aquifer.
+a. confined; unconfined
+b. unconfined; confined
+c. artesian; surficial
+d. sandstone; limestone
+ANS: B
+
+40. You are testing the groundwater quality of an aquifer and find that it has high amounts of arsenic. What is the likely source?
+a. The arsenic comes from the dissolved minerals in the aquifer rock.
+b. The arsenic comes from the reaction of the water with your testing supplies.
+c. The arsenic is being poured into the groundwater to poison the town.
+d. The arsenic is not actually there; it does not show up in groundwater.
+ANS: A
+
+41. Consult the figure below. If someone were to dump chemicals into a dry river, what would happen to those chemicals?
+a. They would evaporate into the atmosphere and no longer be a danger.
+b. They would remain in the soil but would not make it into the groundwater.
+c. They would seep into the groundwater but flow away from the city’s wells.
+d. They would end up flowing with the groundwater toward the city’s wells.
+ANS: D
+
+42. You have a choice to drill your water well into a shallow, unconfined aquifer or a deep, confined aquifer. Drilling deeper will cost more money; however, you chose to drill into the confined aquifer. Why?
+a. The confined aquifer will most likely have a higher water quality.
+b. The confined aquifer will most likely have a higher permeability.
+c. The confined aquifer will not be subject to overpumping.
+d. The confined aquifer will contain more water.
+ANS: A
+
+43. During a particularly cold winter in Florida, the temperatures remained below freezing for several weeks. To avoid freeze damage to the crops, farmers used well water to continuously spray the crops and maintain a protective coating of ice around the crops. Shortly after this long cold snap, sinkholes began forming throughout the region. Were these events linked?
+a. No; watering crops does not cause the formation of sinkholes.
+b. No; sinkholes form in a karst landscape, on which farmers cannot farm.
+c. Yes; the farmers removed too much water from the aquifers and induced subsidence.
+d. Yes; the farmers added too much weight to the surface and induced subsidence.
+ANS: C
+
+44. Topography dominated by depressions formed by the collapse of caves is termed a ________.
+a. valley and ridge province
+b. karst landscape
+c. horst and graben landscape
+d. speleothem formation
+ANS: B
+
+45. The majority of caves are formed by the dissolution of bedrock ________.
+a. above the water table
+b. just below the water table
+c. greater than 10 m below the water table
+d. greater than 10 m above the water table
+ANS: B
+
+46. Sinkholes are a concern primarily for residents whose dwellings are constructed atop ________.
+a. sandstone
+b. shale
+c. limestone
+d. granite
+ANS: C
+
+47. The majority of large cave and karst systems have resulted from ________ etching into ________.
+a. carbonic acid; limestone
+b. ascorbic acid; dolostone
+c. phosphoric acid; shale
+d. sea water; rock salt
+ANS: A
+
+48. Karst terrain forms in areas that are covered in which type of rock?
+a. basalt
+b. sandstone
+c. limestone
+d. mudstone
+ANS: C
+
+49. Caves are habitats for many species of animals that are ________.
+a. florescent
+b. poisonous
+c. deaf
+d. blind
+ANS: D
+
+50. In many areas with karst terrain, people use sinkholes as places to dump garbage. What effect might this practice have on the groundwater supply?
+a. None; sinkholes are not connected to groundwater sources.
+b. It clogs the sinkholes so that water cannot percolate into the groundwater.
+c. It could block the groundwater discharge from unconfined aquifers only.
+d. It could contaminate the groundwater in any or all aquifers in the area.
+ANS: D
+
+1. What are porosity and permeability, and how do they affect the rate of groundwater flow?
+a. None; sinkholes are not connected to groundwater sources.
+b. It clogs the sinkholes so that water cannot percolate into the groundwater.
+c. It could block the groundwater discharge from unconfined aquifers only.
+d. It could contaminate the groundwater in any or all aquifers in the area.
+ANS:
+
+2. Label the three zones that water moves through as it percolates into Earth on the image below. Also include where the water table is by marking it with an arrow.
+a. None; sinkholes are not connected to groundwater sources.
+b. It clogs the sinkholes so that water cannot percolate into the groundwater.
+c. It could block the groundwater discharge from unconfined aquifers only.
+d. It could contaminate the groundwater in any or all aquifers in the area.
+ANS:
+
+3. The images below are of two different geological scenarios in which springs could form. Describe the similarities and differences between these two scenarios.
+a. None; sinkholes are not connected to groundwater sources.
+b. It clogs the sinkholes so that water cannot percolate into the groundwater.
+c. It could block the groundwater discharge from unconfined aquifers only.
+d. It could contaminate the groundwater in any or all aquifers in the area.
+ANS:
+
+4. List and describe one possible effect from overpumping.
+a. None; sinkholes are not connected to groundwater sources.
+b. It clogs the sinkholes so that water cannot percolate into the groundwater.
+c. It could block the groundwater discharge from unconfined aquifers only.
+d. It could contaminate the groundwater in any or all aquifers in the area.
+ANS:
+
+5. Explain how caves are formed, making sure to include the name of the acid involved and how it forms.

@@ -1,0 +1,382 @@
+FIXED
+
+
+1. Slumps typically arrive ________ at the bottom of a slope.
+a. vertically stacked
+b. intact
+c. flattened
+d. jumbled
+ANS: B
+
+2. Which of the following types of mass movement often travels as a coherent mass down a curved surface?
+a. slump
+b. creep
+c. rock slide
+d. mudflow
+ANS: A
+
+3. Some landslides include a mixture of loose sediment and debris called ________.
+a. bedrock
+b. regolith
+c. sully
+d. substratum
+ANS: B
+
+4. Geologists distinguish among different types of mass wasting based on factors such as the ________ of the moving material and the rate of movement.
+a. weight
+b. color
+c. composition
+d. name
+ANS: C
+
+5. Which of the following types of mass movement takes place most gradually?
+a. slump
+b. creep
+c. rock slide
+d. mudflow
+ANS: B
+
+6. Which of the following types of mass movement is LEAST coherent (most like a fluid)?
+a. slump
+b. creep
+c. rock slide
+d. mudflow
+ANS: D
+
+7. What type of mass movement is an area that shows bowed out tree trunks and misaligned fences?
+a. rock fall
+b. mudflow
+c. creep
+d. debris slide
+ANS: C
+
+8. What type of mass movement would you expect to form in a slot canyon (steep-walled canyon)?
+a. avalanche
+b. rock fall
+c. slump
+d. lahar
+ANS: B
+
+9. The image below shows a cut bank along a river that was formed by a ________.
+a. lahar
+b. rock fall
+c. slump
+d. debris slide
+ANS: C
+
+10. The principal difference between a debris flow and a mudflow is ________.
+a. the shape of the path taken by the moving mass
+b. the grain size of the moving mass
+c. that a debris flow contains abundant water, whereas a mudflow is dry
+d. that a debris flow contains pyroclastic debris from a volcanic eruption
+ANS: B
+
+11. The principal difference between a debris flow and a debris slide is ________.
+a. the shape of the path taken by the moving mass
+b. the grain size of the moving mass
+c. that a debris flow contains abundant water, whereas a debris slide is dry
+d. that a debris flow contains pyroclastic debris from a volcanic eruption
+ANS: C
+
+12. For dry, fine-grained sediments, the angle of repose is typically between ________ and ________ degrees.
+a. 10; 17
+b. 15; 22
+c. 20; 27
+d. 30; 45
+ANS: D
+
+13. The ________ in the sequence of sedimentary rocks shown below may become a failure surface. 
+a. bedding planes
+b. exfoliation joints
+c. foliation planes
+d. uplift planes
+ANS: A
+
+14. The most important factor in determining if an area will be subject to mass movement is ________.
+a. relief
+b. gravity
+c. weather
+d. water content
+ANS: A
+
+15. Which of the following increases the risk of mass movement?
+a. adding a small amount of moisture to loose, dry sediment
+b. waves breaking before they reach sea cliffs
+c. flooding the sediment with water to the point of saturation
+d. reducing the grade of the slope
+ANS: C
+
+16. Well-rounded sand has a smaller ________ than irregularly shaped gravel.
+a. cohesion
+b. angle of repose
+c. mineral stability
+d. cross-sectional area
+ANS: B
+
+17. Moisture among sediment grains ________.
+a. always increases the likelihood of mass wasting
+b. always decreases the likelihood of mass wasting
+c. can promote stability if present in small amounts
+d. can promote stability if the grains are saturated
+ANS: C
+
+18. If all else is equal, which situation would be the most stable?
+a. a slope dipping 30 degrees made of saturated sand
+b. a slope dipping 30 degrees made of damp sand
+c. a slope dipping 30 degrees made of dry sand
+d. a slope dipping 28 degrees made of saturated sand
+ANS: B
+
+19. Which of the following would decrease the resistance force?
+a. lowering the slope angle
+b. adding a small amount of water
+c. chemical weathering of the slope
+d. adding material to the base of the hill
+ANS: C
+
+20. You are a geologist trying to determine if the slope on which your client’s house sits is stable. You determine that the angle of repose of the hillside is 35 degrees. Which of the following situations would be considered stable?
+a. The slope is composed of saturated sand.
+b. The slope is composed of dry sand.
+c. The slope is composed of damp sand.
+d. The slope is composed of dry gravel.
+ANS: D
+
+21. Why does adding a small amount of water to a substance increase its cohesion but adding a lot of water decrease its cohesion?
+a. A small amount of water decreases surface tension, allowing the grains to bond together, whereas too much water will increase surface tension and force the grains away from each other.
+b. A small amount of water increases surface tension and holds the grain together. Too much water between the grains will eliminate surface tension.
+c. Water has a small electrostatic force that disrupts the gravitational attraction of the grains and forces them to move away from each other.
+d. A small amount of water will precipitate cement into the pores of the material, whereas too much water will not allow that cement to form.
+ANS: B
+
+22. As ________ occurs, intact rock is broken down into smaller, weaker pieces called sediment.
+a. an avalanche
+b. cohesion
+c. solifluction
+d. weathering
+ANS: D
+
+23. The immediate cause of incidents of mass movement is ________.
+a. static
+b. gravity
+c. magnetism
+d. friction
+ANS: B
+
+24. Unstable slopes start to move when the ________ force exceeds the ________ force that holds the material in place.
+a. downslope; gravity
+b. resistance; downslope
+c. downslope; resistance
+d. gravity; resistance
+ANS: C
+
+25. Slope failures are most likely to occur in ________ conditions.
+a. dry, mountainous
+b. dry, flat
+c. wet, mountainous
+d. wet, flat
+ANS: C
+
+26. Which of the following would NOT be a failure trigger?
+a. shaking from earthquakes
+b. undercutting a slope
+c. large amounts of time
+d. adding some water to a slope
+ANS: D
+
+27. Weathering is a failure trigger because it ________ of the material.
+a. decreases the cohesion
+b. increases the friction
+c. decreases the weight
+d. takes vegetation off
+ANS: A
+
+28. Which type of trigger would be more likely to cause slope failure along a newly built roadway?
+a. liquefaction
+b. steepening the slope
+c. the addition of weight
+d. exposure of fresh rock
+ANS: B
+
+29. Which of the following situations may lead to slope failure?
+a. the addition of a small amount of water to a slope
+b. installing a chain-link fence over a slope
+c. undercutting a slope by a bulldozer
+d. regrading a steep slope to create a gentler slope
+ANS: C
+
+30. Which of the following factors decreases the risk of mass movement?
+a. nearby earthquakes
+b. excavation into the base of a hill
+c. adding weight to the top of a hill
+d. adding vegetation to the side of a hill
+ANS: D
+
+31. ________ is a region that is plagued by mass wasting events.
+a. California
+b. Texas
+c. Florida
+d. Nebraska
+ANS: A
+
+32. Landslides are more likely to occur in ________ regions.
+a. arid
+b. tropical
+c. parched
+d. desiccated
+ANS: B
+
+33. ________ is more likely to experience lahars.
+a. Mount Everest
+b. Mount St. Helens
+c. Mount Denali (Mount McKinley)
+d. The Materhorn
+ANS: B
+
+34. A(n) ________ area would be most likely to experience a slope failure.
+a. desert
+b. rugged
+c. hilly
+d. ocean floor
+ANS: B
+
+35. Why would landslides be LESS likely to occur in areas that receive only moderate amounts of rainfall?
+a. Small amounts of rain increase weathering.
+b. Small amounts of rain increase vegetation.
+c. Large amounts of rain increase cohesion.
+d. Small amounts of rain increase cohesion.
+ANS: D
+
+36. A slope in a ________ environment would be much more likely to experience ________ and thus be more susceptible to slope failure.
+a. humid; loss of vegetation
+b. humid; weathering
+c. dry; an increase in water
+d. dry; weathering
+ANS: B
+
+37. Which of the following figures shows an area that would be most susceptible to slope failure?
+a. a
+b. b
+c. c
+d. d
+ANS: B
+
+38. Which area would be most likely to host a slope failure?
+a. the coast of Florida
+b. a desert in California
+c. mesas in Arizona
+d. the coast of California
+ANS: D
+
+39. Which of the following situations is the most likely candidate for the occurrence of mass movements?
+a. a flat, desert area with little vegetation
+b. a gentle slope along the coastline that is across a highway from the surf zone
+c. gently sloping hills in the tropics
+d. a mountain terrain in a humid environment
+ANS: D
+
+40. Slope failures are more likely to occur in ________ than in ________.
+a. forests; deserts
+b. mountains; deserts
+c. deserts; mountains
+d. deserts; forests
+ANS: B
+
+41. ________ are evidence of the toe of a landslide.
+a. Dead trees
+b. Bowed trees
+c. Hummocky ridges
+d. Head scarps
+ANS: C
+
+42. ________ is often a sign of mass movement.
+a. A crack in the ground surface
+b. Water leaking out of a hillside
+c. New vegetation growth
+d. Flat sloping ground
+ANS: A
+
+43. ________ consist(s) of large boulders placed at the base of slopes.
+a. Rock dams
+b. Rock sheds
+c. Riprap
+d. Retaining walls
+ANS: C
+
+44. Imagine you have just bought some property and notice that the trees on the slope have curved trunks. What type of landslide event do you likely have on your property?
+a. solifluction
+b. creep
+c. slump
+d. mudflow
+ANS: B
+
+45. How can you use a landslide hazard map to help buy a piece of property?
+a. to determine if there are large rivers running by the property
+b. to determine if the property is in a high-risk zone for landslides
+c. to determine if the property is near a high-risk flood zone
+d. to determine if the property has been exposed to fires recently
+ANS: B
+
+46. After finishing a new construction project, why is the first task often to install new landscaping around the area?
+a. The plants will provide nutrients for animals that will carry away the soil.
+b. The roots will grow into the slope and work to keep the slope intact.
+c. The plants will add additional weight to the slope and keep it stable.
+d. The roots take in oxygen and release it into the soil to increase surface tension.
+ANS: B
+
+47. In the figure below, what would be the most effective way to stabilize the slope, assuming that the slope is in a dry, desert environment?
+a. regrade the slope
+b. move the road
+c. add more vegetation
+d. install riprap
+ANS: A
+
+48. Imagine you have just bought some property and notice that the trees on the slope have curved trunks. What would be the most effective method to prevent additional movement of the hillside?
+a. regrade the slope
+b. remove the trees
+c. install riprap
+d. construct a retaining wall
+ANS: D
+
+49. What is the most effective means of mitigating the risk of a slope failure for the slope shown in the figure below?
+a. apply shotcrete
+b. revegetate with new plants
+c. install riprap
+d. dewater the slope
+ANS: C
+
+50. Construction workers often cut benches or terraces, such as those seen in the image below, along the sides of roads to help mitigate landslides. Why is this?
+a. Terraces provide flat areas where large trees and shrubs can be planted.
+b. Terraces mitigate slope failure by removing weight from the hillside.
+c. Terraces force cars to be farther from steep slopes that might fail.
+d. Terraces allow flat areas where houses can be built and not add weight.
+ANS: B
+
+1. Describe the similarities and differences between a debris flow and a debris slide.
+a. Terraces provide flat areas where large trees and shrubs can be planted.
+b. Terraces mitigate slope failure by removing weight from the hillside.
+c. Terraces force cars to be farther from steep slopes that might fail.
+d. Terraces allow flat areas where houses can be built and not add weight.
+ANS:
+
+2. Describe the factors that affect the resistance force and how they affect the stability of the slope.
+a. Terraces provide flat areas where large trees and shrubs can be planted.
+b. Terraces mitigate slope failure by removing weight from the hillside.
+c. Terraces force cars to be farther from steep slopes that might fail.
+d. Terraces allow flat areas where houses can be built and not add weight.
+ANS:
+
+3. Explain why time is often the most effective landslide trigger.
+a. Terraces provide flat areas where large trees and shrubs can be planted.
+b. Terraces mitigate slope failure by removing weight from the hillside.
+c. Terraces force cars to be farther from steep slopes that might fail.
+d. Terraces allow flat areas where houses can be built and not add weight.
+ANS:
+
+4. Why would Florida, which receives plentiful rainfall and remains humid for a large portion of the year, be less susceptible to landslides than the California desert?
+a. Terraces provide flat areas where large trees and shrubs can be planted.
+b. Terraces mitigate slope failure by removing weight from the hillside.
+c. Terraces force cars to be farther from steep slopes that might fail.
+d. Terraces allow flat areas where houses can be built and not add weight.
+ANS:
+
+5. Pick two ways of mitigating landslide hazards and describe how they work and what issues they may have?

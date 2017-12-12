@@ -1,0 +1,382 @@
+FIXED
+
+
+1. The breakdown of exposed rock into small fragments and dissolved ions is termed ________.
+a. deposition
+b. erosion
+c. weathering
+d. lithification
+ANS: C
+
+2. The removal of detritus from weathered rock at an outcrop is termed ________.
+a. deposition
+b. erosion
+c. weathering
+d. lithification
+ANS: B
+
+3. Lithification, the process by which sediments are turned into sedimentary rocks, includes  ________.
+a. erosion and transportation
+b. transportation and cementation
+c. erosion and deposition
+d. compaction and cementation
+ANS: D
+
+4. Cementation of sediments occurs when minerals ________ the spaces between sediment grains.
+a. swell into
+b. pass through
+c. precipitate in
+d. dissolve in
+ANS: C
+
+5. Compaction and cementation of grains occur during ________.
+a. erosion
+b. lithification
+c. transport
+d. weathering
+ANS: B
+
+6. Diagenesis refers to ________.
+a. the development of layering within sedimentary rocks
+b. the act of deposition of sediment that will ultimately form sedimentary rock
+c. physical and chemical alterations, including compaction and cementation, that occur as sediment is transformed into rock
+d. the natural process of separating sediment by grain size
+ANS: C
+
+7. Lithification occurs ________.
+a. in the shallow subsurface
+b. at the surface of Earth
+c. deep under the ground
+d. high in the mountains
+ANS: A
+
+8. As compared with metamorphism, diagenesis ________.
+a. means exactly the same thing
+b. takes place at lower temperatures and pressures
+c. takes place at higher temperatures and pressures
+d. takes place at greater depths that are well within the mantle
+ANS: B
+
+9. Which of the following processes involves the creation of ions in solution?
+a. deposition
+b. transportation
+c. erosion
+d. weathering
+ANS: D
+
+10. A gravel bar in a river is an example of a landform created by ________.
+a. deposition
+b. erosion
+c. transportation
+d. lithification
+ANS: A
+
+11. The elevation of a mountain is slowly decreased by weathering and ________.
+a. lithification
+b. sedimentation
+c. erosion
+d. deposition
+ANS: C
+
+12. If water is the transport mechanism of sediment, the grain size of sedimentary deposits most closely indicates the ________.
+a. geographic extent of the weathering source rock at outcrop
+b. average velocity of the water from the time of erosion until deposition
+c. velocity of the water at the moment the sediment settled to the bottom
+d. climate conditions at the time of deposition
+ANS: C
+
+13. Glacial till is composed of ________-sized particles.
+a. mud
+b. sand
+c. boulder
+d. all
+ANS: D
+
+14. Geologists call individual layers of sedimentary rocks ________, whereas several of them together are called ________.
+a. beds; strata
+b. strata; beds
+c. laminations; graded beds
+d. graded beds; laminations
+ANS: A
+
+15. Topset, foreset, and bottomset beds together are indicative of ________ environments.
+a. alluvial fan
+b. lake bottom
+c. delta
+d. deep-marine
+ANS: C
+
+16. Precipitation of gypsum due to evaporation of seawater produces which kind of sedimentary rock?
+a. biochemical
+b. chemical
+c. clastic
+d. organic
+ANS: B
+
+17. If a geologist found preserved mud cracks, he or she could conclude that the environment in which they formed ________.
+a. was once covered in wet mud
+b. was once covered by a glacier
+c. has been subjected to a major climate change event
+d. was the site of a mass extinction event
+ANS: A
+
+18. Grains become rounded primarily during ________.
+a. weathering at the outcrop
+b. lithification
+c. transportation
+d. deposition
+ANS: C
+
+19. What type of sediment is typically found in lake bottoms?
+a. gravel
+b. sand
+c. pebbles
+d. clay/mud
+ANS: D
+
+20. Consult the figure below. Here, distinct internal laminations are inclined at an angle to the boundary of the main sedimentary layers. This is termed ________.
+a. graded beds
+b. cross beds
+c. horizontal beds
+d. tilted beds
+ANS: B
+
+21. Siltstone or mudstone containing marine fossils likely formed in a ________ environment.
+a. shallow-marine
+b. deep-marine
+c. marine-delta
+d. coastal-beach
+ANS: A
+
+22. A well-sorted sandstone with asymmetric ripples was most likely deposited as sand by a(n) ________.
+a. river (far from source)
+b. glacier
+c. river (near source)
+d. alluvial fan
+ANS: A
+
+23. The image below shows a series of graded beds. How many full sets of graded beds are shown?
+a. 1
+b. 3
+c. 12
+d. 15
+ANS: B
+
+24. What is the difference between the formations of chalk versus chert?
+a. They have different grain sizes.
+b. They are made of different source materials.
+c. Chalk is terrestrial; chert is marine.
+d. Chalk is biochemical; chert is chemical.
+ANS: B
+
+25. Because the velocity of sediment settling (deposition) is positively related to grain size for waterborne sediments, fluvial deposits are more likely than glacial deposits to ________.
+a. be well sorted
+b. include coarse grains, such as cobbles
+c. include fine grains, such as clay
+d. have angular grains
+ANS: A
+
+26. A fine-grained clastic sedimentary rock that splits into thin sheets is ________.
+a. mudstone
+b. shale
+c. sandstone
+d. arkose
+ANS: B
+
+27. The primary difference between breccia and conglomerate is that conglomerate ________.
+a. is finer grained than breccia
+b. is coarser grained than breccia
+c. possesses more angular grains than breccia
+d. possesses more rounded grains than breccia
+ANS: D
+
+28. The majority of the rocks that are formed at the surface of Earth are ________ rocks.
+a. intrusive igneous
+b. extrusive igneous
+c. sedimentary
+d. metamorphic
+ANS: C
+
+29. Two major sources of energy, coal and oil shale, are considered ________ sedimentary rocks.
+a. clastic
+b. biochemical
+c. organic
+d. chemical
+ANS: C
+
+30. Lithified detritus (breakdown products of preexisting rocks) forms which kind of sedimentary rock?
+a. biochemical
+b. chemical
+c. clastic
+d. organic
+ANS: C
+
+31. When limestone becomes chemically altered so that half of the calcium atoms are replaced by magnesium, the resultant rock is termed ________.
+a. agate
+b. dolostone
+c. jasper
+d. travertine
+ANS: B
+
+32. Clastic sedimentary rocks are primarily classified on the basis of ________.
+a. grain size
+b. degree of sorting
+c. angularity
+d. mineral composition
+ANS: A
+
+33. Scour marks are an indicator of ________.
+a. submarine landslides
+b. quiet, still water
+c. arid environments
+d. current flow
+ANS: D
+
+34. Cemented shells of marine organisms form which kind of sedimentary rock?
+a. biochemical
+b. chemical
+c. clastic
+d. organic
+ANS: A
+
+35. Biochemical limestones are dominated by carbonate mud and fragments of ________.
+a. siliceous shells of planktonic diatoms and foraminifera
+b. skeletons of marine invertebrates made of calcite and aragonite
+c. the phosphatic bones of fish
+d. the organic breakdown products of wood and leaves from trees
+ANS: B
+
+36. The image below shows an outcrop of coarse-grained sedimentary rock. Note the rock hammer for scale. What is the name of this rock type?
+a. sandstone
+b. shale
+c. breccia
+d. conglomerate
+ANS: D
+
+37. Which of the following is FALSE? As compared to arkose, quartz sandstone ________.
+a. contains more angular grains
+b. does not contain significant amounts of feldspar
+c. is likely to be found farther away from weathering granitic source rock
+d. is considered to be more compositionally mature
+ANS: A
+
+38. Which of the following does NOT reflect transport distance?
+a. angularity
+b. type of cement
+c. sphericity
+d. mineral content
+ANS: B
+
+39. Large layers of cross-bedded sand can be indicative of a ________ environment.
+a. submarine
+b. beach
+c. desert
+d. fluvial
+ANS: C
+
+40. Lake deposits tend to be composed of finely laminated mudstones, indicative of ________.
+a. quiet water
+b. oscillating waves
+c. bioturbation
+d. current flow
+ANS: A
+
+41. ________ basins contain the largest accumulation of marine sediments.
+a. Rift
+b. Passive-margin
+c. Foreland
+d. Intracontinental
+ANS: B
+
+42. Basins that form on the continental side of mountain ranges are called ________ basins.
+a. rift
+b. passive-margin
+c. foreland
+d. intracontinental
+ANS: C
+
+43. Shallow-marine deposits tend to have abundant fossils due to their proximity to ________.
+a. reefs
+b. beaches
+c. deltas
+d. rivers
+ANS: A
+
+44. Thick accumulations of sediments and fossils in the deep ocean tend to be ________-sized due to the low amounts of energy.
+a. cobble
+b. gravel
+c. clay
+d. sand
+ANS: C
+
+45. Beach sediments travel ________ the ocean during a transgression and ________ the ocean during a regression.
+a. toward; away from
+b. away from; toward
+c. parallel to; perpendicular to
+d. perpendicular to; parallel to
+ANS: B
+
+46. Sedimentary basins are often subject to ________, which allows them to fill with thick accumulations of sediments.
+a. erosion
+b. diagenesis
+c. uplift
+d. subsidence
+ANS: D
+
+47. If a geologist finds thick accumulations of fossiliferous limestone, in what type of basin might they have been formed?
+a. passive-margin
+b. intracontinental
+c. rift
+d. foreland
+ANS: A
+
+48. The image below shows a layer of ________, which is an accumulation of dead plant material.
+a. limestone
+b. coal
+c. sandstone
+d. chalk
+ANS: B
+
+49. Sea level rises locally, and marine sediments are deposited on top of terrestrial sediments during events termed ________.
+a. transgressions
+b. regressions
+c. turbidity currents
+d. cross bedding
+ANS: A
+
+50. Which of the following is FALSE about regressions?
+a. They are not typically well preserved in the sedimentary record.
+b. They can occur when the climate warms and continental ice sheets melt.
+c. They occur when the land is uplifted by tectonic processes.
+d. Coastal environments will migrate seaward.
+ANS: B
+
+1. Describe the difference between lithification and diagenesis.
+a. They are not typically well preserved in the sedimentary record.
+b. They can occur when the climate warms and continental ice sheets melt.
+c. They occur when the land is uplifted by tectonic processes.
+d. Coastal environments will migrate seaward.
+ANS:
+
+2. Describe the depositional environment that formed the layers shown in the image below.
+a. They are not typically well preserved in the sedimentary record.
+b. They can occur when the climate warms and continental ice sheets melt.
+c. They occur when the land is uplifted by tectonic processes.
+d. Coastal environments will migrate seaward.
+ANS:
+
+3. Limestone can be either a biochemical or a chemical sedimentary rock. Explain how both types of limestone are formed. Make sure to describe the environments in which they were formed.
+a. They are not typically well preserved in the sedimentary record.
+b. They can occur when the climate warms and continental ice sheets melt.
+c. They occur when the land is uplifted by tectonic processes.
+d. Coastal environments will migrate seaward.
+ANS:
+
+4. What traits would a clastic sedimentary rock have if it had traveled far from its source and was carried in a current with uniform energy? What environment would this be?
+a. They are not typically well preserved in the sedimentary record.
+b. They can occur when the climate warms and continental ice sheets melt.
+c. They occur when the land is uplifted by tectonic processes.
+d. Coastal environments will migrate seaward.
+ANS:
+
+5. In which of the following three basin types might you be able to find oil forming and why? Rift basin, passive-margin basin, and foreland basin.

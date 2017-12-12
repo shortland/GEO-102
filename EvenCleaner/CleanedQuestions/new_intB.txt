@@ -1,0 +1,207 @@
+FIXED
+
+
+1. Which of the following is a type of physical weathering?
+a. thermal expansion
+b. dissolution
+c. oxidation
+d. hydration
+ANS:ADIF:EasyREF:B.2
+
+2. Chemical weathering involves the breakdown of material due to ________.
+a. mechanical breakdown of rock
+b. baking in the hot sun
+c. interaction with molten rock
+d. interaction with water or air
+ANS:DDIF:EasyREF:B.2
+
+3. Dissolution occurs when minerals ________.
+a. are dissolved into water
+b. are turned into rust
+c. absorb water and expand
+d. are removed by frost
+ANS:ADIF:ModerateREF:B.2
+
+4. Which type of weathering process is happening to materials when they rust?
+a. hydrolysis
+b. hydration
+c. oxidation
+d. dissolution
+ANS:CDIF:ModerateREF:B.2
+
+5. Why does physical weathering speed up the processes of chemical weathering?
+a. Physical weathering requires abundant water, as does chemical weathering.
+b. Physical weathering produces fresh surfaces for chemical weathering to attack.
+c. Chemical weathering can occur only on small surfaces, not large ones.
+d. Chemical weathering requires salt, which is provided by salt wedging.
+ANS:BDIF:DifficultREF:B.2
+
+6. The following is a picture of what type of phenomenon?
+a. jointing
+b. differential weathering
+c. chemical weathering
+d. hydration
+ANS:ADIF:EasyREF:B.2
+
+7. What type of weathering is shown in the following picture?
+a. salt wedging
+b. frost wedging
+c. oxidation
+d. hydration
+ANS:ADIF:ModerateREF:B.2
+
+8. What type of weathering has happened to the rocks in the following picture?
+a. hydrolysis
+b. hydration
+c. dissolution
+d. oxidation
+ANS:ADIF:DifficultREF:B.2
+
+9. What type of weathering are you likely to find occurring in areas with cold climates?
+a. hydrolysis
+b. frost wedging
+c. oxidation
+d. dissolution
+ANS:BDIF:ModerateREF:B.2
+
+10. Soil horizon ________ contains the most organic material.
+a. A
+b. O
+c. B
+d. E
+ANS:BDIF:ModerateREF:B.3
+
+11. Soil horizon ___________ contains weathered bedrock that has not yet undergone leaching.
+a. O
+b. C
+c. E
+d. B
+ANS:ADIF:ModerateREF:B.3
+
+12. The _______-horizon contains abundant sediment.
+a. O
+b. A
+c. B
+d. C
+ANS:ADIF:DifficultREF:B.3
+
+13. Sediment does NOT contain ________.
+a. fragments of shells
+b. fragments of rock
+c. cemented grains
+d. precipitated crystals
+ANS:CDIF:EasyREF:B.1
+
+14. The Dust Bowl of the 1930s was created by what phenomenon?
+a. increased rainfall
+b. lack of vegetation
+c. increased wind storms
+d. differential weathering
+ANS:BDIF:ModerateREF:B.3
+
+15. Which of the following images does NOT contain sediment?
+a. Figure A
+b. Figure B
+c. Figure C
+d. Figure D
+ANS:DDIF:EasyREF:B.1
+
+16. Which soil horizon is the most important to farmers for planting crops?
+a. C
+b. A
+c. E
+d. B
+ANS:BDIF:ModerateREF:B.3
+
+17. Why does the C-horizon contain little to no organic material?
+a. Water does not penetrate that far into the ground.
+b. The C-horizon contains toxins from the bedrock.
+c. Plants and animals do not live that far down.
+d. The C-horizon is saturated with water.
+ANS:CDIF:DifficultREF:B.3
+
+18. The zone of leaching is the area in which ________.
+a. weathered bedrock forms a soil horizon
+b. organic matter gathers to create a soil horizon
+c. minerals are precipitated and added to soil
+d. minerals are dissolved and removed from soil
+ANS:DDIF:EasyREF:B.3
+
+19. Which of the following does NOT affect soil thickness?
+a. time
+b. types of animals
+c. climate
+d. vegetation type
+ANS:BDIF:EasyREF:B.3
+
+20. ________ is the most important factor in determining soil thickness.
+a. Climate
+b. Composition
+c. Wetness
+d. Time
+ANS:ADIF:EasyREF:B.3
+
+21. Large amounts of ________ speed up decomposition and provide more organic material for the soil.
+a. microbes
+b. sediment
+c. quartz
+d. time
+ANS:ADIF:EasyREF:B.3
+
+22. A rock layer’s ________ will control the thickness of the soil formed.
+a. percentage of sand
+b. permeability
+c. time of deposition
+d. resistance to weathering
+ANS:DDIF:DifficultREF:B.3
+
+23. Which area will tend to have the thickest soil?
+a. mountains
+b. artic
+c. rain forest
+d. desert
+ANS:CDIF:EasyREF:B.3
+
+24. If the climate in an area has very little rainfall, what would be the characteristics of the soil in the area?
+a. thick, with a lot of organic material
+b. thin, with a lot of organic material
+c. thick, with very little organic material
+d. thin, with very little organic material
+ANS:DDIF:ModerateREF:B.3
+
+25. Which of the following is a reason why wet soils tend to have more organic material than dry soils?
+a. Physical weathering occurs more rapidly in wet areas than in dry areas.
+b. Plants and microbes need water to live so they can aid decomposition.
+c. Wet soils tend to be in areas with rocks that are easily weathered.
+d. Wet areas tend to be near mountains with large supplies of sediment.
+ANS:BDIF:ModerateREF:B.3
+
+1. What are the similarities and differences between physical and chemical weathering. Make sure to address both what is the same and what is different.
+a. Physical weathering occurs more rapidly in wet areas than in dry areas.
+b. Plants and microbes need water to live so they can aid decomposition.
+c. Wet soils tend to be in areas with rocks that are easily weathered.
+d. Wet areas tend to be near mountains with large supplies of sediment.
+ANS:
+
+2. Describe how physical and chemical weathering can work together to break down rocks.
+a. Physical weathering occurs more rapidly in wet areas than in dry areas.
+b. Plants and microbes need water to live so they can aid decomposition.
+c. Wet soils tend to be in areas with rocks that are easily weathered.
+d. Wet areas tend to be near mountains with large supplies of sediment.
+ANS:
+
+3. Describe the difference between sediment and soil.
+a. Physical weathering occurs more rapidly in wet areas than in dry areas.
+b. Plants and microbes need water to live so they can aid decomposition.
+c. Wet soils tend to be in areas with rocks that are easily weathered.
+d. Wet areas tend to be near mountains with large supplies of sediment.
+ANS:
+
+4. Label the different soil horizons on the image below, then provide a brief description of each horizon next to the corresponding layer.
+a. Physical weathering occurs more rapidly in wet areas than in dry areas.
+b. Plants and microbes need water to live so they can aid decomposition.
+c. Wet soils tend to be in areas with rocks that are easily weathered.
+d. Wet areas tend to be near mountains with large supplies of sediment.
+ANS:
+
+5. List one factor that controls the thickness of soil and describe how the thickness is controlled.

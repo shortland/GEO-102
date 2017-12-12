@@ -1,0 +1,382 @@
+FIXED
+
+
+1. Our Sun belongs to a galaxy known as ________.
+a. Andromeda
+b. Cepheus
+c. the Milky Way
+d. the Stratosphere
+ANS: C
+
+2. The ________ theory states that the Universe is continually growing.
+a. Big Bang
+b. expanding universe
+c. nebular expansion
+d. heliocentric
+ANS: B
+
+3. ________ is the study of the history and structure of the Universe.
+a. Geology
+b. Geophysics
+c. Physics
+d. Cosmology
+ANS: D
+
+4. Compared to our Sun, first-generation stars tend to be ________.
+a. larger in mass and cooler
+b. larger in mass and hotter
+c. smaller in mass and cooler
+d. smaller in mass and hotter
+ANS: B
+
+5. Atoms that are heavier than iron are generally produced by ________.
+a. fission reactions within stars
+b. fusion reactions within stars
+c. explosions of supernovas
+d. the Big Bang
+ANS: C
+
+6. Using the image below of an atom, where are the protons located?
+a. A
+b. B
+c. C
+d. D
+ANS:DDIF:EasyREF:Box 1.1
+
+7. If the temperature of a material is raised so high that electrons become stripped from atoms, what is formed?
+a. a gas
+b. a plasma
+c. a liquid
+d. a solid
+ANS:BDIF:DifficultREF:Box 1.1
+
+8. Which of the following bodies is the smallest?
+a. planet
+b. star
+c. protoplanet
+d. planetesimal
+ANS: D
+
+9. In the heliocentric model, ________.
+a. Earth orbits around the Sun
+b. the Sun orbits around Earth
+c. Earth is a stationary planet
+d. all planets orbit Earth
+ANS: A
+
+10. The Jovian planets are ________.
+a. Mars, Mercury, and Venus
+b. Mars, Venus, and Jupiter
+c. Jupiter, Saturn, Uranus, and Neptune
+d. Mars and Saturn
+ANS: C
+
+11. The Sun was created at the center of the accretionary disk when the temperature became high enough for ________ to occur.
+a. fusion
+b. fission
+c. combustion
+d. radiation
+ANS: A
+
+12. The planets orbit the Sun along the ________ plane.
+a. orbital
+b. concentric
+c. ecliptic
+d. rotational
+ANS: C
+
+13. Terrestrial planets are mainly composed of ________ while Jovian planets are made dominantly of ________.
+a. volatiles; rock and metals
+b. rock and metals; volatiles
+c. refractory materials; volatiles and metals
+d. volatiles and metals; refractory materials
+ANS: B
+
+14. An important contribution made by Copernicus is his (correct) assertion that the ________.
+a. Earth is spherical
+b. Sun is the center of the whole Universe
+c. Sun is the center of Earth’s orbit
+d. Earth is the center of the Universe
+ANS: C
+
+15. The image below represents which model of the solar system?
+a. lunarcentric
+b. electrocentric
+c. geocentric
+d. heliocentric
+ANS: C
+
+16. It is believed that our solar system resulted from a second- or third-generation nebula. How do we know this?
+a. The age of the Sun suggests this.
+b. The size of the Sun suggests this.
+c. The number of gas giants suggests this.
+d. The mix of complex elements suggests this.
+ANS: D
+
+17. The best estimate of when the Universe formed is ________.
+a. 13.7 Ma
+b. 13.8 Ga
+c. 4.57 Ma
+d. 4.57 Ga
+ANS: B
+
+18. The current estimate for the age of Earth of 4.57 Ga comes from ________.
+a. radiometric age dating of meteorites
+b. radiometric age dating of sedimentary rocks
+c. the light from distant galaxies
+d. the amount of nuclear fuel in the Sun
+ANS: A
+
+19. According to the Expanding Universe theory, our Universe is ________.
+a. expanding only
+b. contracting only
+c. not moving at all
+d. contracting and expanding
+ANS: A
+
+20. Differentiation of the core from the mantle early in Earth’s history was possible because the planet was ________ at the time.
+a. very cold
+b. very hot
+c. very small
+d. the only planet in the solar system
+ANS: B
+
+21. The process of differentiation results in all of the following EXCEPT ________.
+a. denser materials becoming concentrated near the cores of planets
+b. rocky material forming the mantles of planets
+c. planets becoming approximately spherical
+d. planets forming atmospheres
+ANS: D
+
+22. Which of the following images shows the formation of the Moon?
+a. A
+b. B
+c. C
+d. D
+ANS: C
+
+23. The age of the Universe is ________.
+a. less than the age of the Earth
+b. the exact same age as the Earth
+c. greater than the age of the Earth
+d. impossible to determine
+ANS: C
+
+24. According to the Big Bang theory, ________.
+a. Earth is much older than the rest of the Universe
+b. the Universe is much older than Earth
+c. Earth and the Universe formed at about the same time
+d. there is no way of knowing how old the Universe might be
+ANS: B
+
+25. The Earth’s magnetic field is a ________.
+a. monopole, as would be produced by just one pole of a magnet
+b. dipole, such as that produced by a bar magnet
+c. torus, a doughnut-shaped ring parallel to Earth’s equator
+d. sphere, following the shape of Earth
+ANS: B
+
+26. Presently, Earth’s atmosphere is dominated by which two gases?
+a. hydrogen and helium
+b. oxygen and carbon dioxide
+c. nitrogen and oxygen
+d. carbon dioxide and sulfur dioxide
+ANS: C
+
+27. The atmosphere is divided into several distinct layers. The layer we live in is called the ________.
+a. stratosphere
+b. thermosphere
+c. troposphere
+d. mesosphere
+ANS: C
+
+28. The image below shows Earth’s magnetic field. Earth’s magnetic field lines are distorted (i.e., not symmetrical) because ________.
+a. Earth is rapidly rotating around the Sun
+b. Earth is rotating on an internal axis
+c. convection is occurring in the outer core
+d. solar wind deflects Earth’s magnetic field lines
+ANS: D
+
+29. An aurora (shown below) is produced when ________.
+a. solar wind particles are directed toward the magnetic poles and excite atmospheric gases
+b. swamp gases rise from the arctic tundra and react with the upper atmosphere
+c. radiation in the Van Allen belts can be seen on a clear, cold night
+d. lightning travels from cloud to cloud rather than cloud to ground
+ANS: A
+
+30. If one were to ride a hot air balloon up into the atmosphere, one would experience the concentration of gases ________.
+a. becoming denser
+b. becoming less dense
+c. remaining the same
+d. increasing for the first 10 kilometers, then starting to decline
+ANS: B
+
+31. Volatile materials can exist as a gas at Earth’s surface. Which of the following is NOT a volatile material?
+a. water
+b. silicon
+c. hydrogen
+d. carbon dioxide
+ANS: B
+
+32. According to the image below, temperature increases within the stratosphere. Why is this?
+a. The stratosphere contains ozone, which absorbs radiation.
+b. The stratosphere is closer to the Sun, thus receives more heat.
+c. The heat from the troposphere rises into the stratosphere.
+d. The increase in pressure warms gases within the stratosphere.
+ANS: A
+
+33. The most common minerals within Earth are ________.
+a. silicates
+b. carbonates
+c. oxides
+d. hydroxides
+ANS: A
+
+34. Hot, liquid rock beneath Earth’s surface is termed ________.
+a. lava
+b. magma
+c. volatiles
+d. mantle
+ANS: B
+
+35. In the whole Earth, the four most common elements (by mass) are oxygen, silicon, magnesium, and ________.
+a. copper
+b. lead
+c. iron
+d. zinc
+ANS: C
+
+36. Which of the following is NOT required for a substance to be considered a mineral?
+a. It must be solid.
+b. It must be naturally occurring.
+c. It must contain carbon.
+d. It must have atoms arranged in an orderly pattern.
+ANS: C
+
+37. Which of the following lists compositions in order of increasing silica content?
+a. felsic, intermediate, ultramafic, mafic
+b. ultramafic, mafic, intermediate, felsic
+c. felsic, intermediate, mafic, ultramafic
+d. mafic, ultramafic, intermediate, felsic
+ANS: B
+
+38. Glass is different from a mineral because it ________.
+a. is not naturally occurring
+b. is not a solid
+c. does not have atoms arranged in an orderly pattern
+d. contains carbon and is therefore organic
+ANS: C
+
+39. If you were measuring the elevation of a mountain, you would be measuring variation in ________, whereas if you were doing the same on a midocean ridge, you would be measuring variation in ________.
+a. bathymetry; topography
+b. bathymetry; isostasy
+c. topography; isostasy
+d. topography; bathymetry
+ANS: D
+
+40. The density of rocks is generally related to composition. Which of the following choices places rock compositions in order of increasing density?
+a. felsic, intermediate, ultramafic, mafic
+b. ultramafic, mafic, intermediate, felsic
+c. felsic, intermediate, mafic, ultramafic
+d. mafic, ultramafic, intermediate, felsic
+ANS: C
+
+41. As compared to ultramafic rocks, mafic rocks have a ________.
+a. greater proportion of silica
+b. lesser proportion of silica
+c. greater proportion of iron and magnesium atoms
+d. greater density
+ANS: A
+
+42. The densest layer of Earth is the ________.
+a. crust
+b. mantle
+c. outer core
+d. inner core
+ANS: D
+
+43. The lithosphere is composed of the ________.
+a. crust only
+b. crust, mantle, and outer core
+c. top 100 meters of sediments and sedimentary rocks
+d. crust and the uppermost part of the mantle
+ANS: D
+
+44. The lithosphere lies directly above the ________.
+a. transition zone
+b. crust
+c. asthenosphere
+d. lower mantle
+ANS: C
+
+45. The distinction between the crust and the mantle is primarily on the basis of a difference in ________.
+a. composition
+b. color of minerals
+c. ability to flow
+d. distance from the Sun
+ANS: A
+
+46. In general, the mantle is made of the rock ________ and has a(n) ________ composition.
+a. granite; intermediate
+b. basalt; mafic
+c. gabbro; mafic
+d. peridotite; ultramafic
+ANS: D
+
+47. From left to right, correctly label each section of this slice of Earth. Note that 1 starts at the surface of Earth and 6 ends at the center of Earth.
+a. crust, liquid outer core, transition zone, solid inner core, upper mantle, lower mantle
+b. crust, upper mantle, transition zone, lower mantle, liquid outer core, solid inner core
+c. crust, transition zone, upper mantle, lower mantle, liquid outer core, solid inner core
+d. transition zone, crust, liquid outer core, solid inner core, upper mantle, lower mantle
+ANS: B
+
+48. As compared to the asthenosphere, the lithosphere is ________.
+a. cooler and more able to flow
+b. hotter and more able to flow
+c. cooler and less able to flow
+d. hotter and less able to flow
+ANS: C
+
+49. During a journey to the center of Earth, one would experience temperature ________.
+a. and pressure both increasing
+b. and pressure both decreasing
+c. increasing but pressure staying nearly the same
+d. remaining remarkably constant but pressure increasing
+ANS: A
+
+50. Which of the following statements about Earth’s core is FALSE?
+a. Its metallic content is likely similar to what has been found in metallic meteorites.
+b. It is partly liquid and partly solid.
+c. It is composed of an iron alloy (mostly iron with a few other metallic elements mixed in).
+d. By volume, it is the largest compositional layer of Earth.
+ANS: D
+
+1. Why was Pluto removed from the list of planets in our solar system?
+a. Its metallic content is likely similar to what has been found in metallic meteorites.
+b. It is partly liquid and partly solid.
+c. It is composed of an iron alloy (mostly iron with a few other metallic elements mixed in).
+d. By volume, it is the largest compositional layer of Earth.
+ANS:
+
+2. Scientist have estimated the age of Earth to be 4.57 Ga. What did they use to determine this age and why did they use it?
+a. Its metallic content is likely similar to what has been found in metallic meteorites.
+b. It is partly liquid and partly solid.
+c. It is composed of an iron alloy (mostly iron with a few other metallic elements mixed in).
+d. By volume, it is the largest compositional layer of Earth.
+ANS:
+
+3. Where does Earth’s magnetic field originate and what is the primary benefit of the magnetic field to life on Earth?
+a. Its metallic content is likely similar to what has been found in metallic meteorites.
+b. It is partly liquid and partly solid.
+c. It is composed of an iron alloy (mostly iron with a few other metallic elements mixed in).
+d. By volume, it is the largest compositional layer of Earth.
+ANS:
+
+4. What is the difference between a mineral and a glass?
+a. Its metallic content is likely similar to what has been found in metallic meteorites.
+b. It is partly liquid and partly solid.
+c. It is composed of an iron alloy (mostly iron with a few other metallic elements mixed in).
+d. By volume, it is the largest compositional layer of Earth.
+ANS:
+
+5. Draw a cross-section of Earth showing its layers. Label the layers and list the average composition of the layers.

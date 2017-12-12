@@ -1,0 +1,207 @@
+FIXED
+
+
+1. Rocks are often recycled in a series of processes known collectively as the ________.
+a. rock circle
+b. rock cycle
+c. recycling path
+d. recycling procession
+ANS:BDIF:EasyREF:C.1
+
+2. Which of the following statements best describes the rock cycle?
+a. Any rock can change into another rock based on the conditions to which the rock is subjected.
+b. Rocks change to other rocks based on specific pathways that must be followed.
+c. Rocks can change rock type but cannot be recycled into the same type they started as.
+d. Rocks move in set paths that were determined when the rock was first formed.
+ANS:ADIF:ModerateREF:C.1
+
+3. Mountain ranges contain some of the oldest rocks found on Earth. What is the likely fate of these old rocks?
+a. They will remain unchanged forever.
+b. They will be eroded away to form new rocks.
+c. They will be melted and erupted out of volcanoes.
+d. They will be eroded but will remain the same rocks.
+ANS:BDIF:EasyREF:C.2
+
+4. The oldest material found on Earth is a zircon grain that is 4.12 Ga. How come there are no rocks that are the same age as Earth (4.54 Ga)?
+a. We just have not found them yet.
+b. No rocks formed during that time.
+c. All rocks from that age have been recycled.
+d. Earth is not that old.
+ANS:CDIF:DifficultREF:C.1
+
+5. ________ is a process that contributes to the formation of melt in Earth.
+a. Metamorphism
+b. Lithification
+c. Erosion
+d. Subduction
+ANS:DDIF:ModerateREF:C.1
+
+6. Weathering of rocks produces ________, which can then be incorporated into ________ rocks.
+a. crystals; all types of
+b. crystals; igneous
+c. sediments; metamorphic
+d. sediments; sedimentary
+ANS:DDIF:EasyREF:C.1
+
+7. Burial of rocks can subject them to high heat and pressure, which can alter the ________ of the rocks.
+a. mineral assemblage
+b. elemental composition
+c. chemical content
+d. crystal fractionation
+ANS:ADIF:DifficultREF:C.1
+
+8. Identify which of the following paths could eventually transform a metamorphic rock into a sedimentary rock.
+a. erosion and deposition → burial → melting
+b. burial → erosion and deposition → melting
+c. burial → melting → erosion and deposition
+d. melting → erosion and deposition → melting
+ANS:CDIF:ModerateREF:C.2
+
+9. What is the name of the cycle shown in the picture?
+a. hydrologic cycle
+b. erosion cycle
+c. rock cycle
+d. carbon cycle
+ANS:CDIF:EasyREF:C.1
+
+10. What is the rock cycle?
+a. the cycle that rocks go through when interacting with water
+b. the transformation of one mineral type to another
+c. the transformation of one rock type to another
+d. the cycle that rocks undergo when interacting with air
+ANS:CDIF:EasyREF:C.1
+
+11. If a limestone is metamorphosed into a marble, the ________ that made up the limestone will also make up the marble.
+a. minerals
+b. fossils
+c. laminations
+d. impurities
+ANS:ADIF:EasyREF:C.1
+
+12. Why is the rock cycle important?
+a. because it describes how water and rocks interact within Earth to produce melt
+b. because it describes how rocks move throughout Earth’s ocean basins
+c. because it explains how long rocks have existed on this planet
+d. because it explains how rocks are constantly changing from one type to another
+ANS:DDIF:ModerateREF:C.1
+
+13. If a rock is buried but not melted it will become a(n) ________ rock.
+a. igneous
+b. metamorphic
+c. sedimentary
+d. metasomatic
+ANS:BDIF:EasyREF:C.2
+
+14. If an igneous rock is heated and melted it will form a(n) ________ rock.
+a. igneous
+b. metamorphic
+c. sedimentary
+d. magmatic
+ANS:ADIF:ModerateREF:C.2
+
+15. What must happen in order to transform a metamorphic rock into a sedimentary rock?
+a. formation of a volcano
+b. mountain building
+c. burial of metamorphic rocks
+d. subduction of oceanic crust
+ANS:BDIF:ModerateREF:C.2
+
+16. What are the correct steps in the transformation of a sedimentary rock into a metamorphic rock?
+a. rock eroded away and deposited in ocean basin → rock pulled into subduction zone and melted
+b. rock eroded away and deposited in ocean basin → rock buried under many layers of sediments
+c. rock eroded away and deposited in ocean basin → volcano erupts through ocean floor and melts rocks
+d. rock eroded away and deposited in alluvial fan → rock buried deeply and melted by intrusion
+ANS:BDIF:ModerateREF:C.2
+
+17. Why does uplifting metamorphic rocks during mountain building lead to the formation of sedimentary rocks?
+a. because water cannot penetrate the ground
+b. because metamorphic rocks can only be eroded by air
+c. because the rocks become exposed to the elements and erode
+d. because metamorphic rocks are only found under mountains
+ANS:CDIF:DifficultREF:C.2
+
+18. The rate at which rocks follow the various pathways through the rock cycle is ________.
+a. usually slow
+b. usually fast
+c. always the same
+d. vastly different
+ANS:DDIF:ModerateREF:C.2
+
+19. The eruption and cooling of an igneous rock occurs ________, while the processes of erosion, deposition, and lithification happen ________.
+a. underground; above ground
+b. above ground; underground
+c. quickly; slowly
+d. slowly; quickly
+ANS:CDIF:EasyREF:C.2
+
+20. Which of the following scenarios would likely occur at a slower rate?
+a. erosion of an outcrop of quartz-cemented sandstone
+b. erosion of an outcrop of shale
+c. erosion of an outcrop of calcite-cemented sandstone
+d. erosion of an outcrop of rock salt
+ANS:ADIF:EasyREF:C.2
+
+21. Why have many Precambrian rocks remained unchanged for billions of years?
+a. They are so old that they have not had time to move past the first stage.
+b. They are protected within the interiors of the continents.
+c. They are only found in Antarctica and thus are not exposed to erosion.
+d. They are metamorphic rocks that are too hard to be transformed.
+ANS:BDIF:DifficultREF:C.2
+
+22. ________ rocks is controlled in some areas by the subduction of plates.
+a. Eroding
+b. Melting
+c. Depositing
+d. Weathering
+ANS:BDIF:EasyREF:C.3
+
+23. Many ________ processes are controlled by the Sun and gravity.
+a. igneous
+b. metamorphic
+c. sedimentary
+d. rock melting
+ANS:CDIF:ModerateREF:C.3
+
+24. The rock cycle does not occur on the Moon because ________.
+a. the Moon does not have gravity
+b. the Moon does not receive sunlight
+c. there is no plate tectonics on the Moon
+d. there are only sedimentary rocks on the Moon
+ANS:CDIF:DifficultREF:C.3
+
+25. Which of the following sources of energy is responsible for erosion?
+a. the Moon
+b. Earth’s internal heat
+c. gravity
+d. pressure
+ANS:BDIF:DifficultREF:C.3
+
+1. Why are there so few Precambrian-age rocks found on Earth?
+a. the Moon
+b. Earth’s internal heat
+c. gravity
+d. pressure
+ANS:
+
+2. Label the image below with the processes that occur along pathways in the rock cycle. Make sure that you label every arrow with the correct process.
+a. the Moon
+b. Earth’s internal heat
+c. gravity
+d. pressure
+ANS:
+
+3. Describe the changes that occur (i.e., what happens to the rock) along a pathway through the rock cycle as seen below: 
+a. the Moon
+b. Earth’s internal heat
+c. gravity
+d. pressure
+ANS:
+
+4. Describe how the rock cycle is linked to plate tectonics.
+a. the Moon
+b. Earth’s internal heat
+c. gravity
+d. pressure
+ANS:
+
+5. Describe how energy from the Sun and gravity are responsible for many sedimentary processes, such as weathering, erosion, deposition, and so on.

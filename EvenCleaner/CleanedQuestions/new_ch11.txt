@@ -1,0 +1,382 @@
+FIXED
+
+
+1. Earth is approximately how old?
+a. 14 billion years
+b. 4.54 billion years
+c. 40 million years
+d. 6,000 years
+ANS: B
+
+2. ________ provide evidence of past life, and thus help geologists understand how life, and the environments they lived in, changed throughout Earth’s history.
+a. Igneous rocks
+b. Fossils
+c. Faults
+d. Strata
+ANS: B
+
+3. Which of the following statements about the banded iron formations is true?
+a. The BIFs show evidence of an oxygen-poor atmosphere because all of the oxygen was dissolved into the oceans and then precipitated as iron-oxide minerals.
+b. The BIFs show evidence of an acidic ocean that forced iron to bond with the oxygen in the water to form iron-oxide minerals.
+c. The BIFs show evidence of an oxygen-poor ocean because all the oxygen was trapped in the iron-oxide minerals that make up the formation.
+d. The BIFs show evidence of an oxygen-rich atmosphere that forced the oceans to become oxidizing and precipitate iron-oxide minerals.
+ANS: D
+
+4. Rock chalk contains many tiny algae shells and shrimp feces. This is evidence of which depositional environment?
+a. lake
+b. forest
+c. ocean
+d. river
+ANS: C
+
+5. Which of the following would NOT be considered evidence for an orogeny?
+a. folded strata
+b. thrust faulting
+c. disconformities
+d. sedimentary basins
+ANS: C
+
+6. Which of the following includes evidence used to determine the age of an event?
+a. radiometric dating, thickness of beds, presence of aquifers
+b. fossils, stratigraphic relations, clasts size, radiometric dating
+c. clast size, roundness, mineral composition, permeability
+d. fossils, clasts size, mineral composition, porosity
+ANS:BDIF:ModerateREF:11.2 | 11.3 | 11.4 | 11.5 | 11.6
+
+7. During the Hadean Eon Earth’s surface was ________.
+a. hardened
+b. cratered
+c. molten
+d. frozen
+ANS: C
+
+8. True continental crust did not form until the ________ Eon, when Earth had finally cooled enough for protocontinents to form.
+a. Hadean
+b. Archean
+c. Mesozoic
+d. Proterozoic
+ANS: B
+
+9. The heavy bombardment was a time in which Earth was struck by many ________, which added ________ and kept the surface from cooling.
+a. meteorites; heat
+b. meteorites; iron
+c. comets; ice
+d. asteroids; silica
+ANS: A
+
+10. Where would you go today if you wanted to see a piece of the earliest continental crust?
+a. California
+b. Iceland
+c. Florida
+d. Canada
+ANS: D
+
+11. Why did it take so long for true crust to form on Earth?
+a. because Earth had to complete the differentiation process before rocks could form
+b. because temperatures were so high that any crust that did form was quickly remelted
+c. because there was no atmosphere on the planet and thus no air to cool the crust
+d. because heat from the creation of the magnetic field kept the surface molten
+ANS: B
+
+12. Stromatolites are layered structures produced by the activity of ________. 
+a. dinosaurs
+b. methanogens
+c. cyanobacteria
+d. green algae
+ANS: C
+
+13. The Great Oxygenation Event occurred ~2.5 Ga and forced large amounts of ________ to precipitate out of the ocean.
+a. oxygenated halite
+b. banded iron formation
+c. carbonate minerals
+d. carbon-rich coal
+ANS: B
+
+14. Oxygen in Earth’s atmosphere is derived from ________.
+a. volcanic outgassing
+b. photosynthesis
+c. animal respiration
+d. evaporation
+ANS: B
+
+15. Why did banded iron formations form between 2.4 and 1.8 Ga?
+a. The oceans became oversaturated in iron.
+b. The oceans began to absorb large amounts of oxygen.
+c. Cyanobacteria stopped using them as nutrients.
+d. A mass extinction released iron into the oceans.
+ANS: B
+
+16. Which eon saw the first single-celled organism?
+a. Proterozoic
+b. Archean
+c. Hadean
+d. Cenozoic
+ANS: B
+
+17. Which of the following images contains evidence of the earliest life to form on Earth?
+a. A
+b. B
+c. C
+d. D
+ANS: A
+
+18. The first pieces of true continental crust formed in the ________ Eon.
+a. Archean
+b. Hadean
+c. Proterozoic
+d. Phanerozoic
+ANS: A
+
+19. The earliest continental crust likely had a ________ composition.
+a. felsic
+b. intermediate
+c. mafic
+d. ultramafic
+ANS: C
+
+20. The Hadean was a time in Earth history when ________.
+a. the first abundant shelly organisms appeared in the fossil record
+b. Earth’s interior was so hot that a solid outer crust was quickly remelted
+c. stable continental interiors, termed cratons, first formed
+d. the dinosaurs appeared and came to dominate large-scale terrestrial life
+ANS: B
+
+21. According to the graph below, continental crust was mostly done forming by ________.
+a. the mid-Archean
+b. roughly 1 Ma
+c. roughly 4.5 Ga
+d. the early Proterozoic
+ANS: D
+
+22. Continental crust was only able to form once Earth’s temperature had cooled enough for partial melting of the mantle to occur and produce basalt that was buoyant enough to stay afloat. Before this point small rafts of thin crust formed and remelted in a continuous cycle. What was the composition of these rafts?
+a. mafic
+b. ultramafic
+c. felsic
+d. intermediate
+ANS: B
+
+23. The late Proterozoic Grenville orogeny is an event related to ________.
+a. uplift of the modern Rocky Mountains
+b. uplift of the ancestral Rocky Mountains
+c. assembly of the supercontinent Pangaea
+d. assembly of the supercontinent Rodinia
+ANS: D
+
+24. Rodinia and Pangaea are supercontinents that assembled during the ________ and ________, respectively.
+a. Hadean; Archean
+b. Archean; Proterozoic
+c. Proterozoic; Paleozoic
+d. Paleozoic; Mesozoic
+ANS: C
+
+25. After Rodinia separated, North America was included on the continent of ________.
+a. Gonawana
+b. Laurentia
+c. Pannotia
+d. Taconia
+ANS: B
+
+26. Of the major orogenies that formed the Appalachian Mountains, the ________ orogeny formed when North America and Africa collided.
+a. Taconic
+b. Caledonian
+c. Acadian
+d. Alleghanian
+ANS: D
+
+27. The first supercontinent, Rodinia, formed at the end of the ________.
+a. Hadean
+b. Precambrian
+c. Paleozoic
+d. Archean
+ANS: B
+
+28. Which of the Appalachian orogenies likely formed the largest mountain range?
+a. Taconic
+b. Caledonian
+c. Alleghanian
+d. Acadian
+ANS: C
+
+29. Cells that have a nucleus are called ________ life.
+a. prokaryotic
+b. eukaryotic
+c. archaea
+d. flagellum
+ANS: B
+
+30. The ________ occurred due to the creation of many new ecological niches that formed as a result of the breakup of Rodinia.
+a. Cambrian explosion
+b. Phanerozoic expansion
+c. Cambrian diversification
+d. Paleozoic diversification
+ANS: A
+
+31. Which of the following organisms first evolved during the Cambrian Explosion?
+a. cyanobacteria
+b. dinosaurs
+c. trilobites
+d. mammals
+ANS: C
+
+32. The eon represented by abundant deposits of strata with shelly fossils is the ________.
+a. Archean
+b. Hadean
+c. Proterozoic
+d. Phanerozoic
+ANS: D
+
+33. Why was the evolution of shells important for the diversification of life?
+a. Shells provide a food source for organisms higher on the food chain.
+b. Shells protect organisms from predators and environmental conditions.
+c. Shells provide protection from the highly acidic ocean water of the time.
+d. Shells provide a habitat for organisms and protect them from sunlight.
+ANS: B
+
+34. Dinosaurs first appeared during the ________ Period.
+a. Cambrian
+b. Devonian
+c. Permian
+d. Triassic
+ANS: D
+
+35. The first mammals appeared during the ________ Period.
+a. Cambrian
+b. Devonian
+c. Permian
+d. Triassic
+ANS: D
+
+36. Tree-sized relatives of the living ferns, club mosses, and scouring rushes were common in environments termed coal swamps during the ________ Period.
+a. Ordovician
+b. Carboniferous
+c. Jurassic
+d. Cretaceous
+ANS: B
+
+37. The fossil fish Tiktaalik made headlines in 2005 because it ________. 
+a. was preserved with a hook in its mouth and is the oldest evidence of human fishing
+b. was the largest shark ever recovered from the fossil record
+c. represents a transitional form between lobe-finned fish and terrestrial vertebrates
+d. was found alive in the modern deep ocean; previously, the fish was thought to be extinct
+ANS: C
+
+38. Why were mammals able to become the dominant species at the beginning of the Cenozoic?
+a. The mammals were finally able to grow legs and come out of the ocean to populate the land.
+b. The dinosaurs died off and the small rodent-like mammals of the Mesozoic evolved to fill the niche.
+c. The amphibians who first walked on land died out because it was too cold for them, after which mammals with fur took over.
+d. Mammals evolved from primates after the dinosaurs went extinct and became the top predator.
+ANS: B
+
+39. Did the dinosaurs walk on Pangea?
+a. Yes, some of them did, because Pangea did not break up until the Jurassic Period.
+b. No, Pangea broke apart at the end of the Permian before dinosaurs evolved.
+c. Yes, Pangea formed in the Permian and broke apart at the end of the Cretaceous.
+d. Yes, the meteorite impact that killed the dinosaurs was responsible for breaking up Pangea.
+ANS: A
+
+40. The most recent interval of Quaternary glaciation gave way to warmer, interglacial conditions ________ ago.
+a. 1 million years
+b. 200,000 years
+c. 75,000 years
+d. 11,000 years
+ANS: D
+
+41. The ________ seas were shallow inland seas that covered much of early Earth, including North America, and hosted much of the evolving life for many millions of years.
+a. epierogenic
+b. epicontinental
+c. tethys
+d. iapetus
+ANS: B
+
+42. Evidence of ________ preserved in the rock record are the existence of multiple shallow inland seas.
+a. sea-level rise and fall
+b. compression and extension
+c. reptiles and mammals
+d. fish and insects
+ANS: A
+
+43. Rocks containing many of the earliest examples of evolving life are found in the ________ of North America because they were formed in shallow ________ seas.
+a. center; active margin
+b. center; epierogenic
+c. edges; passive margin
+d. edges; epicontinental
+ANS: D
+
+44. The Western Interior Seaway reached its greatest level of continental inundation during the ________ Period.
+a. Ordovician
+b. Carboniferous
+c. Jurassic
+d. Cretaceous
+ANS: D
+
+45. Throughout Earth’s history North America has hosted shallow inland seas. Why is the interior of North America dry today?
+a. The North American continental crust has thickened significantly since the last inland sea.
+b. Sea level has lowered significantly since the last inland sea due to glaciation.
+c. The volume of the ocean basins has decreased due to a reduction in the seafloor spreading rate.
+d. There is a much higher percentage of oceanic crust today, which has increased the capacity of the oceans.
+ANS: A
+
+46. The Himalayas were produced during the Cenozoic by the collision of southern Asia with ________.
+a. India
+b. Australia
+c. Africa
+d. South America
+ANS: A
+
+47. The Basin and Range Province contains an alternating series of fault-block mountains and basins created by ________ of the continent.
+a. compression
+b. transpression
+c. extension
+d. collision
+ANS: C
+
+48. Fault-block mountains, like those in the Basin and Range Province, are created when blocks rotate ________ along ________ faults.
+a. up; reverse
+b. up; normal
+c. down; reverse
+d. down; normal
+ANS: D
+
+49. The Taconic, Acadian, and Alleghenian orogenic events all led to uplift in the region of the modern ________.
+a. Rockies
+b. Appalachians
+c. Alps
+d. Himalayas
+ANS: B
+
+50. Convergence along the western margin of North America during the Cenozoic gave way to rifting forces that created the characteristic topography of the ________.
+a. Coast Ranges
+b. Basin and Range Province
+c. Colorado Plateau
+d. Columbia Plateau
+ANS: B
+
+1. Describe how fossils can be used to interpret the geologic history of an area.
+a. Coast Ranges
+b. Basin and Range Province
+c. Colorado Plateau
+d. Columbia Plateau
+ANS:
+
+2. What caused the buildup of oxygen in the atmosphere at roughly 2.5 Ga?
+a. Coast Ranges
+b. Basin and Range Province
+c. Colorado Plateau
+d. Columbia Plateau
+ANS:
+
+3. Describe the circumstances that led to the formation of true continental crust during the Archean.
+a. Coast Ranges
+b. Basin and Range Province
+c. Colorado Plateau
+d. Columbia Plateau
+ANS:
+
+4. How were mammals able to take over as the dominant class of organisms on Earth?
+a. Coast Ranges
+b. Basin and Range Province
+c. Colorado Plateau
+d. Columbia Plateau
+ANS:
+
+5. List the major orogenies that formed the Appalachian Mountains in eastern North America. Then explain which orogeny likely produced the largest mountain range, and why.

@@ -1,0 +1,382 @@
+FIXED
+
+
+1. ________ glaciers cover vast areas of land, whereas ________ glaciers are restricted to mountaintops.
+a. Alpine; continental
+b. Continental; alpine
+c. Piedmont; cirque
+d. Piedmont; valley
+ANS: B
+
+2. At the present, glaciers cover about ________ of the surface of the continents.
+a. 1%
+b. 5%
+c. 10%
+d. 20%
+ANS: C
+
+3. An intermediate product in the transformation of snow to glacial ice is ________.
+a. firn
+b. deposition
+c. ablation
+d. terminus
+ANS: A
+
+4. ________ involves the internal flowing of ice under, generally, solid conditions, via the breaking and reforming of chemical bonds.
+a. Brittle flowing
+b. Basal sliding
+c. Plastic deformation
+d. Plastic sliding
+ANS: C
+
+5. Glaciers that move via basal sliding can often undergo surges in which they move at a much faster rate than normal because they ________.
+a. are not slowed down by plastic deformation
+b. float on a cushion of air like avalanches
+c. have minimal frictional contact with bedrock
+d. have a larger volume than other glaciers
+ANS: C
+
+6. Glacial ice forms when snow accumulates in large enough volumes to compact and force ________ out and ________ the ice crystal size.
+a. air; increase
+b. water; increase
+c. air; decrease
+d. water; decrease
+ANS: A
+
+7. The polar ice caps on Mars are an example of what type of glacier?
+a. continental
+b. cirque
+c. piedmont
+d. valley
+ANS: A
+
+8. The central glacier in the figure below once stretched all the way to the farthest ground moraine. What type of glacier was it? 
+a. a continental glacier
+b. a cirque glacier
+c. a piedmont glacier
+d. an ice cap
+ANS: C
+
+9. Which of the following images shows the oldest snow?
+a. A
+b. B
+c. C
+d. D
+ANS: D
+
+10. At depths of greater than 60, ice moves by plastic deformation. What causes this transition from brittle to ductile behavior?
+a. An increase in temperature causes the glacier to melt and slide.
+b. An increase in pressure increases friction and melts the ice.
+c. An increase in the pressure allows for only minute deformation.
+d. A decrease in the amount of trapped sediments allows more flow.
+ANS: C
+
+11. Cirques and horns are features associated with ________.
+a. mountain glaciation
+b. continental glaciation
+c. glacial outwash deposits
+d. loess deposits
+ANS: A
+
+12. Valleys carved by glaciers tend to be shaped like the letter ________, whereas valleys carved by water tend to be shaped like the letter ________.
+a. V; U
+b. V; C
+c. U; V
+d. V; I
+ANS: C
+
+13. Glacial ice exhibits ________ behavior near the top but ________ behavior beneath a depth of 60 m.
+a. brittle; plastic
+b. plastic; brittle
+c. solid; liquid
+d. plastic; elastic
+ANS: A
+
+14. Currently, almost all the glaciers on Earth are in a state of retreat, which means that the rate of ________ is less than the rate of ________.
+a. accumulation; ablation
+b. ablation; accumulation
+c. formation; sublimation
+d. calving; advance
+ANS: A
+
+15. ________ are formed when one glacier beheads another.
+a. Piedmont glaciers
+b. Hanging valleys
+c. U-shaped valleys
+d. Roche moutonée
+ANS: B
+
+16. A glacier will always advance from its source area if the rate of accumulation is greater than the rate of ________.
+a. subsidence
+b. erosion
+c. ablation
+d. uplift
+ANS: C
+
+17. In the movie Ice Age: The Meltdown, there is a large wall of ice that begins to melt and finally breaks, causing a large flood. On what real-life geologic event was this part of the movie based?
+a. the destruction of Glacial Lake Missoula
+b. the formation of the Great Salt Lake
+c. the breakup of the Ross Ice Shelf
+d. the draining of Lake Bonneville
+ANS: A
+
+18. You are hiking in your favorite forest when you encounter a surface that appears to have very fine scratches in it. What are these features?
+a. glacial till
+b. moraines
+c. striations
+d. scour marks
+ANS: C
+
+19. Which types of features would you find in a glacially carved landscape?
+a. eskers, drumlins, cirques, and kettles
+b. cirques, arêtes, horns, and striations
+c. cirques, arêtes, kettles, and tarns
+d. drumlins, ground moraines, and arêtes
+ANS: B
+
+20. Which of the following scenarios would lead to glacial advance during a time of global warming?
+a. a glacier in a depression that lies in shadows most of the day
+b. a glacier in a valley on the leeward side of a mountain range
+c. a glacier that caps the highest mountain on the planet
+d. a continental glacier that covers an entire continent
+ANS: A
+
+21. Sediments deposited directly by glaciers as they melt are characterized by ________.
+a. uniformly coarse grain size
+b. uniformly fine grain size
+c. an absence of sorting
+d. graded bedding
+ANS: C
+
+22. Sediments deposited directly by glaciers as they melt are termed ________.
+a. firn
+b. loess
+c. outwash
+d. till
+ANS: D
+
+23. Wind blows finer particles long distances from glacial environments, where they settle out to form ________.
+a. firn
+b. loess
+c. outwash
+d. till
+ANS: B
+
+24. Cirques, horns, and arêtes form from glacial ________, whereas moraines, erratics, and till form from glacial ________.
+a. erosion; deposition
+b. deposition; carving
+c. retreat; advance
+d. erosion; sublimation
+ANS: A
+
+25. ________ can be recognized as a series of U-shaped hills that are lined up and represent the ________ of the glacier.
+a. Terminal moraines; advance
+b. Varves; advance
+c. Drumlins; retreat
+d. Recessional moraines; retreat
+ANS: D
+
+26. Stratified sorted sand and gravel are deposited by ________.
+a. mountain glaciers
+b. continental glaciers
+c. glacial outwash streams
+d. windstorms
+ANS: C
+
+27. What types of moraines are shown in the figure below? 
+a. medial
+b. terminal
+c. lateral
+d. recessional
+ANS: A
+
+28. Identify the farthest reach of the glacier in the figure below.
+a. E
+b. C
+c. G
+d. F
+ANS: A
+
+29. Which of the following figures is of glacial lake-bed deposits?
+a. a
+b. b
+c. c
+d. d
+ANS: A
+
+30. If glaciers carry a mixture of different clast sizes, why are glacial outwash deposits layered?
+a. because clasts fall out of the glacier in size progression
+b. because gravity pulls out only the smallest particles
+c. because glacial outwash is formed from the bottom of the glacier
+d. because the glacier does not deposit the sediments; the river does
+ANS: D
+
+31. ________ glaciers during the Pleistocene Ice Age stretched all the way to Illinois, Kansas, and Nebraska.
+a. Mountain
+b. Piedmont
+c. Alpine
+d. Continental
+ANS: D
+
+32. ________ decreases as glaciers form.
+a. Albedo
+b. Rainfall
+c. Sea level
+d. Sublimation
+ANS: C
+
+33. Today, continental glaciers are limited to Antarctica and ________.
+a. Alaska
+b. Greenland
+c. Canada
+d. Siberia
+ANS: B
+
+34. During the last ice age, a ________ glacier covered much of the northern United States.
+a. piedmont
+b. cirque
+c. mountain
+d. continental
+ANS: D
+
+35. During the Pleistocene Ice Age, glaciers covered most of the ________ and contained several ________ centers.
+a. Northern Hemisphere; accumulation
+b. Northern Hemisphere; ablation
+c. Southern Hemisphere; accumulation
+d. Southern Hemisphere; ablation
+ANS: A
+
+36. A(n) ________ in eustatic sea level is ultimately the result of a ________ event.
+a. increase; global cooling
+b. increase; local uplift
+c. decrease; subsidence
+d. decrease; global cooling
+ANS: D
+
+37. Sea level ________ during glacials and ________ during interglacials.
+a. decreases; increases
+b. increases; decreases
+c. remains constant; decreases
+d. decreases; remains constant
+ANS: A
+
+38. During the Pleistocene Ice Age glaciers reached as far south as ________.
+a. Ontario, Canada
+b. Illinois, USA
+c. Beijing, China
+d. Tennessee, USA
+ANS: B
+
+39. Which of the following images shows evidence of the rising of sea level?
+a. A
+b. B
+c. C
+d. D
+ANS: B
+
+40. You find evidence of changes in sea level along a coastline. How can you tell if they are the results of glaciers?
+a. Look for evidence of glacial till in the form of moraines, drumlins, kettle lakes, or stratified glacial outwash sediment.
+b. Determine if the sea level changes coincide with the advance of glaciers in the mountains nearest to the coastline.
+c. Determine the timing of the changes in sea level and look for evidence of changes in sea level in other places around the world.
+d. Determine if the area contains evidence of glacial erosion such as U-shaped valleys, striations, erratics, and rock flour.
+ANS: C
+
+41. Ice is a substance with a high albedo, which means it ________.
+a. requires much heat to raise its temperature by 1°C
+b. absorbs most of the light that falls on it
+c. reflects most of the light that falls on it
+d. strongly refracts the light that falls on it
+ANS: C
+
+42. The Milankovitch Cycles describe the relation of Earth and the ________, which affects the amount of insolation Earth receives.
+a. time of day
+b. ecliptic plane
+c. Moon
+d. Sun
+ANS: D
+
+43. There have been ________ to ________ ice ages in Earth’s history, with the latest one occurring in the ________.
+a. four; five; Pleistocene Period
+b. five; six; Pleistocene Period
+c. four; five; Proterozoic Era
+d. five; six; Cenozoic Era
+ANS: B
+
+44. An important long-term factor that determines whether glacial ice will form on a continent has likely been the proportion of which gas in the atmosphere?
+a. oxygen
+b. nitrogen
+c. carbon dioxide
+d. carbon monoxide
+ANS: C
+
+45. By increasing the albedo of Earth, global ice sheets produce conditions that are ________ to their further advance, thus providing an example of ________ feedback.
+a. detrimental; positive
+b. detrimental; negative
+c. favorable; positive
+d. favorable; negative
+ANS: C
+
+46. The Milankovitch cycles describe the change in ________ because of changes in the ________ of Earth relative to the Sun.
+a. greenhouse gases; tilt
+b. eccentricity; orientation
+c. albedo; precession
+d. solar insolation; orientation
+ANS: D
+
+47. Which of the following would lead to an increase in the temperature of Earth?
+a. an increase in volcanic ash in the atmosphere
+b. the growth of massive areas of forested land
+c. a reduction in the square footage of glaciers on Earth
+d. a change in the angle of Earth’s tilt to 22.5 degrees
+ANS: C
+
+48. The loss of rain forests would ________ the greenhouse gases, thereby ________ global warming.
+a. increase; increasing
+b. increase; decreasing
+c. decrease; increasing
+d. decrease; decreasing
+ANS: A
+
+49. If a volcano were to erupt and release large amounts of ash into the air, how would this affect the climate on Earth?
+a. The ash would increase the albedo and decrease the global temperature.
+b. The ash would decrease the albedo and increase the global temperature.
+c. The ash would increase the greenhouse gases, thus increasing temperature.
+d. The ash would decrease the greenhouse gases, thus decreasing temperature.
+ANS: A
+
+50. The Mars rover Curiosity has recently found evidence that there was liquid water on the planet’s surface at some point in its history. Because we have not found any liquid water on the planet today, what does this imply about Mars?
+a. The planet was once covered entirely in liquid water.
+b. A drought must have removed all the water from the surface.
+c. The climate was once warm enough that the polar ice caps melted.
+d. The interior of Mars must be made entirely of liquid water.
+ANS: C
+
+1. Label the glaciers in the image below using words from the word bank included (hint: not all the names will be used).
+a. The planet was once covered entirely in liquid water.
+b. A drought must have removed all the water from the surface.
+c. The climate was once warm enough that the polar ice caps melted.
+d. The interior of Mars must be made entirely of liquid water.
+ANS:
+
+2. What are the circumstances that lead to glacial advance versus glacial retreat? Most glaciers today are in retreat. What does this imply about the glaciers and their environment?
+a. The planet was once covered entirely in liquid water.
+b. A drought must have removed all the water from the surface.
+c. The climate was once warm enough that the polar ice caps melted.
+d. The interior of Mars must be made entirely of liquid water.
+ANS:
+
+3. Explain why the deposits made by glacial outwash are stratified.
+a. The planet was once covered entirely in liquid water.
+b. A drought must have removed all the water from the surface.
+c. The climate was once warm enough that the polar ice caps melted.
+d. The interior of Mars must be made entirely of liquid water.
+ANS:
+
+4. Draw a representative eustatic sea level curve you would expect to see for a world that experienced two glacials and three interglacials. Make sure to label your axes and the glacials and interglacials on the graph.
+a. The planet was once covered entirely in liquid water.
+b. A drought must have removed all the water from the surface.
+c. The climate was once warm enough that the polar ice caps melted.
+d. The interior of Mars must be made entirely of liquid water.
+ANS:
+
+5. List and describe one short-term cause for glaciations.

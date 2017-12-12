@@ -1,0 +1,382 @@
+FIXED
+
+
+1. Preexisting rock that is subsequently altered to form a metamorphic rock is termed a ________.
+a. xenolith
+b. source rock
+c. protolith
+d. phenocryst
+ANS: C
+
+2. ________ commonly serves as a protolith in the formation of quartzite.
+a. Limestone
+b. Sandstone
+c. Shale
+d. Slate
+ANS: B
+
+3. ________ commonly serves as a protolith in the formation of slate.
+a. Limestone
+b. Sandstone
+c. Shale
+d. Basalt
+ANS: C
+
+4. Broadly, metamorphism involves ________.
+a. the settling of crystals in a melt as it cools
+b. the sorting of grains by size, as accomplished by rivers and beach waves
+c. the cementation of loose grains and the precipitation of new minerals into pore spaces
+d. changes in mineralogy and texture in response to heat and stress
+ANS: D
+
+5. The blueschist facies is a metamorphic realm of ________.
+a. high temperature and pressure
+b. low temperature and pressure
+c. high temperature but relatively low pressure
+d. high pressure but relatively low temperature
+ANS: D
+
+6. Which of the following processes CANNOT occur in the formation of metamorphic rock?
+a. the realignment of minerals so that they develop a preferred orientation
+b. the segregation of minerals into layers of different compositions
+c. the solid-state rearrangement of atoms or ions to create a new assemblage of minerals
+d. complete remelting of the rock, followed by solidification to form a new rock
+ANS: D
+
+7. A buried body of shale is subjected to differential stress, causing clay minerals to realign and produce slate. This is an example of ________.
+a. diagenesis
+b. erosion
+c. metamorphism
+d. weathering
+ANS: C
+
+8. Clay minerals within a buried body of slate are recrystallized at high temperatures and pressures to form mica, producing a rock called phyllite. This is an example of ________.
+a. diagenesis
+b. erosion
+c. metamorphism
+d. weathering
+ANS: C
+
+9. Which list properly orders metamorphic rocks from lowest grade to highest grade?
+a. conglomerate, sandstone, siltstone, and shale
+b. shale, slate, phyllite, and quartzite
+c. slate, phyllite, schist, and gneiss
+d. gneiss, phyllite, schist, and slate
+ANS: C
+
+10. The mineral assemblage within metamorphic rock is ________.
+a. always identical to that found within its protolith
+b. dependent only on the mineral assemblage of its protolith
+c. dependent only on the temperature and pressure of formation
+d. dependent on both the mineral content of its protolith and the temperature and pressure of formation
+ANS: D
+
+11. The net chemical change in metamorphic rock induced by a reaction with hot groundwater is termed ________.
+a. foliation
+b. metasomatism
+c. anachronism
+d. hydrosomatism
+ANS: B
+
+12. Foliation is the alignment of ________ in a metamorphic rock.
+a. minerals
+b. strata
+c. stress
+d. facies
+ANS: A
+
+13. Metamorphism occurs at temperatures between ________ and ________.
+a. diagenesis; lithification
+b. diagenesis; melting
+c. magmatism; sedimentation
+d. melting; pressure solution
+ANS: B
+
+14. Which of the following processes CANNOT induce metamorphism?
+a. contact with a hot pluton
+b. contact with hydrothermal fluids
+c. heat and pressure associated with deep burial
+d. cementation and compaction of grains during diagenesis
+ANS: D
+
+15. The application of ________ during metamorphism causes elongated crystals to align parallel with each other. When this happens, the rock develops ________.
+a. pressure; a homogeneous texture
+b. differential stress; foliation
+c. high temperatures; foliation
+d. pressure; foliation
+ANS: B
+
+16. Preferential stress will cause crystals to rotate into a preferred orientation unless the crystals are ________.
+a. primarily mica
+b. platy
+c. equant
+d. elongate
+ANS: C
+
+17. The image below shows ________.
+a. foliation
+b. migmatites
+c. pressure solution
+d. metasomatism
+ANS: A
+
+18. Clay minerals within a slate are changed into mica minerals due to the application of heat to a rock. This is an example of ________
+a. pressure solution
+b. neocrystallization
+c. plastic deformation
+d. phase change
+ANS: B
+
+19. Spreading peanut butter on bread is an application of ________.
+a. compressive stress
+b. pressure
+c. shear stress
+d. metasomatism
+ANS: C
+
+20. The figure below shows the application of ________.
+a. tension
+b. pressure
+c. tensional stress
+d. shear stress
+ANS: D
+
+21. Heating up a rock causes the atoms in the rock to vibrate and break their bonds. The atoms can then move slightly and create new bonds with nearby atoms. This process is called ________.
+a. preferred orientation
+b. solid-state diffusion
+c. plastic deformation
+d. melting
+ANS: B
+
+22. The development of a preferred orientation of large, flaky mica crystals within metamorphic rock is termed ________.
+a. slaty cleavage
+b. phyllitic luster
+c. schistosity
+d. compositional banding
+ANS: C
+
+23. ________ commonly serves as a protolith in the formation of marble.
+a. Limestone
+b. Sandstone
+c. Shale
+d. Gneiss
+ANS: A
+
+24. Foliated metamorphic rocks possess ________.
+a. leafy plant fossils (ancient foliage)
+b. a homogeneous texture resulting from randomly oriented grains
+c. mineral grains in preferred orientations or patterns of association (banding)
+d. minerals precipitated directly from seawater
+ANS: C
+
+25. In the formation of gneiss from granite, distinctive compositional bands form because of ________.
+a. crystals migrating within the rock
+b. crystals dissolving, with atoms and ions migrating and reorganizing as new crystals
+c. crystals melting, with new crystals solidifying in color bands
+d. chemical reactions with groundwater
+ANS: B
+
+26. Slaty cleavage, schistosity, and compositional banding are all examples of ________.
+a. mineral cleavage
+b. foliation
+c. recrystallization
+d. metamorphic facies
+ANS: B
+
+27. Rocks subjected to ________ feel a squeezing motion.
+a. metasomatism
+b. diagenesis
+c. compression
+d. extension
+ANS: C
+
+28. If mineral grains have been smeared out, the rock was subjected to ________.
+a. shear
+b. compression
+c. tension
+d. extension
+ANS: A
+
+29. What was the direction of compression that formed the foliation in the image below?
+a. top and bottom, pressing inward
+b. both sides, pressing inward
+c. top and bottom, pulling outward
+d. in and out of the image, pulling outward
+ANS: A
+
+30. Marble and quartzite are nonfoliated rocks because ________.
+a. they are never found beneath fault zones or collisional mountain ranges
+b. both are dominated by minerals that produce equant grains
+c. both are dominated by minerals with crystalline structures that cannot be dissolved
+d. dynamothermal metamorphism can break down the structures of their constituent minerals, but neither of these minerals is stable in that metamorphic environment
+ANS: B
+
+31. Consult the figure below. The region of thermally metamorphosed rock surrounding a cooled pluton is called a(n) ________.
+a. shear zone
+b. aureole
+c. chilled margin
+d. metamorphic ring
+ANS: B
+
+32. Thermal (contact) metamorphism occurs ________.
+a. in areas surrounding igneous intrusions
+b. only where gneiss is in contact with schist
+c. as a consequence of the sinking of a broad region to great depth
+d. only at the surface, where rock is in contact with the atmosphere
+ANS: A
+
+33. Regional metamorphism ________.
+a. takes place at cool temperatures and low pressure
+b. takes place at cool temperatures but high pressure
+c. is another name for thermal metamorphism
+d. is another name for dynamothermal metamorphism
+ANS: D
+
+34. Dynamothermal (regional) metamorphism occurs when ________.
+a. rock becomes deeply buried during continental collision and mountain building
+b. regression of the sea leads to erosion of sedimentary cover on a body of rock
+c. the upper surface of a body of rock develops a thick soil profile
+d. a pluton causes metamorphism in a small surrounding region
+ANS: A
+
+35. The rapid, deep burial of sediments in an accretionary prism leads to the formation of a metamorphic rock termed ________.
+a. blueschist
+b. greenschist
+c. migmatite
+d. gneiss
+ANS: A
+
+36. The rock hornfel is often formed due to ________ metamorphism.
+a. dynamothermal
+b. hydrothermal
+c. dynamic
+d. thermal
+ANS: D
+
+37. ________ metamorphism affects the greatest volumes of rock and produces the greatest variety in metamorphic rock types.
+a. Thermal
+b. Dynamothermal
+c. Dynamic
+d. Shock
+ANS: B
+
+38. Thermal (contact) metamorphism produces ________.
+a. foliated rocks only
+b. nonfoliated rocks only
+c. both foliated and nonfoliated rocks
+d. Thermal metamorphism does not produce any metamorphic rocks.
+ANS: B
+
+39. Mylonites, formed from dynamic metamorphism, typically do NOT display ________.
+a. foliation roughly parallel to a fault
+b. very fine grains
+c. shear zones
+d. bands of randomly oriented mica grains
+ANS: D
+
+40. Within a single mountain range, ________.
+a. only low-grade metamorphic rocks are likely to be found
+b. only high-grade metamorphic rocks are likely to be found
+c. only nonfoliated metamorphic rocks are likely to be found
+d. it is possible to find a variety of metamorphic rocks produced in distinct facies, including high-, intermediate-, and low-grade rocks
+ANS: D
+
+41. Two common metamorphic rocks that typically lack foliation are ________ and ________.
+a. slate; phyllite
+b. gneiss; migmatite
+c. quartzite; marble
+d. schist; metaconglomerate
+ANS: C
+
+42. ________ is a common foliated metamorphic rock.
+a. Marble
+b. Gneiss
+c. Hornfel
+d. Diorite
+ANS: B
+
+43. Which of the following is a high-grade metamorphic rock?
+a. quartzite
+b. slate
+c. gneiss
+d. schist
+ANS: C
+
+44. Geologists classify metamorphic rocks according to ________.
+a. whether they are foliated
+b. whether they contain pseudomorphs
+c. the percentage of silica
+d. the size of their crystals
+ANS: A
+
+45. Nonfoliated metamorphic rocks are classified based on their ________.
+a. metamorphic texture
+b. mineral composition
+c. percentage of preferred orientation
+d. proximity to the metamorphic source
+ANS: B
+
+46. What is a primary difference between phyllite and schist?
+a. Schist contains mica, whereas phyllite contains only clay.
+b. Phyllite contains mica, whereas schist contains only clay.
+c. Mica crystals within schist are larger than those within phyllite.
+d. Mica crystals within phyllite are larger than those within schist.
+ANS: C
+
+47. Which of the following images is of a foliated metamorphic rock?
+a. A
+b. B
+c. C
+d. D
+ANS: B
+
+48. Which of the following processes is NOT involved directly with the creation of foliation?
+a. recrystallization
+b. preferential stress
+c. compression
+d. shear stress
+ANS: A
+
+49. A geologist finds a nonfoliated metamorphic rock that is composed entirely of calcite. What is the name of the rock?
+a. hornfels
+b. slate
+c. quartzite
+d. marble
+ANS: D
+
+50. Foliated rock is created by a preferential stress oriented ________ the foliation.
+a. the same way as
+b. diagonally to
+c. perpendicular to
+d. parallel to
+ANS: C
+
+1. Metamorphism includes a solid-state change in a rock due to heat, pressure, and/or hydrothermal fluids. Explain what is meant by solid-state change.
+a. the same way as
+b. diagonally to
+c. perpendicular to
+d. parallel to
+ANS:
+
+2. Describe the resulting metamorphism that occurs next to an igneous intrusion.
+a. the same way as
+b. diagonally to
+c. perpendicular to
+d. parallel to
+ANS:
+
+3. Draw the orientation of the preferential stress that created the foliation in the image below.
+a. the same way as
+b. diagonally to
+c. perpendicular to
+d. parallel to
+ANS:
+
+4. During dynamothermal metamorphism several metamorphic processes are at work. Describe these processes and what effect they might have on the rocks subjected to metamorphism.
+a. the same way as
+b. diagonally to
+c. perpendicular to
+d. parallel to
+ANS:
+
+5. Metamorphic grade describes the intensity or degree of metamorphism. The metamorphic grade of a rock is determined mainly by the temperature and amount of recrystallization or neocrystallization to which a rock is subjected. List the following rocks in order from low-grade to high-grade metamorphic rocks and then describe the changes seen in the suite of rocks as the grade is increased: gneiss, slate, schist, phyllite, and migmatite.
